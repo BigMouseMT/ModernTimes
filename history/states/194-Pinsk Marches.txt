@@ -1,0 +1,24 @@
+
+state={
+	id=194
+	name="STATE_194" 
+	manpower = 230000
+	
+	state_category = town
+
+	history={
+		owner = BLR
+		buildings = {
+			infrastructure = 4
+		}
+				victory_points = {
+			560 5
+		}
+ 
+		add_core_of = BLR
+	}
+
+	provinces={
+	560 6415 
+	}
+}

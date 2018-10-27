@@ -1,0 +1,29 @@
+
+state={
+	id=771
+	name="STATE_771"
+	manpower = 740000
+	
+	state_category = city
+
+	history={
+		owner = BLR
+		buildings = {
+			infrastructure = 6
+		}
+				victory_points = {
+			3350 5
+		}
+	victory_points = {
+				3293 5
+						}
+	victory_points = {
+				6319 5
+										}
+		add_core_of = BLR
+	}
+
+	provinces={
+ 3293 6373 331 386 3350 6319
+	}
+}

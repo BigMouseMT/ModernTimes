@@ -1,0 +1,19 @@
+state={
+	id=94
+	name="STATE_94"
+  manpower= 260000
+	history={
+		owner = BLR
+		buildings = {
+			infrastructure = 3
+
+		}
+ 
+		add_core_of = BLR
+	}
+
+	provinces={
+   3556 9554 6556 6579
+	}
+	state_category=rural
+}
