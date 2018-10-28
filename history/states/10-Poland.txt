@@ -1,14 +1,14 @@
 state={
 	id=10
 	name="STATE_10"
-	manpower = 3089000
+	manpower = 5089000
 
-	state_category = large_city
+	state_category = metropolis
 
 	history={
 		owner = POL
 		victory_points = {
-			3544 20 
+			3544 50 
 		}
 		buildings = {
 			infrastructure = 7

@@ -1,0 +1,29 @@
+
+state={
+	id=780
+	name="STATE_780"
+	manpower = 730660
+	resources={
+		steel=2 # was: 3
+	}
+	state_category = city
+	history={
+		owner = POL
+		victory_points = {
+ 
+			279 10
+		}
+				victory_points = {
+			3230 5 
+ 
+		}
+		buildings = {
+			infrastructure = 8
+		}
+		add_core_of = POL
+	}
+
+	provinces={
+	  6347 3230 548 6401 11515 243 279 3324 3295 
+	}
+}

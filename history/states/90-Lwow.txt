@@ -11,6 +11,12 @@ state={
 
 	history={
 		owner = POL
+					victory_points = {
+			11430 5
+		}
+							victory_points = {
+			562 1
+		}
 		buildings = {
 			infrastructure = 6
 		}

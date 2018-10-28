@@ -1,0 +1,27 @@
+
+state={
+	id=774
+	name="STATE_774"
+	manpower =580292
+	resources={
+		steel=1 # was: 2
+	}
+	
+	state_category = city
+	
+	history={
+		owner = LAT
+		victory_points = {
+			310 1 
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 3
+		}
+		add_core_of = LAT
+	}
+
+	provinces={
+   310 6459 9275 341 222 319 3298 11302 11222 11358 7482
+	}
+}
