@@ -1,0 +1,27 @@
+state={
+	id=823
+	name="STATE_823"
+
+	history={
+		owner = ARM
+		victory_points = {
+			3564 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+
+		}
+		add_core_of = AZR
+ 
+ 
+
+	}
+
+	provinces={
+		3564
+	}
+	manpower=1250082
+	state_category=town
+}

@@ -1,0 +1,26 @@
+state={
+	id=827
+	name="STATE_827"
+ 
+
+	history={
+		owner = AZR
+		victory_points = {
+			6763 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+
+		}
+		add_core_of = AZR
+
+	}
+
+	provinces={
+	 6763
+	}
+	manpower= 50000
+	state_category= town
+}

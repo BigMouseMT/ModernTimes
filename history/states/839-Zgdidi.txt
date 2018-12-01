@@ -1,0 +1,26 @@
+state={
+	id=839
+	name="STATE_839"
+
+	history={
+		owner = GEO
+		victory_points = {
+			772 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+ 
+
+		}
+		add_core_of = GEO
+
+	}
+
+	provinces={
+	 772 654 13240 672
+	}
+	manpower= 100000
+	state_category=town
+}
