@@ -8,15 +8,15 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = rural
 	history={
-		owner = XSM
-		add_core_of = XSM
-		add_core_of = CHI
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = PRC
 		add_core_of = PRC
 		victory_points = {
 			12732 3 
 		}
 		buildings = {
-			infrastructure = 1
+			inPRCstructure = 1
 			industrial_complex = 1
 			arms_factory = 1
 
@@ -29,7 +29,7 @@ state={
 					}
 
 				}
-				CHI = {
+				PRC = {
 					transfer_state = PREV
 
 				}

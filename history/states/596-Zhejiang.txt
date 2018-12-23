@@ -6,8 +6,8 @@ state=
 	state_category = city
 	history=
 	{
-		owner = CHI
-		add_core_of = CHI
+		owner = PRC
+		add_core_of = PRC
 		add_core_of = PRC
 		
 		victory_points = { 
@@ -18,7 +18,7 @@ state=
 		}
 		
 		buildings = {
-			infrastructure = 4
+			inPRCstructure = 4
 
 			7191 = {
 				naval_base = 1
@@ -38,7 +38,7 @@ state=
 		}
 
 		1938.10.25 = {		
-			JAP = {
+			PRC = {
 				set_province_controller = 1055
 				set_province_controller = 1096
 				set_province_controller = 4042

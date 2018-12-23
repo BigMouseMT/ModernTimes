@@ -3,15 +3,15 @@ state={
 	name="STATE_604"
 
 	history={
-		owner = XSM
-		add_core_of = XSM
-		add_core_of = CHI
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = PRC
 		add_core_of = PRC
 		victory_points = {
 			7940 10 
 		}
 		buildings = {
-			infrastructure = 1
+			inPRCstructure = 1
 			industrial_complex = 2
 
 		}
@@ -23,7 +23,7 @@ state={
 					}
 
 				}
-				CHI = {
+				PRC = {
 					transfer_state = PREV
 
 				}

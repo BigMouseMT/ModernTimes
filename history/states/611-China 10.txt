@@ -7,12 +7,12 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = MEN
-		add_core_of = MEN
-		add_core_of = CHI
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = PRC
 		add_core_of = PRC
 		buildings = {
-			infrastructure = 3
+			inPRCstructure = 3
 			industrial_complex = 1
 		}
 		victory_points = {

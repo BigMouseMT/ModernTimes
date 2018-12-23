@@ -6,15 +6,15 @@ state={
 	}
 
 	history={
-		owner = YUN
-		add_core_of = YUN
-		add_core_of = CHI
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = PRC
 		add_core_of = PRC
 		victory_points = {
 			1319 10 
 		}
 		buildings = {
-			infrastructure = 3
+			inPRCstructure = 3
 			arms_factory = 1
 			industrial_complex = 3
 
@@ -27,7 +27,7 @@ state={
 					}
 
 				}
-				CHI = {
+				PRC = {
 					transfer_state = PREV
 
 				}

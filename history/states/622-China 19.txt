@@ -9,13 +9,13 @@ state={
 	history={
 		owner = PRC
 		add_core_of = PRC
-		add_core_of = CHI
+		add_core_of = PRC
 		add_core_of = PRC
 		victory_points = {
 			8049 3 
 		}
 		buildings = {
-			infrastructure = 2
+			inPRCstructure = 2
 			arms_factory = 2
 			industrial_complex = 4
 			10733 = {

@@ -6,12 +6,12 @@ state={
 	}
 
 	history={
-		owner = XSM
-		add_core_of = XSM
-		add_core_of = CHI
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = PRC
 		add_core_of = PRC
 		buildings = {
-			infrastructure = 3
+			inPRCstructure = 3
 			industrial_complex = 1
 
 		}
@@ -23,7 +23,7 @@ state={
 					}
 
 				}
-				CHI = {
+				PRC = {
 					transfer_state = PREV
 
 				}

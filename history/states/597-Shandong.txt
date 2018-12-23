@@ -8,14 +8,14 @@ state=
 	
 	history=
 	{
-		owner = CHI
-		add_core_of = CHI
+		owner = PRC
+		add_core_of = PRC
 		add_core_of = PRC
 		victory_points = {
 			1069 3 
 		}
 		buildings = {
-			infrastructure = 3
+			inPRCstructure = 3
 			industrial_complex = 1
 			air_base = 3
 			4205 = {
@@ -26,7 +26,7 @@ state=
 		}
 
 		1938.10.25 = {
-			controller = JAP
+			controller = PRC
 		}
 	}
 	provinces={

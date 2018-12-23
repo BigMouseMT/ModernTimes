@@ -5,9 +5,9 @@ state={
 	state_category = town
 
 	history={
-		owner = GXC
-		add_core_of = GXC
-		add_core_of = CHI
+		owner = PRC
+		add_core_of = PRC
+		add_core_of = PRC
 		add_core_of = PRC
 		
 		victory_points = {
@@ -15,7 +15,7 @@ state={
 		}
 		
 		buildings = {
-			infrastructure = 2
+			inPRCstructure = 2
 			air_base = 1
 			1070 = {
 				naval_base = 2
@@ -28,10 +28,10 @@ state={
 				limit = {
 					NOT = { has_dlc = "Waking the Tiger" }
 				}
-				remove_core_of = GXC
-				CHI = { transfer_state = PREV }
+				remove_core_of = PRC
+				PRC = { transfer_state = PREV }
 			}
-			controller = JAP
+			controller = PRC
 		}
 	}
 
