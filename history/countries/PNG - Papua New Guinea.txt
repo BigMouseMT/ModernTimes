@@ -1,0 +1,30 @@
+﻿capital = 523
+
+set_politics = {
+
+	parties = {
+		democratic = {
+			popularity = 89
+		}
+
+		communism = {
+			popularity = 1
+		}
+	}
+
+	ruling_party = democratic
+	last_election = "1987.6.27"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+
+create_country_leader = {
+	name = "Rabbie Namaliu"
+	picture = "gfx/leaders/Rabbie.dds"
+	expire = "1992.7.17"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
