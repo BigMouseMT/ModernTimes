@@ -1,0 +1,26 @@
+
+state={
+	id=848
+	name="STATE_848"
+	manpower = 282245
+	
+	state_category = rural
+	
+	resources={
+		chromium=15 # was: 20
+	}
+
+	history={
+		owner = KAZ
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = KAZ
+		#add_core_of = KAZ
+	}
+
+	provinces={
+		4578 4581 4636 4638 7486 7777 10353 10366 10601 12471 13206 13235
+	}
+}

@@ -1,0 +1,33 @@
+﻿capital = 405
+
+oob = "BLR_1936"
+
+set_research_slots = 3
+
+# Starting tech
+set_technology = {
+}
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 15
+		}
+
+		neutrality = {
+			popularity = 20
+		}
+		
+		communism = {
+			popularity = 60
+		}
+
+		fascism = { 
+			popularity = 5
+		}
+	}
+}
+
+
+

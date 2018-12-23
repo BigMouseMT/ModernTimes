@@ -1,0 +1,24 @@
+
+state={
+	id=849
+	name="STATE_849"  
+	manpower = 1043146
+	
+	state_category = pastoral
+
+	history={
+		owner = KAZ
+		victory_points = {
+			4333 50 
+		}
+		buildings = {
+			infrastructure = 8
+		}
+		add_core_of = KAZ
+		 
+	}
+
+	provinces={
+		 4333 12152 4232 7425 7407 4250 7335
+	}
+}
