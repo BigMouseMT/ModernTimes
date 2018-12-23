@@ -10,7 +10,7 @@ state={
 		add_core_of = PRC
 		add_core_of = PRC
 		buildings = {
-			inPRCstructure = 4
+			infrastructure = 4
 			industrial_complex = 1
 
 		}
@@ -21,7 +21,7 @@ state={
 			controller = PRC
 			buildings = {
 				industrial_complex = 3
-				inPRCstructure = 6
+				infrastructure = 6
 				air_base = 1
 				arms_factory = 1
 

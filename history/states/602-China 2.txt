@@ -10,14 +10,14 @@ state={
 		add_core_of = PRC
 		add_core_of = PRC
 		buildings = {
-			inPRCstructure = 5
+			infrastructure = 5
 			arms_factory = 1
 
 		}
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 2
-				inPRCstructure = 6
+				infrastructure = 6
 				air_base = 1
 				arms_factory = 1
 
