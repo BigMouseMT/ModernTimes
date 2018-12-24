@@ -1,0 +1,14 @@
+state={
+	id=890
+	name="STATE_890"
+	provinces={
+		12171 7371
+	}
+		state_category = town
+    manpower=412000
+	history={
+		owner = BRU
+		add_core_of = BRU
+ 
+	}
+}

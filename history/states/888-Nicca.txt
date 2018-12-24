@@ -1,0 +1,14 @@
+state={
+	id=888
+	name="STATE_888"
+	provinces={
+		6975 
+	}
+		state_category = town
+    manpower=37500
+	history={
+		owner = MNC
+		add_core_of = MNC
+ 
+	}
+}

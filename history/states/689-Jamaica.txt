@@ -6,7 +6,8 @@ state={
 	state_category = town
 
 	history={
-		owner = ENG
+		owner = JAM
+		add_core_of = JAM
 		buildings = {
 			infrastructure = 4
 			12304 = {

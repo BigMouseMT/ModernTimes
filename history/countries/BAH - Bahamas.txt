@@ -1,0 +1,32 @@
+﻿capital = 690
+
+set_politics = {
+
+	parties = {
+		democratic = {
+			popularity = 100
+		}
+
+		communism = {
+			popularity = 0
+			#banned = no #default is no
+		}
+
+	}
+
+	ruling_party = democratic
+	last_election = "1987.8.19"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+
+create_country_leader = {
+	name = "Hubert Alexander Ingraham"
+	picture = "gfx/leaders/Hubert.dds"
+	expire = "2002.5.3"
+	ideology = liberalism
+	traits = {
+		#
+	}
+}

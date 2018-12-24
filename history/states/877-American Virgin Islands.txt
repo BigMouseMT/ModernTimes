@@ -1,0 +1,14 @@
+state={
+	id=877
+	name="STATE_877"
+	provinces={
+		4155 
+	}
+		state_category = town
+    manpower=90500
+	history={
+		owner = USA
+		add_core_of = USA
+ 
+	}
+}

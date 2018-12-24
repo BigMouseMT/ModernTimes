@@ -1,0 +1,25 @@
+﻿capital = 765
+
+set_politics = {
+
+	parties = {
+		democratic = {
+			popularity = 100
+		}
+
+		communism = {
+			popularity = 0
+		}
+
+ 
+	}
+
+	ruling_party = democratic
+	last_election = "1990.2.121"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+
+ 
+ 

@@ -7,7 +7,8 @@ state=
 	state_category = enclave
 	
 	history={
-		owner = ITA
+		owner = CRO
+	    add_core_of = CRO
 		buildings = {
 			infrastructure = 5
 			3943 = {
@@ -16,6 +17,6 @@ state=
 		}
 	} 
 	provinces={	
-		3943 
+		3943 591 11901 3974 6611 984 
 	}
 }

@@ -12,7 +12,7 @@ state={
 	}
 
 	history={
-		owner = YUG
+		owner = MNT
 		add_core_of = MNT
 		buildings = {
 			infrastructure = 3
@@ -21,10 +21,10 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = YUG
+		add_core_of = MNT
 	}
 
 	provinces={
-		833 867 937 3922 6913 6940 9809 9821 9849 9874 11858 
+		 9809 6913 11858 9821 3922 937 
 	}
 }

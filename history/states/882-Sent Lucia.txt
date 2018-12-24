@@ -1,0 +1,14 @@
+state={
+	id=882
+	name="STATE_882"
+	provinces={
+		13009 
+	}
+		state_category = town
+    manpower=90500
+	history={
+		owner = SNT
+		add_core_of = SNT
+ 
+	}
+}

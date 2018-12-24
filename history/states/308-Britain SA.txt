@@ -6,19 +6,15 @@ state={
 	state_category = tiny_island
 
 	history={
-		owner = ENG
+		owner = DMN
+		add_core_of = DMN
 		buildings = {
 			infrastructure = 4
-			4450 = {
-				naval_base = 1
-			}
-			7123 = {
-				naval_base = 1
-			}
+ 
 		}
 	}
 
 	provinces={
-		4450 7123 
+		 7123 
 	}
 }

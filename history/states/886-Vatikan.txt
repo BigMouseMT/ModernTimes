@@ -1,0 +1,14 @@
+state={
+	id=886
+	name="STATE_886"
+	provinces={
+		9904 
+	}
+		state_category = town
+    manpower=1000
+	history={
+		owner = VTC
+		add_core_of = VTC
+ 
+	}
+}

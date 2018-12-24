@@ -10,7 +10,8 @@ state={
 
 
 	history={
-		owner = ENG
+		owner = TAT
+		add_core_of = TAT
 		buildings = {
 			infrastructure = 3
 			3284 = {

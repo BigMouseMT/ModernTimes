@@ -1,0 +1,14 @@
+state={
+	id=880
+	name="STATE_880"
+	provinces={
+		4450 
+	}
+		state_category = town
+    manpower=90500
+	history={
+		owner = AAB
+		add_core_of = AAB
+ 
+	}
+}

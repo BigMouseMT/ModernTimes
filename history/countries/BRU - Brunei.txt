@@ -1,0 +1,27 @@
+﻿capital = 769
+oob = "BLR_1991"
+
+set_politics = {
+
+	parties = {
+		democratic = {
+			popularity = 25
+		}
+
+		communism = {
+			popularity = 5
+			#banned = no #default is no
+		}
+
+ 
+	}
+
+	ruling_party = democratic
+	last_election = "1991.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+
+
+ 
