@@ -1,0 +1,29 @@
+﻿capital = 548
+oob = "EQG_1991"
+
+ 
+
+set_politics = {
+
+	parties = {
+		democratic = {
+			popularity = 5
+		}
+
+		communism = {
+			popularity = 35
+			#banned = no #default is no
+		}
+
+		neutrality = {
+			popularity = 50
+		}
+	}
+
+	ruling_party = neutrality
+	last_election = "1991.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+ 

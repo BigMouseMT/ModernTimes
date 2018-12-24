@@ -1,0 +1,14 @@
+state={
+	id=870
+	name="STATE_870"
+	state_category = rural
+		history={
+		owner =  BRN
+		add_core_of =  BRN
+	}
+	provinces={
+		2220 
+	}
+	manpower=11099000
+	buildings_max_level_factor=1.000
+}

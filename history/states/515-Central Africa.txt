@@ -6,16 +6,12 @@ state={
 	impassable = yes
 
 	history={
-		owner = FRA
-		buildings = {
-			infrastructure = 1
-
-		}
-
+		owner =  CHD
+		add_core_of =  CHD
 	}
 
 	provinces={
-		1956 2068 4902 4913 5136 7939 8028 8128 10758 10780 10805 10893 10917 13138 
+		 5136 4902 10893 
 	}
 	manpower=1482744
 	buildings_max_level_factor=1.000

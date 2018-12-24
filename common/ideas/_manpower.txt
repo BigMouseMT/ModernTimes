@@ -33,7 +33,7 @@ ideas = {
 						original_tag = HUN
 						has_dlc = "Death or Dishonor"
 					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
+					NOT = {   }
 				}
 				NOT = { has_idea = undisturbed_isolation }
 				NOT = { has_idea = isolation }
@@ -73,14 +73,14 @@ ideas = {
 						original_tag = AST
 						has_dlc = "Together for Victory"
 					}
-					has_completed_focus = AST_citizen_military_forces
+ 
 				}
 				if = {
 					limit = {
 						original_tag = CAN
 						has_dlc = "Together for Victory"
 					}
-					has_completed_focus = CAN_commit_to_the_war
+ 
 				}
 				if = {
 					limit = {
@@ -95,7 +95,7 @@ ideas = {
 						original_tag = HUN
 						has_dlc = "Death or Dishonor"
 					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
+					NOT = {   }
 				}
 			}
 
@@ -140,16 +140,14 @@ ideas = {
 						original_tag = AST
 						has_dlc = "Together for Victory"
 					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
+ 
 				}				
 				if = {
 					limit = {
 						original_tag = CAN
 						has_dlc = "Together for Victory"
 					}
-					has_completed_focus = CAN_commit_to_the_war
-					has_completed_focus = CAN_if_day
+ 
 				}
 				if = {
 					limit = {
@@ -164,7 +162,7 @@ ideas = {
 						original_tag = HUN
 						has_dlc = "Death or Dishonor"
 					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
+					NOT = {  }
 				}
 			}
 
@@ -227,8 +225,7 @@ ideas = {
 						original_tag = AST
 						has_dlc = "Together for Victory"
 					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
+ 
 				}
 
 				if = {
@@ -237,8 +234,7 @@ ideas = {
 						has_dlc = "Together for Victory"
 					}
 					OR = {
-						has_completed_focus = CAN_compromise_with_quebec
-						has_completed_focus = CAN_forced_quebec_conscription
+	 
 					}
 				}
 				if = {
@@ -254,7 +250,7 @@ ideas = {
 						original_tag = HUN
 						has_dlc = "Death or Dishonor"
 					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
+					NOT = {   }
 				}
 			}
 
@@ -323,8 +319,7 @@ ideas = {
 						original_tag = AST
 						has_dlc = "Together for Victory"
 					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
+ 
 				}
 
 				if = {
@@ -333,8 +328,7 @@ ideas = {
 						has_dlc = "Together for Victory"
 					}
 					OR = {
-						has_completed_focus = CAN_compromise_with_quebec
-						has_completed_focus = CAN_forced_quebec_conscription
+ 
 					}					
 				}
 				if = {
@@ -350,7 +344,7 @@ ideas = {
 						original_tag = HUN
 						has_dlc = "Death or Dishonor"
 					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
+					NOT = {   }
 				}
 			}
 
@@ -419,8 +413,7 @@ ideas = {
 						original_tag = AST
 						has_dlc = "Together for Victory"
 					}
-					has_completed_focus = AST_citizen_military_forces
-					has_completed_focus = AST_fight_work_or_perish
+ 
 				}
 
 				if = {
@@ -429,8 +422,7 @@ ideas = {
 						has_dlc = "Together for Victory"
 					}
 					OR = {
-						has_completed_focus = CAN_compromise_with_quebec
-						has_completed_focus = CAN_forced_quebec_conscription
+ 
 					}
 				}
 				if = {
@@ -446,7 +438,7 @@ ideas = {
 						original_tag = HUN
 						has_dlc = "Death or Dishonor"
 					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
+					NOT = {   }
 				}
 			}
 

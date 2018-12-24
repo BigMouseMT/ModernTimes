@@ -1,12 +1,7 @@
 ﻿capital = 405
 
-oob = "BLR_1936"
-
-set_research_slots = 3
-
-# Starting tech
-set_technology = {
-}
+oob = "TRK_1936"
+ 
 
 set_politics = {
 

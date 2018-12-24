@@ -898,7 +898,7 @@ ideas = {
 						original_tag = NZL
 						has_dlc = "Together for Victory"
 					}
-					has_completed_focus = NZL_the_lee_affair
+				 
 				}
 				
 			}
@@ -937,8 +937,7 @@ ideas = {
 						has_dlc = "Together for Victory"
 					}
 					OR = {
-						has_completed_focus = NZL_strengthen_the_commonwealth
-						has_completed_focus = NZL_constitution_amendment_act
+ 
 					}
 				}
 			}
@@ -977,7 +976,7 @@ ideas = {
 						original_tag = NZL
 						has_dlc = "Together for Victory"
 					}
-					has_completed_focus = NZL_in_the_darkness
+ 
 				}
 				
 			}
@@ -1025,8 +1024,7 @@ ideas = {
 				NOT = {
 					AND = {
 						OR = {
-							is_literally_china = yes
-							tag = MAN
+ 
 						}
 						has_dlc = "Waking the Tiger"
 					}
@@ -1256,8 +1254,7 @@ ideas = {
 				NOT = {
 					has_DLC = "Waking the Tiger"
 					OR = {
-						original_tag = MAN
-						is_literally_china = yes
+ 
 					}
 				}
 			}

@@ -157,7 +157,7 @@ economy_decisions = {
 			controls_state = 28
 			if = {
 				limit = {
-					FRA = { has_completed_focus = FRA_extend_the_maginot_line }
+					FRA = {  }
 				}
 				controls_state = 18
 				controls_state = 29
@@ -189,7 +189,7 @@ economy_decisions = {
 			}
 			if = {
 				limit = {
-					FRA = { has_completed_focus = FRA_extend_the_maginot_line }
+					FRA = {   }
 				}
 				18 = {
 					set_building_level = {

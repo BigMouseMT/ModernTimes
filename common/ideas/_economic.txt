@@ -91,7 +91,7 @@ ideas = {
 						original_tag = HUN
 						has_dlc = "Death or Dishonor"
 					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
+					NOT = {  }
 				}	
 			}
 			
@@ -128,8 +128,8 @@ ideas = {
 						has_dlc = "Death or Dishonor"
 					}
 					OR = {
-						has_completed_focus = HUN_secret_rearmament
-						NOT = { has_idea = HUN_treaty_of_triannon }
+ 
+						NOT = {   }
 					}
 				}
 			}
@@ -182,7 +182,7 @@ ideas = {
 						original_tag = HUN
 						has_dlc = "Death or Dishonor"
 					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
+					NOT = {   }
 				}		
 			}
 		
@@ -227,7 +227,7 @@ ideas = {
 						original_tag = HUN
 						has_dlc = "Death or Dishonor"
 					}
-					NOT = { has_idea = HUN_treaty_of_triannon }
+					NOT = {   }
 				}
 			}
 
@@ -301,7 +301,7 @@ ideas = {
 						original_tag = CHI
 						has_dlc = "Waking the Tiger"
 					}
-					NOT = { has_idea = CHI_nine_power_treaty }
+					NOT = {   }
 				}
 			}
 			
@@ -370,7 +370,7 @@ ideas = {
 						original_tag = CHI
 						has_dlc = "Waking the Tiger"
 					}
-					NOT = { has_idea = CHI_nine_power_treaty }
+					NOT = { }
 				}
 			}
 		
@@ -431,7 +431,7 @@ ideas = {
 						original_tag = CHI
 						has_dlc = "Waking the Tiger"
 					}
-					NOT = { has_idea = CHI_nine_power_treaty }
+					NOT = { }
 				}
 			}
 			

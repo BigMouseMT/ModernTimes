@@ -1,0 +1,27 @@
+
+state={
+	id=856
+	name="STATE_856"
+	manpower = 2564000
+	
+	state_category = rural
+	resources={
+		rubber=1 # was: 1
+	}
+	history={
+		owner = CAM
+		add_core_of = CAM
+		victory_points = {
+			8193 2
+		}
+		victory_points = {
+			5139 1
+		}
+ 
+
+	}
+
+	provinces={
+ 7963 11194
+	}
+}

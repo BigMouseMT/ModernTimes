@@ -460,19 +460,19 @@ demobilization = {
 		is_good = no
 
 		available = {
-			has_unsupported_economic_law = yes
+			# = yes
 			has_war = no
 		}
 
 		activation = {
-			has_unsupported_economic_law = yes
+			# = yes
 			has_war = no
 		}
 		cost = 50
 
 		visible = {
 			has_war = no
-			has_unsupported_economic_law = yes
+			# = yes
 		}
 		complete_effect = {
 			if = {
@@ -526,13 +526,13 @@ demobilization = {
 	demob_economic_mission = {
 		available = {
 			OR = {
-				has_unsupported_economic_law = no
+				# = no
 				has_war = yes
 			}
 		}
 
 		activation = {
-			has_unsupported_economic_law = yes
+			# = yes
 			has_war = no
 		}
 		icon = revolt
@@ -649,7 +649,7 @@ demobilization = {
 		is_good = no
 
 		available = {
-			has_unsupported_manpower_law = yes
+			 
 			has_war = no
 		}
 
@@ -664,7 +664,7 @@ demobilization = {
 		
 
 		visible = {
-			has_unsupported_manpower_law = yes
+			 
 			has_war = no
 		}
 		complete_effect = {
@@ -701,12 +701,12 @@ demobilization = {
 		days_mission_timeout = 120
 		available = {
 			OR = {
-				has_unsupported_manpower_law = no
+				 
 				has_war = yes
 			}
 		}
 		activation = {
-			has_unsupported_manpower_law = yes
+			 
 			has_war = no
 		}
 		timeout_effect = {

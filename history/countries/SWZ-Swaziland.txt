@@ -1,0 +1,26 @@
+﻿capital = 759
+
+oob = "SWZ_1991"
+
+set_politics = {
+
+	parties = {
+		democratic = {
+			popularity = 70
+		}
+
+		communism = {
+			popularity = 30
+			#banned = no #default is no
+		}
+
+ 
+	}
+
+	ruling_party = democratic
+	last_election = "1991.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+ 

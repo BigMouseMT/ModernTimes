@@ -9,7 +9,8 @@ state={
 		rubber=1 # was: 1
 	}
 	history={
-		owner = FRA
+		owner = GAB
+		add_core_of = GAB
 		victory_points = {
 			8193 2
 		}
@@ -28,6 +29,6 @@ state={
 	}
 
 	provinces={
-		2080 2192 3109 5036 5054 5139 6008 6039 8193 8207 9137 10948 11012 12975 
+		 10948  8207 5139
 	}
 }

@@ -1,0 +1,14 @@
+state={
+	id=868
+	name="STATE_868"
+	state_category = rural
+	history={
+		owner = LES   
+		add_core_of = LES  
+	}
+	provinces={
+		4556 
+	}
+	manpower=2203000
+	buildings_max_level_factor=1.000
+}

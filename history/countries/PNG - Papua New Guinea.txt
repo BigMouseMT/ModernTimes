@@ -19,12 +19,4 @@ set_politics = {
 }
 
 
-create_country_leader = {
-	name = "Rabbie Namaliu"
-	picture = "gfx/leaders/Rabbie.dds"
-	expire = "1992.7.17"
-	ideology = conservatism
-	traits = {
-		#
-	}
-}
+ 

@@ -8,10 +8,8 @@ state={
 	impassable = yes
 
 	history={
-		owner = FRA
-		buildings = {
-			infrastructure = 0
-		}
+		owner =  ALG
+		add_core_of = ALG 
 	}
 
 	provinces={

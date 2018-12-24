@@ -4,10 +4,7 @@ oob = "BLR_1936"
 
 set_research_slots = 3
 
-# Starting tech
-set_technology = {
-}
-
+ 
 set_politics = {
 
 	parties = {

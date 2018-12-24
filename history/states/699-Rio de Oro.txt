@@ -6,16 +6,8 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = SPR
-		buildings = {
-			infrastructure = 1
-			8038 = {
-				naval_base = 1
-			}
-			12857 = {
-				naval_base = 1
-			}
-		}
+		owner =  WSH
+		add_core_of =  WSH
 	}
 	
 	provinces={

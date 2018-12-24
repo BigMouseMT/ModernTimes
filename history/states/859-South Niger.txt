@@ -1,0 +1,14 @@
+state={
+	id=859
+	name="STATE_859"
+	state_category = rural
+		history={
+		owner =  NIG
+		add_core_of =  NIG
+	}
+	provinces={
+		12707 2056 1975 8028
+	}
+	manpower= 20000000
+	buildings_max_level_factor=1.000
+}

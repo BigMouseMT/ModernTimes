@@ -5,19 +5,9 @@ state={
 	
 	state_category = pastoral
 	
-	history=
-	{
-		owner = ENG
-		victory_points = {
-			2038 1 
-		}
-		buildings = {
-			infrastructure = 3
-			2038 = {
-				naval_base = 3
-			}
-		}
-
+	history={
+		owner =  SAR
+		add_core_of =  SAR
 	}
 	
 	provinces={

@@ -41,13 +41,4 @@ set_politics = {
 }
 
 
-create_country_leader = {
-name = "Saw Maung"
-desc = ""
-picture = "gfx/leaders/Portrait_Myanmar_Saw_Maung.dds"
-expire = "1992.4.23"
-ideology = despotism
-traits = {
-#
-}
-}
+ 

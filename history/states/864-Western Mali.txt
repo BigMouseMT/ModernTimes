@@ -1,0 +1,14 @@
+state={
+	id=864
+	name="STATE_864"
+	state_category = rural
+		history={
+		owner =  MAI
+		add_core_of =  MAI
+	}
+	provinces={
+		10915 10812 12751 10829 2012 4927 8116 12794 5045
+	}
+	manpower=10000000
+	buildings_max_level_factor=1.000
+}
