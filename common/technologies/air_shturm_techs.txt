@@ -1,6 +1,6 @@
 technologies = {
 	
-	 		 	istrebitel1 = {
+	    shturmovik1 = {
  
 
 		enable_equipments = {
@@ -8,14 +8,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istrebitel2
+			leads_to_tech = shturmovik2
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 1960
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 0 y = 0 }
 		}
 		
@@ -31,7 +31,7 @@ technologies = {
  
 		}
 	}
-		 istrebitel2 = {
+		 shturmovik2 = {
  
 
 		enable_equipments = {
@@ -39,14 +39,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istrebitel3
+			leads_to_tech = shturmovik3
 			research_cost_coeff = 1
 		}
 
 		research_cost = 16
 		start_year = 2000
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 0 y = 4 }
 		}
 		
@@ -62,7 +62,7 @@ technologies = {
  
 		}
 	}
-		 istrebitel3 = {
+		 shturmovik3 = {
  
 
 		enable_equipments = {
@@ -70,14 +70,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istrebitel4
+			leads_to_tech = shturmovik4
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 0 y = 8 }
 		}
 		
@@ -93,7 +93,7 @@ technologies = {
  
 		}
 	}
-		 istrebitel4 = {
+		 shturmovik4 = {
  
 
 		enable_equipments = {
@@ -104,7 +104,7 @@ technologies = {
 		research_cost = 12
 		start_year = 2020
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 0 y = 12 }
 		}
 		
@@ -125,7 +125,7 @@ technologies = {
 	
 	
 	
-			 	istreb-bomber1 = {
+			 	udar_vertolet1 = {
  
 
 		enable_equipments = {
@@ -133,14 +133,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istreb-bomber2
+			leads_to_tech = udar_vertolet2
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 1960
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 4 y = 0 }
 		}
 		
@@ -156,7 +156,7 @@ technologies = {
  
 		}
 	}
-		 istreb-bomber2 = {
+		udar_vertolet2 = {
  
 
 		enable_equipments = {
@@ -164,14 +164,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istreb-bomber3
+			leads_to_tech = udar_vertolet3
 			research_cost_coeff = 1
 		}
 
 		research_cost = 16
 		start_year = 2000
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 4 y = 4 }
 		}
 		
@@ -187,7 +187,7 @@ technologies = {
  
 		}
 	}
-		 istreb-bomber3 = {
+		udar_vertolet3 = {
  
 
 		enable_equipments = {
@@ -195,14 +195,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istreb-bomber4
+			leads_to_tech = udar_vertolet4
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 4 y = 8 }
 		}
 		
@@ -218,7 +218,7 @@ technologies = {
  
 		}
 	}
-		 istreb-bomber4 = {
+		udar_vertolet4 = {
  
 
 		enable_equipments = {
@@ -229,7 +229,7 @@ technologies = {
 		research_cost = 12
 		start_year = 2020
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 4 y = 8 }
 		}
 		
@@ -248,7 +248,7 @@ technologies = {
 	
 	
 	
-			 	bombardir1 = {
+			 	razved_vertolet1 = {
  
 
 		enable_equipments = {
@@ -256,14 +256,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = bombardir2
+			leads_to_tech = razved_vertolet2
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 1960
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 8 y = 0 }
 		}
 		
@@ -279,7 +279,7 @@ technologies = {
  
 		}
 	}
-		 bombardir2 = {
+		razved_vertolet2 = {
  
 
 		enable_equipments = {
@@ -287,14 +287,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = bombardir3
+			leads_to_tech = razved_vertolet3
 			research_cost_coeff = 1
 		}
 
 		research_cost = 16
 		start_year = 2000
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 8 y = 4 }
 		}
 		
@@ -310,7 +310,7 @@ technologies = {
  
 		}
 	}
-		 bombardir3 = {
+		razved_vertolet3 = {
  
 
 		enable_equipments = {
@@ -318,14 +318,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = bombardir4
+			leads_to_tech = razved_vertolet4
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 8 y = 8 }
 		}
 		
@@ -341,7 +341,7 @@ technologies = {
  
 		}
 	}
-		 bombardir4 = {
+		razved_vertolet4 = {
  
 
 		enable_equipments = {
@@ -352,7 +352,7 @@ technologies = {
 		research_cost = 12
 		start_year = 2020
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 8 y = 12 }
 		}
 		
@@ -369,7 +369,7 @@ technologies = {
 		}
 	}
 	
-			 	strat_bombardir1 = {
+			 	trn_vertolet1 = {
  
 
 		enable_equipments = {
@@ -377,14 +377,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = strat_bombardir2
+			leads_to_tech = trn_vertolet2
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 1960
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 12 y = 0 }
 		}
 		
@@ -400,7 +400,7 @@ technologies = {
  
 		}
 	}
-		 strat_bombardir2 = {
+		trn_vertolet2 = {
  
 
 		enable_equipments = {
@@ -408,14 +408,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = strat_bombardir3
+			leads_to_tech = trn_vertolet3
 			research_cost_coeff = 1
 		}
 
 		research_cost = 16
 		start_year = 2000
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 12 y = 4 }
 		}
 		
@@ -431,7 +431,7 @@ technologies = {
  
 		}
 	}
-		 strat_bombardir3 = {
+		 trn_vertolet3 = {
  
 
 		enable_equipments = {
@@ -439,14 +439,14 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = strat_bombardir4
+			leads_to_tech = trn_vertolet4
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 12 y = 8 }
 		}
 		
@@ -462,7 +462,7 @@ technologies = {
  
 		}
 	}
-		 strat_bombardir4 = {
+		trn_vertolet4 = {
  
 
 		enable_equipments = {
@@ -473,7 +473,7 @@ technologies = {
 		research_cost = 12
 		start_year = 2020
 		folder = {
-			name = air_techs_folder
+			name = air_shturm_techs_folder
 			position = { x = 12 y = 12 }
 		}
 		
@@ -490,125 +490,6 @@ technologies = {
 		}
 	}
 	
-			 	transport_pl1 = {
  
-
-		enable_equipments = {
- 
-		}
-		
-		path = {
-			leads_to_tech = transport_pl2
-			research_cost_coeff = 1
-		}
-
-		research_cost = 12
-		start_year = 1960
-		folder = {
-			name = air_techs_folder
-			position = { x = 16 y = 0 }
-		}
-		
- 
-		
-		categories = {
-         AIR
-		}
-		
-		ai_will_do = {
-			factor = 15
-			
- 
-		}
-	}
-		 transport_pl2 = {
- 
-
-		enable_equipments = {
- 
-		}
-		
-		path = {
-			leads_to_tech = transport_pl3
-			research_cost_coeff = 1
-		}
-
-		research_cost = 16
-		start_year = 2000
-		folder = {
-			name = air_techs_folder
-			position = { x = 16 y = 4 }
-		}
-		
- 
-		
-		categories = {
-         AIR
-		}
-		
-		ai_will_do = {
-			factor = 15
-			
- 
-		}
-	}
-		 transport_pl3 = {
- 
-
-		enable_equipments = {
- 
-		}
-		
-		path = {
-			leads_to_tech = transport_pl4
-			research_cost_coeff = 1
-		}
-
-		research_cost = 12
-		start_year = 2015
-		folder = {
-			name = air_techs_folder
-			position = { x = 16 y = 8 }
-		}
-		
- 
-		
-		categories = {
-         AIR
-		}
-		
-		ai_will_do = {
-			factor = 15
-			
- 
-		}
-	}
-		 transport_pl4 = {
- 
-
-		enable_equipments = {
- 
-		}
-		
- 
-		research_cost = 12
-		start_year = 2020
-		folder = {
-			name = air_techs_folder
-			position = { x = 16 y = 12 }
-		}
-		
- 
-		
-		categories = {
-         AIR
-		}
-		
-		ai_will_do = {
-			factor = 15
-			
- 
-		}
-	}
 	
 }

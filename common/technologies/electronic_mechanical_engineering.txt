@@ -54,10 +54,7 @@ technologies = {
 			position = { x = -2 y = 2 }
 		}
 		
-		folder = {
-			name = support_folder
-			position = { x = 11 y = 9 } # x = 12 y = 0
-		}
+ 
 		
 		ai_will_do = {
 			factor = 3

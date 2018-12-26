@@ -1,6 +1,7 @@
 technologies = {
+
 	
-	 		 	istrebitel1 = {
+	 		 	kater1 = {
  
 
 		enable_equipments = {
@@ -8,21 +9,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istrebitel2
+			leads_to_tech = kater2
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 1960
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 0 y = 0 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -31,7 +32,7 @@ technologies = {
  
 		}
 	}
-		 istrebitel2 = {
+		 kater2 = {
  
 
 		enable_equipments = {
@@ -39,21 +40,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istrebitel3
+			leads_to_tech = kater3
 			research_cost_coeff = 1
 		}
 
 		research_cost = 16
 		start_year = 2000
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 0 y = 4 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -62,7 +63,7 @@ technologies = {
  
 		}
 	}
-		 istrebitel3 = {
+		 kater3 = {
  
 
 		enable_equipments = {
@@ -70,21 +71,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istrebitel4
+			leads_to_tech = kater4
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 0 y = 8 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -93,7 +94,7 @@ technologies = {
  
 		}
 	}
-		 istrebitel4 = {
+		 kater4 = {
  
 
 		enable_equipments = {
@@ -104,14 +105,14 @@ technologies = {
 		research_cost = 12
 		start_year = 2020
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 0 y = 12 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -125,7 +126,7 @@ technologies = {
 	
 	
 	
-			 	istreb-bomber1 = {
+			 	fregat1 = {
  
 
 		enable_equipments = {
@@ -133,21 +134,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istreb-bomber2
+			leads_to_tech = fregat2
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 1960
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 4 y = 0 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -156,7 +157,7 @@ technologies = {
  
 		}
 	}
-		 istreb-bomber2 = {
+		 fregat2 = {
  
 
 		enable_equipments = {
@@ -164,21 +165,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istreb-bomber3
+			leads_to_tech = fregat3
 			research_cost_coeff = 1
 		}
 
 		research_cost = 16
 		start_year = 2000
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 4 y = 4 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -187,7 +188,7 @@ technologies = {
  
 		}
 	}
-		 istreb-bomber3 = {
+		 fregat3 = {
  
 
 		enable_equipments = {
@@ -195,21 +196,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = istreb-bomber4
+			leads_to_tech = fregat4
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 4 y = 8 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -218,7 +219,7 @@ technologies = {
  
 		}
 	}
-		 istreb-bomber4 = {
+		 fregat4 = {
  
 
 		enable_equipments = {
@@ -229,14 +230,14 @@ technologies = {
 		research_cost = 12
 		start_year = 2020
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 4 y = 8 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -248,7 +249,7 @@ technologies = {
 	
 	
 	
-			 	bombardir1 = {
+			 	r_kreiser1 = {
  
 
 		enable_equipments = {
@@ -256,21 +257,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = bombardir2
+			leads_to_tech = r_kreiser2
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 1960
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 8 y = 0 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -279,7 +280,7 @@ technologies = {
  
 		}
 	}
-		 bombardir2 = {
+		 r_kreiser2 = {
  
 
 		enable_equipments = {
@@ -287,21 +288,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = bombardir3
+			leads_to_tech = r_kreiser3
 			research_cost_coeff = 1
 		}
 
 		research_cost = 16
 		start_year = 2000
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 8 y = 4 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -310,7 +311,7 @@ technologies = {
  
 		}
 	}
-		 bombardir3 = {
+		 r_kreiser3 = {
  
 
 		enable_equipments = {
@@ -318,21 +319,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = bombardir4
+			leads_to_tech = r_kreiser4
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 8 y = 8 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -341,7 +342,7 @@ technologies = {
  
 		}
 	}
-		 bombardir4 = {
+		 r_kreiser4 = {
  
 
 		enable_equipments = {
@@ -352,14 +353,14 @@ technologies = {
 		research_cost = 12
 		start_year = 2020
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 8 y = 12 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -369,7 +370,7 @@ technologies = {
 		}
 	}
 	
-			 	strat_bombardir1 = {
+			 	patrul_korabl1 = {
  
 
 		enable_equipments = {
@@ -377,21 +378,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = strat_bombardir2
+			leads_to_tech = patrul_korabl2
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 1960
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 12 y = 0 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -400,7 +401,7 @@ technologies = {
  
 		}
 	}
-		 strat_bombardir2 = {
+		 patrul_korabl2 = {
  
 
 		enable_equipments = {
@@ -408,21 +409,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = strat_bombardir3
+			leads_to_tech = patrul_korabl3
 			research_cost_coeff = 1
 		}
 
 		research_cost = 16
 		start_year = 2000
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 12 y = 4 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -431,7 +432,7 @@ technologies = {
  
 		}
 	}
-		 strat_bombardir3 = {
+		 patrul_korabl3 = {
  
 
 		enable_equipments = {
@@ -439,21 +440,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = strat_bombardir4
+			leads_to_tech = patrul_korabl4
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 12 y = 8 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -462,7 +463,7 @@ technologies = {
  
 		}
 	}
-		 strat_bombardir4 = {
+		 patrul_korabl4 = {
  
 
 		enable_equipments = {
@@ -473,14 +474,14 @@ technologies = {
 		research_cost = 12
 		start_year = 2020
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 12 y = 12 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -490,7 +491,7 @@ technologies = {
 		}
 	}
 	
-			 	transport_pl1 = {
+			 	disel_submarine1 = {
  
 
 		enable_equipments = {
@@ -498,21 +499,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = transport_pl2
+			leads_to_tech = disel_submarine2
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 1960
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 16 y = 0 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -521,7 +522,7 @@ technologies = {
  
 		}
 	}
-		 transport_pl2 = {
+		 disel_submarine2 = {
  
 
 		enable_equipments = {
@@ -529,21 +530,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = transport_pl3
+			leads_to_tech = disel_submarine3
 			research_cost_coeff = 1
 		}
 
 		research_cost = 16
 		start_year = 2000
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 16 y = 4 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -552,7 +553,7 @@ technologies = {
  
 		}
 	}
-		 transport_pl3 = {
+		 disel_submarine3 = {
  
 
 		enable_equipments = {
@@ -560,21 +561,21 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = transport_pl4
+			leads_to_tech = disel_submarine4
 			research_cost_coeff = 1
 		}
 
 		research_cost = 12
 		start_year = 2015
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 16 y = 8 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {
@@ -583,7 +584,7 @@ technologies = {
  
 		}
 	}
-		 transport_pl4 = {
+		 disel_submarine4 = {
  
 
 		enable_equipments = {
@@ -594,14 +595,14 @@ technologies = {
 		research_cost = 12
 		start_year = 2020
 		folder = {
-			name = air_techs_folder
+			name = naval_support_folder
 			position = { x = 16 y = 12 }
 		}
 		
  
 		
 		categories = {
-         AIR
+         NAVAL
 		}
 		
 		ai_will_do = {

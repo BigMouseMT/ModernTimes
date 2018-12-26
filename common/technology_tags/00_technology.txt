@@ -2,10 +2,14 @@
 # If adding new technology, make sure they are uniquely named.
 
 technology_categories = {
+    command
 	light_air
 	medium_air
 	heavy_air
 	armor
+	OBT
+	NAVAL
+	AIR
 	cat_light_armor
 	cat_medium_armor
 	cat_heavy_armor
@@ -94,6 +98,9 @@ technology_folders = {
 	naval_doctrine_folder
 	air_doctrine_folder
 	electronics_folder
+	infantry_transport_folder
+	naval_support_folder
+	air_shturm_techs_folder
 	#secret_weapons_folder
 }
 

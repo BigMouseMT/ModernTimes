@@ -459,7 +459,7 @@
  CAR_communism_party:0 "Коммунизм"
  CAR_democratic_party:0 "Демократия"
  CAR_nationals_party:0 "Национализм"
- STATE_750:0 "Камерун"
+ 
  CAM_fascism:0 "Камерун"
  CAM_fascism_DEF:0 "Камерун"
  CAM_democratic:0 "Камерун"
@@ -479,7 +479,7 @@
  CAM_communism_party:0 "Коммунизм"
  CAM_democratic_party:0 "Демократия"
  CAM_nationals_party:0 "Национализм"
- STATE_751:0 "Северное Конго"
+ 
  COR_fascism:0 "Республика Конго"
  COR_fascism_DEF:0 "Республика Конго"
  COR_democratic:0 "Республика Конго"
@@ -518,7 +518,7 @@
  GAB_communism_party:0 "Коммунизм"
  GAB_democratic_party:0 "Демократия"
  GAB_nationals_party:0 "Национализм"
- STATE_752:0 "Берег Слоновой Кости"
+ 
  IVR_fascism:0 "Кот-д Ивуар"
  IVR_fascism_DEF:0 "Кот-д Ивуар"
  IVR_democratic:0 "Кот-д Ивуар"
@@ -557,8 +557,7 @@
  NGR_communism_party:0 "Коммунизм"
  NGR_democratic_party:0 "Демократия"
  NGR_nationals_party:0 "Национализм"
- STATE_753:0 "Того"
- STATE_754:0 "Бенин"
+ 
  BEN_fascism:0 "Бенин"
  BEN_fascism_DEF:0 "Бенин"
  BEN_democratic:0 "Бенин"
@@ -616,8 +615,7 @@
  BUF_communism_party:0 "Коммунизм"
  BUF_democratic_party:0 "Демократия"
  BUF_nationals_party:0 "Национализм"
- STATE_755:0 "Буркина-Фасо"
- STATE_756:0 "Гвинея"
+ 
  GUI_fascism:0 "Гвинея"
  GUI_fascism_DEF:0 "Гвинея"
  GUI_democratic:0 "Гвинея"
@@ -637,7 +635,7 @@
  GUI_communism_party:0 "Коммунизм"
  GUI_democratic_party:0 "Демократия"
  GUI_nationals_party:0 "Национализм"
- STATE_757:0 "Чад"
+ 
  CHD_fascism:0 "Диктаторский Чад"
  CHD_fascism_DEF:0 "Диктаторский Чад"
  CHD_democratic:0 "Республика Чад"
@@ -752,7 +750,7 @@
  WSH_communism_party:0 "Коммунизм"
  WSH_democratic_party:0 "Демократия"
  WSH_nationals_party:0 "Фронт освобождения западной сахары"
- STATE_758:0 "Малави"
+ 
  MLV_fascism:0 "Малави"
  MLV_fascism_DEF:0 "Малави"
  MLV_democratic:0 "Малави"
@@ -791,8 +789,7 @@
  SWZ_communism_party:0 "Коммунизм"
  SWZ_democratic_party:0 "Демократия"
  SWZ_nationals_party:0 "Национализм"
- STATE_759:0 "Свазиленд"
- STATE_760:0 "Лесото"
+ 
  LES_fascism:0 "Лесото"
  LES_fascism_DEF:0 "Лесото"
  LES_democratic:0 "Лесото"
@@ -831,8 +828,7 @@
  RWA_communism_party:0 "Коммунизм"
  RWA_democratic_party:0 "Демократия"
  RWA_nationals_party:0 "Национализм"
- STATE_761:0 "Руанда"
- STATE_762:0 "Бурунди"
+ 
  BRN_fascism:0 "Бурунди"
  BRN_fascism_DEF:0 "Бурунди"
  BRN_democratic:0 "Бурунди"
@@ -871,7 +867,7 @@
  ZIM_communism_party:0 "Партия рабочих"
  ZIM_democratic_party:0 "Демократическое Движение"
  ZIM_nationals_party:0 "Национальный Патриотический Союз"
- STATE_763:0 "Замбия"
+ 
  GUY_fascism:0 "Гайана"
  GUY_fascism_DEF:0 "Гайана"
  GUY_democratic:0 "Гайана"
@@ -992,7 +988,7 @@
  AAB_neutrality_ADJ:0 "Ансигуаск."
  AAB_communism_ADJ:0 "Ансигуаск."
  AAB_nationals_ADJ:0 "Ансигуаск."
- STATE_764:0 "Гренада"
+ 
  GRD_fascism:0 "Гренада"
  GRD_fascism_DEF:0 "Гренада"
  GRD_democratic:0 "Гренада"
@@ -1008,7 +1004,7 @@
  GRD_neutrality_ADJ:0 "Гренадск."
  GRD_communism_ADJ:0 "Гренадск."
  GRD_nationals_ADJ:0 "Гренадск."
- STATE_765:0 "Сент-Висент"
+ 
  SVI_fascism:0 "Сент-Висент"
  SVI_fascism_DEF:0 "Сент-Висент"
  SVI_democratic:0 "Сент-Висент"
@@ -1024,7 +1020,7 @@
  SVI_neutrality_ADJ:0 "Сент-Висентск."
  SVI_communism_ADJ:0 "Сент-Висентск."
  SVI_nationals_ADJ:0 "Сент-Висентск."
- STATE_766:0 "Доминика"
+ 
  DMN_fascism:0 "Доминика"
  DMN_fascism_DEF:0 "Доминика"
  DMN_democratic:0 "Доминика"
@@ -1040,7 +1036,7 @@
  DMN_neutrality_ADJ:0 "Доминикск."
  DMN_communism_ADJ:0 "Доминикск."
  DMN_nationals_ADJ:0 "Доминикск."
- STATE_767:0 "Барбадос"
+ 
  BAR_fascism:0 "Барбадос"
  BAR_fascism_DEF:0 "Барбадос"
  BAR_democratic:0 "Барбадос"
@@ -1135,7 +1131,7 @@
  UAE_neutrality_ADJ:0 "Арабск."
  UAE_communism_ADJ:0 "Арабск."
  UAE_monarchism_ADJ:0 "Арабск."
- STATE_768:0 "Катар"
+ 
  KTR_fascism:0 "Катар"
  KTR_fascism_DEF:0 "Катар"
  KTR_democratic:0 "Катар"
@@ -1235,7 +1231,7 @@
  NDS_neutrality_ADJ:0 "Индонезийск."
  NDS_communism_ADJ:0 "Индонезийск."
  NDS_nationals_ADJ:0 "Индонезийск."
- STATE_769:0 "Бруней"
+ 
  BRU_fascism:0 "Брунейская Империя"
  BRU_fascism_DEF:0 "Брунейская Империя"
  BRU_democratic:0 "Республика Бруней"
@@ -1251,7 +1247,7 @@
  BRU_neutrality_ADJ:0 "Брунейск."
  BRU_communism_ADJ:0 "Брунейск."
  BRU_monarchism_ADJ:0 "Брунейск."
- STATE_770:0 "Сингапур"
+ 
  SYD_fascism:0 "Сингапур"
  SYD_fascism_DEF:0 "Сингапур"
  SYD_democratic:0 "Сингапур"
