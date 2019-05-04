@@ -1,12 +1,15 @@
 
 state={
 	id=259
-	name="STATE_259" # 
+	name="STATE_259" # Poltava
 	manpower = 1442584
 	
 	state_category = rural
 
 	history={
+		victory_points = {
+			11504 3
+		}
 		owner = UKR
 		buildings = {
 			infrastructure = 5

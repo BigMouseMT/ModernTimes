@@ -8,8 +8,11 @@ state=
 	
 	history=
 	{
-	owner = EQG
-	add_core_of = EQG
+		owner = EQG
+		add_core_of = EQG
+		victory_points = {
+			1903 1 
+		}
 		buildings = {
 			infrastructure = 2
 			1903 = {

@@ -1,13 +1,9 @@
 state={
 	id=545
 	
-	state_category = rural
+	state_category = pastoral
 	
 	name="STATE_545"
-	resources={
-		chromium=35 # was: 64.000
-		tungsten=8 # was: 16.000
-	}
 
 	history={
 		owner = ZIM
@@ -22,8 +18,8 @@ state={
 	}
 
 	provinces={
-	 2151 7842 4851 10929 1874 2216   
+		1874 2151 2216 4851 7842 10929
 	}
-	manpower=4155400
- 
+	manpower=1171336
+	buildings_max_level_factor=1.000
 }

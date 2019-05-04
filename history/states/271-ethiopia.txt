@@ -29,10 +29,7 @@ state=
 		}
 		add_core_of = ETH
 
-		1936.6.1 = {
-			owner = ETH
-			controller = ETH
-		}
+ 
 	}
 
 	provinces=

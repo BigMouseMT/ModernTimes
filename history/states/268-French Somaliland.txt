@@ -9,6 +9,9 @@ state={
 	history={
 		owner = DJI
 		add_core_of = DJI
+		victory_points = {
+			8124 1
+		}
 		buildings = {
 			infrastructure = 3
 			air_base = 2

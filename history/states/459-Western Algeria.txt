@@ -10,8 +10,25 @@ state={
 	}
 
 	history={
-		owner =  ALG
-		add_core_of =  ALG
+		owner = ALG
+		add_core_of = ALG
+
+		victory_points = {
+			1145 5 
+		}
+		victory_points = {
+			7132 5 
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 5
+			1145 = {
+				naval_base = 2
+			}
+			7132 = {
+				naval_base = 6
+			}
+		}
 	}
 
 	provinces={

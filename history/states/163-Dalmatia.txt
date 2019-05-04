@@ -8,7 +8,7 @@ state=
 	
 	history={
 		owner = CRO
-	    add_core_of = CRO
+		add_core_of = CRO
 		buildings = {
 			infrastructure = 5
 			3943 = {
@@ -17,6 +17,6 @@ state=
 		}
 	} 
 	provinces={	
-		3943 591 11901 3974 6611 984 
+		3943 
 	}
 }

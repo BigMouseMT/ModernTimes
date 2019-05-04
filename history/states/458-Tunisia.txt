@@ -9,8 +9,25 @@ state={
 	}
 
 	history={
-		owner =  TUN
-		add_core_of = TUN 
+		owner = TUN
+		add_core_of = TUN
+		victory_points = {
+			11969 10 
+		}
+		victory_points = {
+			9994 1 
+		}
+		victory_points = {
+			11921 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 8
+			9994 = {
+				naval_base = 8
+			}
+		}
 	}
 
 	provinces={

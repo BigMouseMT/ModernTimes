@@ -7,6 +7,9 @@ state={
 	state_category = town
 
 	history={
+		victory_points = {
+			3457 3
+		}
 		owner = UKR
 		buildings = {
 			infrastructure = 5

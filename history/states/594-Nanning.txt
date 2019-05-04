@@ -13,8 +13,6 @@ state={
 	history={
 		owner = PRC
 		add_core_of = PRC
-		add_core_of = PRC
-		add_core_of = PRC
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -23,20 +21,7 @@ state={
 			7137 10 
 		}
 
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = { has_dlc = "Waking the Tiger" }
-				}
-				remove_core_of = PRC
-				PRC = { transfer_state = PREV }
-			}
-			PRC = {
-				set_province_controller = 1018
-				set_province_controller = 4023
-				set_province_controller = 10004
-			} 			
-		}
+ 
 	}
 
 	provinces={

@@ -1,24 +1,25 @@
 
 state={
 	id=194
-	name="STATE_194" 
-	manpower = 230000
+	name="STATE_194" # Mozyr
+	manpower = 934632
 	
-	state_category = town
+	state_category = rural
 
 	history={
 		owner = BLR
+			add_core_of = BLR
 		buildings = {
-			infrastructure = 4
+			infrastructure = 3
+			air_base = 3
 		}
-				victory_points = {
-			560 5
+		victory_points = {
+			6232 1
 		}
  
-		add_core_of = BLR
 	}
 
 	provinces={
-	560 6415 
+		215 3203 3293 3507 6232 6319 6556 9249 9554 11453 
 	}
 }

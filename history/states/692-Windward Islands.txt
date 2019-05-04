@@ -5,17 +5,20 @@ state={
 	state_category = small_island
 
 	history={
-		owner = BAR
-		add_core_of = BAR
+		add_core_of = BAS
+		owner = ENG
 		buildings = {
 			infrastructure = 4
 			11350 = {
 				naval_base = 1
 			}
 		}
+		victory_points = {
+			11350 1
+		}
 	}
 	
 	provinces={
-	 11350 
+		379 11106 11350 13009 
 	}
 }

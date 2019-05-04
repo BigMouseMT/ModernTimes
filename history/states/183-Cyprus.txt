@@ -10,13 +10,22 @@ state= {
 
 	history=
 	{
-		owner = ENG
+		owner = CYP
+		add_core_of = CYP
+		victory_points = {
+			11984 5
+		}
+		victory_points = {
+			7193 3
+		}
 		buildings = {
 			infrastructure = 4
 			air_base = 1
- 
+			7193 = {
+				naval_base = 2
+			}
 		}
 
 	}
-	provinces= { 7193  }
+	provinces= { 7193 11984 }
 }

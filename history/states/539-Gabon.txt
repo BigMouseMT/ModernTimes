@@ -1,34 +1,28 @@
-
 state={
 	id=539
 	name="STATE_539"
-	manpower = 2564000
-	
-	state_category = rural
-	resources={
-		rubber=1 # was: 1
-	}
+
 	history={
 		owner = GAB
 		add_core_of = GAB
 		victory_points = {
-			8193 2
-		}
-		victory_points = {
-			5139 1
+			5139 1 
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
-			air_base = 1
 			5139 = {
 				naval_base = 1
+
 			}
+
 		}
 
 	}
 
 	provinces={
-		 10948  8207 5139
+		5139 8207 10948 
 	}
+	manpower=409752
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

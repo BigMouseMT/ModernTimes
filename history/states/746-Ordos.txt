@@ -11,23 +11,12 @@ state={
 	{
 		owner = PRC
 		add_core_of = PRC
-		add_core_of = PRC
-		add_core_of = PRC
 		
 		buildings = {
 			infrastructure = 2
 		}
 
-		1938.10.25 = {
-			controller = PRC
-		}
-		
-		1939.1.1 = {
-			
-			owner = PRC
-			controller = PRC
-
-		}
+ 
 	}
 	manpower=500000
 	buildings_max_level_factor=1.000

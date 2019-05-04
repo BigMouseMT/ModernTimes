@@ -10,8 +10,6 @@ state={
 	history={
 		owner = PRC
 		add_core_of = PRC
-		add_core_of = PRC
-		add_core_of = PRC
 		victory_points = {
 			12732 3 
 		}
@@ -21,19 +19,6 @@ state={
 			arms_factory = 1
 
 		}
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = {
-						has_dlc = "Waking the Tiger" 
-					}
-
-				}
-				PRC = {
-					transfer_state = PREV
-
-				}
-			}
-		}
+ 
 	}
 }
