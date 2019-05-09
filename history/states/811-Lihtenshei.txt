@@ -1,0 +1,17 @@
+state={
+	id=811
+	name="STATE_811"
+	provinces={
+		6680 
+	}
+ 
+	manpower = 55000
+	resources={
+ 
+	}
+			history = {
+	owner = LIH
+	add_core_of = LIH
+	}
+	state_category = rural
+}

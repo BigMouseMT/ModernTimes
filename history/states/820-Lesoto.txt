@@ -1,0 +1,20 @@
+state={
+	id=820
+	name="STATE_820"
+	provinces={
+		4556 
+	}
+	manpower = 550000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = LES
+		owner = LES
+ 
+	}
+}

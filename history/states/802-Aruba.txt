@@ -1,0 +1,20 @@
+state={
+	id=802
+	name="STATE_802"
+	provinces={
+		153 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = ARU
+		owner = ARU
+ 
+	}
+}

@@ -1,0 +1,20 @@
+state={
+	id=822
+	name="STATE_822"
+	provinces={
+		741 754 9576
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = PMR
+		owner = PMR
+ 
+	}
+}

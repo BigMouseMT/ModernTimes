@@ -1,0 +1,21 @@
+state={
+	id=794
+	name="STATE_794"
+	provinces={
+		4155 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = AVI
+		owner = AVI
+ 
+	}
+	
+}

@@ -1,0 +1,17 @@
+state={
+	id=815
+	name="STATE_815"
+	provinces={
+		6975 
+	}
+ 
+	manpower = 55000
+	resources={
+ 
+	}
+		history = {
+	owner = MNC
+	add_core_of = MNC
+	}
+	state_category = rural
+}

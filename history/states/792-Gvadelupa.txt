@@ -1,0 +1,21 @@
+state={
+	id=792
+	name="STATE_792"
+	provinces={
+		9377 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = GVA
+		owner = GVA
+ 
+	}
+	
+}

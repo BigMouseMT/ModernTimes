@@ -1,0 +1,29 @@
+﻿capital = 709
+oob = "SEI_1936"
+set_research_slots = 1
+set_convoys = 10
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 30
+		}
+
+		fascism = {
+			popularity = 15
+		}
+		
+		communism = {
+			popularity = 15
+		}
+		
+		neutrality = { 
+			popularity = 50
+		}
+	}
+	
+	ruling_party = neutrality
+	last_election = "1926.5.8"
+	election_frequency = 120
+	elections_allowed = no
+}

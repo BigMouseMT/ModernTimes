@@ -1,0 +1,20 @@
+state={
+	id=804
+	name="STATE_804"
+	provinces={
+		13263 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = HAI
+		owner = HAI
+ 
+	}
+}

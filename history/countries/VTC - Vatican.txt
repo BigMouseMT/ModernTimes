@@ -1,0 +1,20 @@
+﻿capital = 777
+oob = "MNC_1991"
+
+add_ideas = neutrality_idea
+
+set_politics = {
+
+	parties = {
+		democratic = {
+			popularity = 100
+		} 
+ 
+	}
+
+	ruling_party = democratic
+	last_election = "1991.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+ 

@@ -1,0 +1,16 @@
+state={
+	id=810
+	name="STATE_810"
+	provinces={
+		1515 
+	}
+	manpower = 15000 
+	
+	state_category = tiny_island
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+
+	}
+}

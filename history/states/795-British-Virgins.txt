@@ -1,0 +1,21 @@
+state={
+	id=795
+	name="STATE_795"
+	provinces={
+		13253 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = BVI
+		owner = BVI
+ 
+	}
+	
+}

@@ -6,7 +6,8 @@ state={
 	state_category = small_island
 
 	history={
-		owner = ENG
+		owner = MAF
+		add_core_of = MAF
 		buildings = {
 			infrastructure = 3
 			13018 = {

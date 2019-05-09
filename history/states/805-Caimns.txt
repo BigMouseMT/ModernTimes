@@ -1,0 +1,20 @@
+state={
+	id=805
+	name="STATE_805"
+	provinces={
+		13262 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = CAI
+		owner = CAI
+ 
+	}
+}

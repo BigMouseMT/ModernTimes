@@ -1,0 +1,20 @@
+state={
+	id=800
+	name="STATE_800"
+	provinces={
+		13264 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = SBI
+		owner = SBI
+ 
+	}
+}

@@ -1,0 +1,21 @@
+state={
+	id=793
+	name="STATE_793"
+	provinces={
+		13084 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = SMN
+		owner = SMN
+ 
+	}
+	
+}

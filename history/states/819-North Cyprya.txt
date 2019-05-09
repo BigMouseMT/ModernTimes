@@ -1,0 +1,22 @@
+state={
+	id=819
+	name="STATE_819"
+	provinces={
+		11984 
+	}
+	manpower = 347959
+	
+	state_category = rural
+	resources={
+		chromium=3 # was: 4
+	}
+
+	history=
+	{
+		owner = NYP
+		add_core_of = NYP
+ 
+ 
+
+	}
+}

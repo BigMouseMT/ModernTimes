@@ -1,0 +1,17 @@
+state={
+	id=814
+	name="STATE_814"
+	provinces={
+		11861 
+	}
+ 
+	manpower = 55000
+	resources={
+ 
+	}
+				history = {
+	owner = SAN
+	add_core_of = SAN
+	}
+	state_category = rural
+}

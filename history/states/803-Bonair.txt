@@ -1,0 +1,20 @@
+state={
+	id=803
+	name="STATE_803"
+	provinces={
+		13260 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = BSS
+		owner = BSS
+ 
+	}
+}

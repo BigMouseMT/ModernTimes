@@ -1,0 +1,17 @@
+state={
+	id=816
+	name="STATE_816"
+	provinces={
+		12299 
+	}
+ 
+	manpower = 55000
+	resources={
+ 
+	}
+				history = {
+	owner = SYD
+	add_core_of = SYD
+	}
+	state_category = rural
+}

@@ -1,0 +1,20 @@
+state={
+	id=821
+	name="STATE_821"
+	provinces={
+		7900 
+	}
+	manpower = 550000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = EVA
+		owner = EVA
+ 
+	}
+}

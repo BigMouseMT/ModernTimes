@@ -1,0 +1,20 @@
+state={
+	id=797
+	name="STATE_797"
+	provinces={
+		13255 
+	}
+	manpower = 55000
+	resources={
+ 
+	}
+	
+	state_category = rural
+
+
+	history={
+ 		add_core_of = AAB
+		owner = AAB
+ 
+	}
+}
