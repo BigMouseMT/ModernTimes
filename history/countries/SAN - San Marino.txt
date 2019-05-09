@@ -4,7 +4,7 @@ oob = "MNC_1991"
 
 set_research_slots = 4
 
-add_ideas = neutrality_idea
+
 
 set_politics = {
 

@@ -1,7 +1,7 @@
 ﻿capital = 777
 oob = "MNC_1991"
 
-add_ideas = neutrality_idea
+ 
 
 set_politics = {
 

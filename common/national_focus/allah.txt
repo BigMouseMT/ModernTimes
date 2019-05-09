@@ -1,0 +1,80 @@
+focus_tree = {
+	id = gdl_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = GDL
+		}
+	}
+	
+	default = no
+	
+	focus = {
+		id = SOV_women_pilots
+		icon = GFX_goal_generic_CAS
+		x = 0
+		y = 0
+		cost = 100000
+		ai_will_do = {
+ factor = 0
+		}
+
+ 
+ 
+	}
+		focus = {
+		id = USA_suspend_the_presecution
+		icon = GFX_goal_generic_CAS
+		x = 0
+		y = 2
+		cost = 100000
+		ai_will_do = {
+ factor = 0
+		}
+
+ 
+ 
+	}
+		focus = {
+		id = USA_democratic_socialism
+		icon = GFX_goal_generic_CAS
+		x = 0
+		y = 4
+		cost = 100000
+		ai_will_do = {
+ factor = 0
+		}
+
+ 
+ 
+	}
+		focus = {
+		id = USA_america_first
+		icon = GFX_goal_generic_CAS
+		x = 0
+		y = 6
+		cost = 100000
+		ai_will_do = {
+ factor = 0
+		}
+
+ 
+ 
+	}
+			focus = {
+		id = USA_honor_the_confederacy
+		icon = GFX_goal_generic_CAS
+		x = 0
+		y = 8
+		cost = 100000
+		ai_will_do = {
+  factor = 0
+		}
+
+ 
+ 
+	}
+}
