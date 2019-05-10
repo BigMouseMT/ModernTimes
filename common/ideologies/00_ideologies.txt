@@ -8,10 +8,10 @@ ideologies = {
 			}
 		
 			liberalism = {
-			}
-		
+			} 
+					
 			socialism = {
-			}
+			} 
 		}
 		
 		dynamic_faction_names = {
@@ -23,7 +23,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 0 0 255 }
+		color = { 51 165 218 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = no
@@ -61,19 +61,19 @@ ideologies = {
 		
 		types = {
 		
-			marxism = {
-			}
-			
 			leninism = {
 			}
 			
-			stalinism = {
-			}
+			anarchist_communism = {
+			} 
+			
+			revisionism = {
+			} 
 			
 			anti_revisionism = {
 			}
 			
-			anarchist_communism = {
+			stalinism = {
 			}
 		}
 		
@@ -205,5 +205,6 @@ ideologies = {
 		can_collaborate = yes
 
 		ai_neutral = yes # 
-	}
+	} 
+	
 }
