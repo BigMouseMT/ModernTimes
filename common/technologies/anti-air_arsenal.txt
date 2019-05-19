@@ -1,0 +1,1963 @@
+	technologies = {
+	
+	@1950 = 0
+	@1970 = 5
+	@1990 = 10
+	@2000 = 15
+	@2010 = 20
+	@2017 = 25
+	@2022 = 30
+	@2026 = 35
+	@2029 = 40
+	@2034 = 45
+	@2040 = 50
+	
+	@01 = 0
+	@02 = 5
+	@03 = 10
+	@04 = 15
+	@05 = 20
+	@06 = 25
+	@07 = 30
+	@08 = 35
+	@09 = 40
+	@10 = 45
+	@11 = 0
+	
+	############################### Оружие поддержки пехоты
+	small_pvo_rockets_1 = {
+
+ 		enable_equipments = {
+		small_pvo_rockets_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1950 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_2 = {
+ 
+  		enable_equipments = {
+		small_pvo_rockets_2
+		}
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1970 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_3 = {
+
+ 		enable_equipments = {
+		small_pvo_rockets_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1990 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_4 = {
+
+  		enable_equipments = {
+		small_pvo_rockets_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2000 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_5 = {
+
+         		enable_equipments = {
+		small_pvo_rockets_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2010 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_6 = {
+
+  		enable_equipments = {
+		small_pvo_rockets_6
+		}
+ 
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2017
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2017 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_7 = {
+
+  		enable_equipments = {
+		small_pvo_rockets_7
+		}
+ 
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2022
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2022 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_8 = {
+
+  		enable_equipments = {
+		small_pvo_rockets_8
+		}
+ 
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2026
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2026 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_9 = {
+
+  		enable_equipments = {
+		small_pvo_rockets_9
+		}
+ 
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2029
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2029 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_10 = {
+
+  		enable_equipments = {
+		small_pvo_rockets_10
+		}
+ 
+		
+		path = {
+			leads_to_tech = small_pvo_rockets_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2034
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2034 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		small_pvo_rockets_11 = {
+
+		enable_equipments = {
+		small_pvo_rockets_11
+		}	
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2040 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	##########################################################
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		############################### Средства индивидуальной защиты
+	zsu_weapon_1 = {
+
+  		enable_equipments = {
+		zsu_weapon_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_weapon_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1950 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_2 = {
+ 
+   		enable_equipments = {
+		zsu_weapon_2
+		}
+		
+		path = {
+			leads_to_tech = zsu_weapon_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1970 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_3 = {
+  		enable_equipments = {
+		zsu_weapon_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_weapon_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1990 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_4 = {
+
+   		enable_equipments = {
+		zsu_weapon_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_weapon_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2000 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_5 = {
+
+   		enable_equipments = {
+		zsu_weapon_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_weapon_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2010 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_6 = {
+
+   		enable_equipments = {
+		zsu_weapon_6
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_weapon_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2017
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2017 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_7 = {
+
+   		enable_equipments = {
+		zsu_weapon_7
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_weapon_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2022
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2022 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_8 = {
+
+   		enable_equipments = {
+		zsu_weapon_8
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_weapon_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2026
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2026 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_9 = {
+
+   		enable_equipments = {
+		zsu_weapon_9
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_weapon_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2029
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2029 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_10 = {
+
+   		enable_equipments = {
+		zsu_weapon_10
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_weapon_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2034
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2034 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_weapon_11 = {
+
+		enable_equipments = {
+		zsu_weapon_11
+		}	
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2040 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	##########################################################
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		############################### Оружие поддержки пехоты
+	zsu_gun_1 = {
+
+   		enable_equipments = {
+		zsu_gun_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_gun_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1950 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_2 = {
+    		enable_equipments = {
+		zsu_gun_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_gun_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1970 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_3 = {
+
+    		enable_equipments = {
+		zsu_gun_3
+		}
+		
+		path = {
+			leads_to_tech = zsu_gun_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1990 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_4 = {
+
+    		enable_equipments = {
+		zsu_gun_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_gun_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2000 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_5 = {
+
+    		enable_equipments = {
+		zsu_gun_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_gun_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2010 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_6 = {
+
+    		enable_equipments = {
+		zsu_gun_6
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_gun_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2017
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2017 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_7 = {
+
+    		enable_equipments = {
+		zsu_gun_7
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_gun_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2022
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2022 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_8 = {
+
+    		enable_equipments = {
+		zsu_gun_8
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_gun_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2026
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2026 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_9 = {
+
+    		enable_equipments = {
+		zsu_gun_9
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_gun_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2029
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2029 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_10 = {
+
+    		enable_equipments = {
+		zsu_gun_10
+		}
+ 
+		
+		path = {
+			leads_to_tech = zsu_gun_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2034
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2034 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		zsu_gun_11 = {
+
+		enable_equipments = {
+		zsu_gun_11
+		}	
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2040 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	##########################################################
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		############################### Оружие поддержки пехоты
+	middle_pvo_rockets_1 = {
+
+    		enable_equipments = {
+		middle_pvo_rockets_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1950 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_2 = {
+ 
+     		enable_equipments = {
+		middle_pvo_rockets_2
+		}
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1970 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_3 = {
+
+     		enable_equipments = {
+		middle_pvo_rockets_3
+		}
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1990 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_4 = {
+
+     		enable_equipments = {
+		middle_pvo_rockets_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2000 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_5 = {
+
+     		enable_equipments = {
+		middle_pvo_rockets_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2010 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_6 = {
+
+     		enable_equipments = {
+		middle_pvo_rockets_6
+		}
+ 
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2017
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2017 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_7 = {
+
+     		enable_equipments = {
+		middle_pvo_rockets_7
+		}
+ 
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2022
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2022 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_8 = {
+
+     		enable_equipments = {
+		middle_pvo_rockets_8
+		}
+ 
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2026
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2026 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_9 = {
+
+     		enable_equipments = {
+		middle_pvo_rockets_9
+		}
+ 
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2029
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2029 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_10 = {
+
+     		enable_equipments = {
+		middle_pvo_rockets_10
+		}
+ 
+		
+		path = {
+			leads_to_tech = middle_pvo_rockets_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2034
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2034 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		middle_pvo_rockets_11 = {
+
+		enable_equipments = {
+		middle_pvo_rockets_11
+		}	
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2040 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	##########################################################
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		############################### Оружие поддержки пехоты
+	heavy_pvo_rockets_1 = {
+
+     		enable_equipments = {
+		heavy_pvo_rockets_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1950 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_2 = {
+ 
+      		enable_equipments = {
+		heavy_pvo_rockets_2
+		}
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1970 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_3 = {
+
+      		enable_equipments = {
+		heavy_pvo_rockets_3
+		}
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1990 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_4 = {
+
+      		enable_equipments = {
+		heavy_pvo_rockets_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2000 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_5 = {
+
+      		enable_equipments = {
+		heavy_pvo_rockets_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2010 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_6 = {
+
+      		enable_equipments = {
+		heavy_pvo_rockets_6
+		}
+ 
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2017
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2017 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_7 = {
+
+      		enable_equipments = {
+		heavy_pvo_rockets_7
+		}
+ 
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2022
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2022 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_8 = {
+
+      		enable_equipments = {
+		heavy_pvo_rockets_8
+		}
+ 
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2026
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2026 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_9 = {
+
+      		enable_equipments = {
+		heavy_pvo_rockets_9
+		}
+ 
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2029
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2029 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_10 = {
+
+      		enable_equipments = {
+		heavy_pvo_rockets_10
+		}
+ 
+		
+		path = {
+			leads_to_tech = heavy_pvo_rockets_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2034
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2034 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		heavy_pvo_rockets_11 = {
+
+		enable_equipments = {
+		heavy_pvo_rockets_11
+		}	
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2040 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	##########################################################
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+			############################### Оружие поддержки пехоты
+	strateg_pvo_rockets_1 = {
+
+     		enable_equipments = {
+		strateg_pvo_rockets_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1950 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_2 = {
+ 
+      		enable_equipments = {
+		strateg_pvo_rockets_2
+		}
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1970 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_3 = {
+
+      		enable_equipments = {
+		strateg_pvo_rockets_3
+		}
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @1990 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_4 = {
+
+      		enable_equipments = {
+		strateg_pvo_rockets_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2000 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_5 = {
+
+      		enable_equipments = {
+		strateg_pvo_rockets_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2010 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_6 = {
+
+      		enable_equipments = {
+		strateg_pvo_rockets_6
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2017
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2017 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_7 = {
+
+      		enable_equipments = {
+		strateg_pvo_rockets_7
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2022
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2022 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_8 = {
+
+      		enable_equipments = {
+		strateg_pvo_rockets_8
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2026
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2026 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_9 = {
+
+      		enable_equipments = {
+		strateg_pvo_rockets_9
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2029
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2029 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_10 = {
+
+      		enable_equipments = {
+		strateg_pvo_rockets_10
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_pvo_rockets_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2034
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2034 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		strateg_pvo_rockets_11 = {
+
+		enable_equipments = {
+		strateg_pvo_rockets_11
+		}	
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = anti-air_units_arsenal_folder
+			position = { x = @2040 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	##########################################################
+	
+	
+ 
+	##########################################################
+	
+	}

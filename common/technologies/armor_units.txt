@@ -1,0 +1,1080 @@
+	technologies = {
+	
+	@1950 = 0
+	@1970 = 5
+	@1990 = 10
+	@2000 = 15
+	@2010 = 20
+	@2017 = 25
+	@2022 = 30
+	@2026 = 35
+	@2029 = 40
+	@2034 = 45
+	@2040 = 50
+	
+	@01 = 0
+	@02 = 5
+	@03 = 10
+	@04 = 15
+	@05 = 20
+	@06 = 25
+	@07 = 30
+	@08 = 35
+	@09 = 40
+	@10 = 45
+	@11 = 0
+	
+	############################### Оружие поддержки пехоты
+	MT_1 = {
+
+ 		enable_equipments = {
+		MT_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = MT_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = armor_units_folder
+			position = { x = @1950 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MT_2 = {
+ 
+  		enable_equipments = {
+		MT_2
+		}
+		
+		path = {
+			leads_to_tech = MT_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = armor_units_folder
+			position = { x = @1970 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MT_3 = {
+
+ 		enable_equipments = {
+		MT_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = MT_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = armor_units_folder
+			position = { x = @1990 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MT_4 = {
+
+  		enable_equipments = {
+		MT_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = MT_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = armor_units_folder
+			position = { x = @2000 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MT_5 = {
+
+         		enable_equipments = {
+		MT_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = MT_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = armor_units_folder
+			position = { x = @2010 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MT_6 = {
+
+  		enable_equipments = {
+		MT_6
+		}
+ 
+		
+		path = {
+			leads_to_tech = MT_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2017
+		folder = {
+			name = armor_units_folder
+			position = { x = @2017 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MT_7 = {
+
+  		enable_equipments = {
+		MT_7
+		}
+ 
+		
+		path = {
+			leads_to_tech = MT_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2022
+		folder = {
+			name = armor_units_folder
+			position = { x = @2022 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MT_8 = {
+
+  		enable_equipments = {
+		MT_8
+		}
+ 
+		
+		path = {
+			leads_to_tech = MT_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2026
+		folder = {
+			name = armor_units_folder
+			position = { x = @2026 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MT_9 = {
+
+  		enable_equipments = {
+		MT_9
+		}
+ 
+		
+		path = {
+			leads_to_tech = MT_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2029
+		folder = {
+			name = armor_units_folder
+			position = { x = @2029 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		############################### Средства индивидуальной защиты
+	PT_1 = {
+
+  		enable_equipments = {
+		PT_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = PT_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = armor_units_folder
+			position = { x = @1950 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		PT_2 = {
+ 
+   		enable_equipments = {
+		PT_2
+		}
+		
+		path = {
+			leads_to_tech = PT_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = armor_units_folder
+			position = { x = @1970 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		PT_3 = {
+  		enable_equipments = {
+		PT_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = PT_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = armor_units_folder
+			position = { x = @1990 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		PT_4 = {
+
+   		enable_equipments = {
+		PT_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = PT_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = armor_units_folder
+			position = { x = @2000 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		PT_5 = {
+
+   		enable_equipments = {
+		PT_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = PT_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = armor_units_folder
+			position = { x = @2010 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		############################### Оружие поддержки пехоты
+	AT_1 = {
+
+   		enable_equipments = {
+		AT_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = AT_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = armor_units_folder
+			position = { x = @1950 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		AT_2 = {
+    		enable_equipments = {
+		AT_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = AT_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = armor_units_folder
+			position = { x = @1970 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		AT_3 = {
+
+    		enable_equipments = {
+		AT_3
+		}
+		
+		path = {
+			leads_to_tech = AT_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = armor_units_folder
+			position = { x = @1990 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		AT_4 = {
+
+    		enable_equipments = {
+		AT_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = AT_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = armor_units_folder
+			position = { x = @2000 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		AT_5 = {
+
+    		enable_equipments = {
+		AT_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = AT_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = armor_units_folder
+			position = { x = @2010 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+		############################### Оружие поддержки пехоты
+	ST_1 = {
+
+    		enable_equipments = {
+		ST_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = ST_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = armor_units_folder
+			position = { x = @1950 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		ST_2 = {
+ 
+     		enable_equipments = {
+		ST_2
+		}
+		
+		path = {
+			leads_to_tech = ST_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = armor_units_folder
+			position = { x = @1970 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		ST_3 = {
+
+     		enable_equipments = {
+		ST_3
+		}
+		
+		path = {
+			leads_to_tech = ST_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = armor_units_folder
+			position = { x = @1990 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		ST_4 = {
+
+     		enable_equipments = {
+		ST_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = ST_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = armor_units_folder
+			position = { x = @2000 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		ST_5 = {
+
+     		enable_equipments = {
+		ST_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = ST_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = armor_units_folder
+			position = { x = @2010 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		############################### Оружие поддержки пехоты
+	MU_1 = {
+
+     		enable_equipments = {
+		MU_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = MU_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = armor_units_folder
+			position = { x = @1950 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MU_2 = {
+ 
+      		enable_equipments = {
+		MU_2
+		}
+		
+		path = {
+			leads_to_tech = MU_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = armor_units_folder
+			position = { x = @1970 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MU_3 = {
+
+      		enable_equipments = {
+		MU_3
+		}
+		
+		path = {
+			leads_to_tech = MU_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = armor_units_folder
+			position = { x = @1990 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MU_4 = {
+
+      		enable_equipments = {
+		MU_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = MU_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = armor_units_folder
+			position = { x = @2000 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		MU_5 = {
+
+      		enable_equipments = {
+		MU_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = MU_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = armor_units_folder
+			position = { x = @2010 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+ 
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+			############################### Оружие поддержки пехоты
+	RT_1 = {
+
+     		enable_equipments = {
+		RT_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = RT_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1950
+		folder = {
+			name = armor_units_folder
+			position = { x = @1950 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		RT_2 = {
+ 
+      		enable_equipments = {
+		RT_2
+		}
+		
+		path = {
+			leads_to_tech = RT_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = armor_units_folder
+			position = { x = @1970 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		RT_3 = {
+
+      		enable_equipments = {
+		RT_3
+		}
+		
+		path = {
+			leads_to_tech = RT_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = armor_units_folder
+			position = { x = @1990 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		RT_4 = {
+
+      		enable_equipments = {
+		RT_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = RT_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = armor_units_folder
+			position = { x = @2000 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		RT_5 = {
+
+      		enable_equipments = {
+		RT_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = RT_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = armor_units_folder
+			position = { x = @2010 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+ 
+	
+	##########################################################
+	
+	}

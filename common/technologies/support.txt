@@ -1,1 +1,1796 @@
+	technologies = {
+	
+	@1950 = 0
+	@1970 = 5
+	@1990 = 10
+	@2000 = 15
+	@2010 = 20
+	@2017 = 25
+	@2022 = 30
+	@2026 = 35
+	@2029 = 40
+	@2034 = 45
+	@2040 = 50
+	
+	@01 = 0
+	@02 = 5
+	@03 = 10
+	@04 = 15
+	@05 = 20
+	@06 = 25
+	@07 = 30
+	@08 = 35
+	@09 = 40
+	@10 = 45
+	@11 = 0
+#####################
+	############################### Оружие поддержки пехоты
+	saperus_1 = {
+
  
+ 
+		
+		path = {
+			leads_to_tech = saperus_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = support_forces_folder
+			position = { x = @1950 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		saperus_2 = {
+ 
+ 
+		
+		path = {
+			leads_to_tech = saperus_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = support_forces_folder
+			position = { x = @1970 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		saperus_3 = {
+
+ 
+		
+		path = {
+			leads_to_tech = saperus_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = support_forces_folder
+			position = { x = @1990 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		saperus_4 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = saperus_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2005
+		folder = {
+			name = support_forces_folder
+			position = { x = @2000 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		saperus_5 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = saperus_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = support_forces_folder
+			position = { x = @2010 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		saperus_6 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = saperus_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2015
+		folder = {
+			name = support_forces_folder
+			position = { x = @2017 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		saperus_7 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = saperus_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2020
+		folder = {
+			name = support_forces_folder
+			position = { x = @2022 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		saperus_8 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = saperus_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = support_forces_folder
+			position = { x = @2026 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		saperus_9 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = saperus_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2030
+		folder = {
+			name = support_forces_folder
+			position = { x = @2029 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		saperus_10 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = saperus_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = support_forces_folder
+			position = { x = @2034 y = @01 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	
+	
+	######
+	
+		medicians_1 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = medicians_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = support_forces_folder
+			position = { x = @1950 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		medicians_2 = {
+ 
+ 
+		
+		path = {
+			leads_to_tech = medicians_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = support_forces_folder
+			position = { x = @1970 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		medicians_3 = {
+
+ 
+		
+		path = {
+			leads_to_tech = medicians_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = support_forces_folder
+			position = { x = @1990 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		medicians_4 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = medicians_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2005
+		folder = {
+			name = support_forces_folder
+			position = { x = @2000 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		medicians_5 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = medicians_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = support_forces_folder
+			position = { x = @2010 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		medicians_6 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = medicians_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2015
+		folder = {
+			name = support_forces_folder
+			position = { x = @2017 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		medicians_7 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = medicians_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2020
+		folder = {
+			name = support_forces_folder
+			position = { x = @2022 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		medicians_8 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = medicians_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = support_forces_folder
+			position = { x = @2026 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		medicians_9 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = medicians_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2030
+		folder = {
+			name = support_forces_folder
+			position = { x = @2029 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		medicians_10 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = medicians_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = support_forces_folder
+			position = { x = @2034 y = @02 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	
+	
+	
+	####
+		supply_1 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = supply_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = support_forces_folder
+			position = { x = @1950 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		supply_2 = {
+ 
+ 
+		
+		path = {
+			leads_to_tech = supply_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = support_forces_folder
+			position = { x = @1970 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		supply_3 = {
+
+ 
+		
+		path = {
+			leads_to_tech = supply_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = support_forces_folder
+			position = { x = @1990 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		supply_4 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = supply_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2005
+		folder = {
+			name = support_forces_folder
+			position = { x = @2000 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		supply_5 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = supply_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = support_forces_folder
+			position = { x = @2010 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		supply_6 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = supply_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2015
+		folder = {
+			name = support_forces_folder
+			position = { x = @2017 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		supply_7 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = supply_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2020
+		folder = {
+			name = support_forces_folder
+			position = { x = @2022 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		supply_8 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = supply_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = support_forces_folder
+			position = { x = @2026 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		supply_9 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = supply_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2030
+		folder = {
+			name = support_forces_folder
+			position = { x = @2029 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		supply_10 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = supply_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = support_forces_folder
+			position = { x = @2034 y = @03 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	
+	
+	
+	####
+		enginerys_1 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = enginerys_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = support_forces_folder
+			position = { x = @1950 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		enginerys_2 = {
+ 
+ 
+		
+		path = {
+			leads_to_tech = enginerys_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = support_forces_folder
+			position = { x = @1970 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		enginerys_3 = {
+
+ 
+		
+		path = {
+			leads_to_tech = enginerys_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = support_forces_folder
+			position = { x = @1990 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		enginerys_4 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = enginerys_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2005
+		folder = {
+			name = support_forces_folder
+			position = { x = @2000 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		enginerys_5 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = enginerys_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = support_forces_folder
+			position = { x = @2010 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		enginerys_6 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = enginerys_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2015
+		folder = {
+			name = support_forces_folder
+			position = { x = @2017 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		enginerys_7 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = enginerys_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2020
+		folder = {
+			name = support_forces_folder
+			position = { x = @2022 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		enginerys_8 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = enginerys_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = support_forces_folder
+			position = { x = @2026 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		enginerys_9 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = enginerys_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2030
+		folder = {
+			name = support_forces_folder
+			position = { x = @2029 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		enginerys_10 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = enginerys_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = support_forces_folder
+			position = { x = @2034 y = @04 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	
+	
+	
+	
+	
+	#
+	
+		recon_1 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = support_forces_folder
+			position = { x = @1950 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_2 = {
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = support_forces_folder
+			position = { x = @1970 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_3 = {
+
+ 
+		
+		path = {
+			leads_to_tech = recon_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = support_forces_folder
+			position = { x = @1990 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_4 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2005
+		folder = {
+			name = support_forces_folder
+			position = { x = @2000 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_5 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = support_forces_folder
+			position = { x = @2010 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_6 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2015
+		folder = {
+			name = support_forces_folder
+			position = { x = @2017 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_7 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2020
+		folder = {
+			name = support_forces_folder
+			position = { x = @2022 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_8 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = support_forces_folder
+			position = { x = @2026 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_9 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2030
+		folder = {
+			name = support_forces_folder
+			position = { x = @2029 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_10 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = support_forces_folder
+			position = { x = @2034 y = @05 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	
+	
+		#
+	
+		recon_helicopter_1 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = support_forces_folder
+			position = { x = @1950 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_helicopter_2 = {
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = support_forces_folder
+			position = { x = @1970 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_helicopter_3 = {
+
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = support_forces_folder
+			position = { x = @1990 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_helicopter_4 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2005
+		folder = {
+			name = support_forces_folder
+			position = { x = @2000 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_helicopter_5 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = support_forces_folder
+			position = { x = @2010 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_helicopter_6 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2015
+		folder = {
+			name = support_forces_folder
+			position = { x = @2017 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_helicopter_7 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2020
+		folder = {
+			name = support_forces_folder
+			position = { x = @2022 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_helicopter_8 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = support_forces_folder
+			position = { x = @2026 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_helicopter_9 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2030
+		folder = {
+			name = support_forces_folder
+			position = { x = @2029 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_helicopter_10 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_helicopter_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = support_forces_folder
+			position = { x = @2034 y = @06 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	
+	
+	
+	
+	###########
+		#
+	
+		recon_bla_1 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2000
+		folder = {
+			name = support_forces_folder
+			position = { x = @1950 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_bla_2 = {
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2005
+		folder = {
+			name = support_forces_folder
+			position = { x = @1970 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_bla_3 = {
+
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = support_forces_folder
+			position = { x = @1990 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_bla_4 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2015
+		folder = {
+			name = support_forces_folder
+			position = { x = @2000 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_bla_5 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2020
+		folder = {
+			name = support_forces_folder
+			position = { x = @2010 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_bla_6 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = support_forces_folder
+			position = { x = @2017 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_bla_7 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_8
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2030
+		folder = {
+			name = support_forces_folder
+			position = { x = @2022 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_bla_8 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_9
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2035
+		folder = {
+			name = support_forces_folder
+			position = { x = @2026 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_bla_9 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_10
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2040
+		folder = {
+			name = support_forces_folder
+			position = { x = @2029 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		recon_bla_10 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = recon_bla_11
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2045
+		folder = {
+			name = support_forces_folder
+			position = { x = @2034 y = @07 }
+		}
+		
+		categories = {
+			infantry_weapons
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	
+	
+}	

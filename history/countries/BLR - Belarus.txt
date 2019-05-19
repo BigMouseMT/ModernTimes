@@ -1,5 +1,5 @@
 ﻿capital = 206 #Minsk
-
+add_research_slot = 2
 oob = "BLR_1936"
 
  
