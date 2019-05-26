@@ -8,6 +8,7 @@ spriteTypes = {
 		name = "GFX_light_weapon_equipment_0_medium"
 		texturefile = "gfx/interface/technologies/light_weapon_0.dds" #снаряжение
 	}
+	
 	}
 	
 	
