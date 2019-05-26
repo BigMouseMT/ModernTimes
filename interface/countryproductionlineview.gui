@@ -1088,7 +1088,7 @@ guiTypes = {
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		animation_time = 300
-		size = { width=600 height=100%% }
+		size = { width=600 height=800 }
 		click_to_front = yes
 		
 		background = {
@@ -1099,10 +1099,11 @@ guiTypes = {
 		containerWindowType = {
 			name = "equipments"
 			position = { x=0 y=85 }
-			size = { width=100%% height=100%% }
+			size = { width=100%% height=700 }
+			margin = { top = 13 bottom = 13}
 			verticalScrollbar = "right_vertical_slider"
-			smooth_scrolling = yes
-			margin = { top = 13 bottom = 12}				
+			 smooth_scrolling = yes
+ 
 		
 			background = {
 				name = "Background"		
@@ -1112,8 +1113,8 @@ guiTypes = {
 			gridboxtype = {
 				name = "equipments_grid"
 				position = { x = 9 y = 0 }
-				size = { width = 100%% height = 100%% }
-				slotsize = { width = 335 height = 82 }
+				size = { width = 120%% height = 10000% }
+				slotsize = { width = 335 height = 175  }
 				format = "UPPER_LEFT"
 				max_slots_horizontal = 1
 			}
@@ -1303,7 +1304,7 @@ guiTypes = {
 				name = "equipments_grid"
 				position = { x = 2 y = 0 }
 				size = { width = 120%% height = 100%% }
-				slotsize = { width = 335 height = 83 }
+				slotsize = { width = 335 height = 170 }
 				format = "UPPER_LEFT"
 				max_slots_horizontal = 1
 				padding = { bottom = 10 }
@@ -1523,14 +1524,14 @@ guiTypes = {
 		iconType = {
 			name ="outdated_equipment_overlay"
 			spriteType = "GFX_outdated_equipment_overlay"
-			position = {  x=19 y=80 }
+			position = {  x=16 y=36 }
 			alwaystransparent = yes			
 		}
 		
 		iconType = {
 			name ="equipment_icon"
 			spriteType = "GFX_technology_medium"
-			position = { x=80 y=72 }
+			position = { x=142 y=111 }
 			centerposition = yes
 			alwaystransparent = yes
 		}
@@ -2112,7 +2113,7 @@ guiTypes = {
 		iconType = {
 			name ="equipment_icon"
 			spriteType = "GFX_technology_medium"
-			position = { x=145 y=155 }
+			position = { x=142 y=111 }
 			centerposition = yes
 			alwaystransparent = yes
 		}
@@ -3608,7 +3609,7 @@ guiTypes = {
 		iconType = {
 			name ="equipment_icon"
 			spriteType = "GFX_technology_medium"
-			position = { x=175 y=51 }
+			position = { x=140 y=89 }
 			centerposition = yes
 			alwaystransparent = yes
 		}

@@ -11,6 +11,9 @@
  SOV_democratic:0 "Российская Федеративная Республика"
  SOV_democratic_ADJ:0 "РФР"
  SOV_democratic_DEF:0 "Российская Федеративная Республика"
+ SOV_classical_liberalism:0 "Российская Федератиавная Республика"
+ SOV_classical_liberalism_ADJ:0 "РФР"
+ SOV_classical_liberalism_DEF:0 "Российская Федератиавная Республика"
  
  UKR_communism:0 "Украинская Советская Республика"
  UKR_communism_ADJ:0 "УСР"
@@ -24,6 +27,9 @@
  UKR_democratic:0 "Республика Украина"
  UKR_democratic_ADJ:0 "Респуб. Украина"
  UKR_democratic_DEF:0 "Республика Украина"
+ UKR_classical_liberalism:0 "Украина"
+ UKR_classical_liberalism_ADJ:0 "Украина"
+ UKR_classical_liberalism_DEF:0 "Украина"
  
  BLR_communism:0 "Белорусская Советская Республика"
  BLR_communism_ADJ:0 "БСР"
@@ -37,6 +43,9 @@
  BLR_democratic:0 "Республика Беларусь"
  BLR_democratic_ADJ:0 "Респуб. Беларусь"
  BLR_democratic_DEF:0 "Республика Беларусь"
+ BLR_classical_liberalism:0 "Республика Беларусь"
+ BLR_classical_liberalism_ADJ:0 "Республика Беларусь"
+ BLR_classical_liberalism_DEF:0 "Республика Беларусь"
  
  LIT_communism:0 "Литовская Социалистическая Республика"
  LIT_communism_ADJ:0 "ЛиСР"
@@ -50,6 +59,9 @@
  LIT_democratic:0 "Республика Литва"
  LIT_democratic_ADJ:0 "Респуб. Литва"
  LIT_democratic_DEF:0 "Республика Литва"
+ LIT_classical_liberalism:0 "Республика Литва"
+ LIT_classical_liberalism_ADJ:0 "Республика Литва"
+ LIT_classical_liberalism_DEF:0 "Республика Литва"
  
  LAT_communism:0 "Латышская Социалистическая Республика"
  LAT_communism_ADJ:0 "ЛаСР"
@@ -63,6 +75,9 @@
  LAT_democratic:0 "Республика Латвия"
  LAT_democratic_ADJ:0 "Респуб. Латвия"
  LAT_democratic_DEF:0 "Республика Латвия"
+ LAT_classical_liberalism:0 "Республика Латвия"
+ LAT_classical_liberalism_ADJ:0 "Республика Латвия"
+ LAT_classical_liberalism_DEF:0 "Республика Латвия"
  
  EST_communism:0 "Эстонская Социалистическая Республика"
  EST_communism_ADJ:0 "ЭсСР"
@@ -76,6 +91,9 @@
  EST_democratic:0 "Республика Эстония"
  EST_democratic_ADJ:0 "Респуб. Эстония"
  EST_democratic_DEF:0 "Республика Эстония"
+ EST_classical_liberalism:0 "Республика Эстония"
+ EST_classical_liberalism_ADJ:0 "Республика Эстония"
+ EST_classical_liberalism_DEF:0 "Республика Эстония"
  
  POL_communism:0 "Польская Народно-Демократическая Республика"
  POL_communism_ADJ:0 "ПНДР"
@@ -89,6 +107,9 @@
  POL_democratic:0 "Республика Польша"
  POL_democratic_ADJ:0 "Респуб. Польша"
  POL_democratic_DEF:0 "Республика Польша"
+ POL_classical_liberalism:0 "Республика Польша"
+ POL_classical_liberalism_ADJ:0 "Республика Польша"
+ POL_classical_liberalism_DEF:0 "Республика Польша"
  
  GER_communism:0 "Германская Федеративная Демократическая Республика"
  GER_communism_ADJ:0 "ГФДР"
@@ -102,6 +123,9 @@
  GER_democratic:0 "Федеративная Республика Германия"
  GER_democratic_ADJ:0 "ФРГ"
  GER_democratic_DEF:0 "Федеративная Республика Германия"
+ GER_classical_liberalism:0 "Федеративная Республика Германия"
+ GER_classical_liberalism_ADJ:0 "ФРГ"
+ GER_classical_liberalism_DEF:0 "Федеративная Республика Германия"
  
  FRA_communism:0 "Вторая Французская Коммуна"
  FRA_communism_ADJ:0 "Французск. Коммун."
@@ -115,6 +139,9 @@
  FRA_democratic:0 "Французская Республика"
  FRA_democratic_ADJ:0 "Франция"
  FRA_democratic_DEF:0 "Французская Республика"
+ FRA_classical_liberalism:0 "Французская Республика"
+ FRA_classical_liberalism_ADJ:0 "Французская Республика"
+ FRA_classical_liberalism_DEF:0 "Французская Республика"
  
  CZE_communism:0 "Чешская Советская Демократическая Республика"
  CZE_communism_ADJ:0 "ЧСДР"
@@ -128,6 +155,9 @@
  CZE_democratic:0 "Чешская Республика"
  CZE_democratic_ADJ:0 "Чехия"
  CZE_democratic_DEF:0 "Чешская Республика"
+ CZE_classical_liberalism:0 "Чешская Республика"
+ CZE_classical_liberalism_ADJ:0 "Чешская Республика"
+ CZE_classical_liberalism_DEF:0 "Чешская Республика"
  
  SLO_communism:0 "Словацкая Советская Демократическая Республика"
  SLO_communism_ADJ:0 "ССДР"
@@ -141,6 +171,9 @@
  SLO_democratic:0 "Словакия"
  SLO_democratic_ADJ:0 "Словакия"
  SLO_democratic_DEF:0 "Словакия"
+ SLO_classical_liberalism:0 "Словакия"
+ SLO_classical_liberalism_ADJ:0 "Словакия"
+ SLO_classical_liberalism_DEF:0 "Словакия"
  
  AUS_communism:0 "Австрийская Социалистическая Республика"
  AUS_communism_ADJ:0 "АвСР"
@@ -154,6 +187,9 @@
  AUS_democratic:0 "Единая Австрия"
  AUS_democratic_ADJ:0 "Австрия"
  AUS_democratic_DEF:0 "Австрия"
+ AUS_classical_liberalism:0 "Австрия"
+ AUS_classical_liberalism_ADJ:0 "Австрия"
+ AUS_classical_liberalism_DEF:0 "Австрия"
  
  ITA_communism:0 "Итальянская Советская Демократическая Республика"
  ITA_communism_ADJ:0 "ИСДР"
@@ -167,6 +203,9 @@
  ITA_democratic:0 "Итальянская Республика"
  ITA_democratic_ADJ:0 "Италия"
  ITA_democratic_DEF:0 "Итальянская Республика"
+ ITA_classical_liberalism:0 "Итальянская Республика"
+ ITA_classical_liberalism_ADJ:0 "Итальянская Республика"
+ ITA_classical_liberalism_DEF:0 "Итальянская Республика"
  
  SWI_communism:0 "Альпийская Коммуна"       ####Швейцария
  SWI_communism_ADJ:0 "Альп. Коммун."
@@ -180,6 +219,9 @@
  SWI_democratic:0 "Швейцария"
  SWI_democratic_ADJ:0 "Швейцария"
  SWI_democratic_DEF:0 "Швейцария"
+ SWI_classical_liberalism:0 "Швейцария"
+ SWI_classical_liberalism_ADJ:0 "Швейцария"
+ SWI_classical_liberalism_DEF:0 "Швейцария"
  
  LIH_communism:0 "Коммуна Лихтенштейн"
  LIH_communism_ADJ:0 "Коммун. Лихт."
@@ -193,6 +235,9 @@
  LIH_democratic:0 "Лихтенштейн"
  LIH_democratic_ADJ:0 "Лихтенштейн"
  LIH_democratic_DEF:0 "Лихтенштейн"
+ LIH_classical_liberalism:0 "Лихтенштейн"
+ LIH_classical_liberalism_ADJ:0 "Лихтенштейн"
+ LIH_classical_liberalism_DEF:0 "Лихтенштейн"
  
  HOL_communism:0 "Коммуна Нидерланд"       #########Нидерланды
  HOL_communism_ADJ:0 "Коммуна Нидер."
@@ -206,6 +251,9 @@
  HOL_democratic:0 "Нидерланды"
  HOL_democratic_ADJ:0 "Нидерланды"
  HOL_democratic_DEF:0 "Нидерланды"
+ HOL_classical_liberalism:0 "Нидерланды"
+ HOL_classical_liberalism_ADJ:0 "Нидерланды"
+ HOL_classical_liberalism_DEF:0 "Нидерланды"
  
  BEL_communism:0 "Бельгийская Коммуна"
  BEL_communism_ADJ:0 "Бельг. Коммуна"
@@ -219,6 +267,9 @@
  BEL_democratic:0 "Бельгия"
  BEL_democratic_ADJ:0 "Бельгия"
  BEL_democratic_DEF:0 "Бельгия"
+ BEL_classical_liberalism:0 "Бельгия"
+ BEL_classical_liberalism_ADJ:0 "Бельгия"
+ BEL_classical_liberalism_DEF:0 "Бельгия"
  
  LUX_communism:0 "Коммуна Люксембург"
  LUX_communism_ADJ:0 "Люкс. Коммун."
@@ -232,6 +283,9 @@
  LUX_democratic:0 "Люксембург"
  LUX_democratic_ADJ:0 "Люксембург"
  LUX_democratic_DEF:0 "Люксембург"
+ LUX_classical_liberalism:0 "Люксембург"
+ LUX_classical_liberalism_ADJ:0 "Люксембург"
+ LUX_classical_liberalism_DEF:0 "Люксембург"
  
  ENG_communism:0 "Английская Советская Федеративная Республика"
  ENG_communism_ADJ:0 "АСФР"
@@ -245,6 +299,9 @@
  ENG_democratic:0 "Великобритания"
  ENG_democratic_ADJ:0 "Британия"
  ENG_democratic_DEF:0 "Великобритания"
+ ENG_classical_liberalism:0 "Великобритания"
+ ENG_classical_liberalism_ADJ:0 "Великобритания"
+ ENG_classical_liberalism_DEF:0 "Великобритания"
  
  IRE_communism:0 "Ирландская Социалистическая Республика"
  IRE_communism_ADJ:0 "ИрСР"
@@ -258,6 +315,9 @@
  IRE_democratic:0 "Республика Ирландия"
  IRE_democratic_ADJ:0 "Респ. Ирландия"
  IRE_democratic_DEF:0 "Республика Ирландия"
+ IRE_classical_liberalism:0 "Ирландия"
+ IRE_classical_liberalism_ADJ:0 "Ирландия"
+ IRE_classical_liberalism_DEF:0 "Ирландия"
  
  SPR_communism:0 "Испанская Социалистическая Республика"
  SPR_communism_ADJ:0 "ИсСР"
@@ -271,6 +331,9 @@
  SPR_democratic:0 "Республика Испания"
  SPR_democratic_ADJ:0 "Респ. Испания"
  SPR_democratic_DEF:0 "Республика Испания"
+ SPR_classical_liberalism:0 "Республика Испания"
+ SPR_classical_liberalism_ADJ:0 "Республика Испания"
+ SPR_classical_liberalism_DEF:0 "Республика Испания"
  
  POR_communism:0 "Португальская Социалистическая Республика"
  POR_communism_ADJ:0 "ПоСР"
@@ -284,6 +347,9 @@
  POR_democratic:0 "Республика Португалия"
  POR_democratic_ADJ:0 "Рес. Португалия"
  POR_democratic_DEF:0 "Республика Португалия"
+ POR_classical_liberalism:0 "Республика Португалия"
+ POR_classical_liberalism_ADJ:0 "Республика Португалия"
+ POR_classical_liberalism_DEF:0 "Республика Португалия"
  
  AND_communism:0 "Коммуна Андора"          #########Андора
  AND_communism_ADJ:0 "Ком. Андора"
@@ -297,6 +363,9 @@
  AND_democratic:0 "Андора"
  AND_democratic_ADJ:0 "Андора"
  AND_democratic_DEF:0 "Андора"
+ AND_classical_liberalism:0 "Андора"
+ AND_classical_liberalism_ADJ:0 "Андора"
+ AND_classical_liberalism_DEF:0 "Андора"
  
  MNC_communism:0 "Коммуна Монако"          #######Монако
  MNC_communism_ADJ:0 "Коммун. Монако"
@@ -310,6 +379,9 @@
  MNC_democratic:0 "Монако"
  MNC_democratic_ADJ:0 "Монако"
  MNC_democratic_DEF:0 "Монако"
+ MNC_classical_liberalism:0 "Монако"
+ MNC_classical_liberalism_ADJ:0 "Монако"
+ MNC_classical_liberalism_DEF:0 "Монако"
  
  DEN_communism:0 "Датская Народно-Демократическая Республика"         ########Дания
  DEN_communism_ADJ:0 "ДНДР"
@@ -323,6 +395,9 @@
  DEN_democratic:0 "Республика Дания"
  DEN_democratic_ADJ:0 "Респуб. Дания"
  DEN_democratic_DEF:0 "Республика Дания"
+ DEN_classical_liberalism:0 "Республика Дания"
+ DEN_classical_liberalism_ADJ:0 "Республика Дания"
+ DEN_classical_liberalism_DEF:0 "Республика Дания"
  
  SWE_communism:0 "Швецкая Социалистическая Республика"
  SWE_communism_ADJ:0 "ШвСР"
@@ -336,6 +411,9 @@
  SWE_democratic:0 "Республика Швеция"
  SWE_democratic_ADJ:0 "Респ Швеция"
  SWE_democratic_DEF:0 "Республика Швеция"
+ SWE_classical_liberalism:0 "Республика Швеция"
+ SWE_classical_liberalism_ADJ:0 "Республика Швеция"
+ SWE_classical_liberalism_DEF:0 "Республика Швеция"
  
  NOR_communism:0 "Норвежская Демократическая Республика"
  NOR_communism_ADJ:0 "НорДР."
@@ -349,6 +427,9 @@
  NOR_democratic:0 "Республика Норвегия"
  NOR_democratic_ADJ:0 "Респ. Норвегия"
  NOR_democratic_DEF:0 "Республика Норвегия"
+ NOR_classical_liberalism:0 "Республика Норвегия"
+ NOR_classical_liberalism_ADJ:0 "Республика Норвегия"
+ NOR_classical_liberalism_DEF:0 "Республика Норвегия"
  
  FIN_communism:0 "Финская Советская Социалистическая Республика"
  FIN_communism_ADJ:0 "ФССР"
@@ -362,6 +443,9 @@
  FIN_democratic:0 "Республика Финляндия"
  FIN_democratic_ADJ:0 "Респ. Финляндия"
  FIN_democratic_DEF:0 "Республика Финляндия"
+ FIN_classical_liberalism:0 "Республика Финляндия"
+ FIN_classical_liberalism_ADJ:0 "Республика Финляндия"
+ FIN_classical_liberalism_DEF:0 "Республика Финляндия"
  
  ICE_communism:0 "Исландская Демократическая Республика"
  ICE_communism_ADJ:0 "ИсДР"
@@ -375,6 +459,9 @@
  ICE_democratic:0 "Исландия"
  ICE_democratic_ADJ:0 "Исландия"
  ICE_democratic_DEF:0 "Исландия"
+ ICE_classical_liberalism:0 "Исландия"
+ ICE_classical_liberalism_ADJ:0 "Исландия"
+ ICE_classical_liberalism_DEF:0 "Исландия"
  
  PMR_communism:0 "Приднестровская Молдовская Социалистическая Республика"
  PMR_communism_ADJ:0 "ПМСР"
@@ -388,6 +475,9 @@
  PMR_democratic:0 "Приднестровская Молдавская Республика"
  PMR_democratic_ADJ:0 "Приднестр. Молд."
  PMR_democratic_DEF:0 "Приднестровская Молдавская Республика"
+ PMR_classical_liberalism:0 "Приднестровская Молдавская Республика"
+ PMR_classical_liberalism_ADJ:0 "ПМР"
+ PMR_classical_liberalism_DEF:0 "Приднестровская Молдавская Республика"
  
  MOL_communism:0 "Молдавская Народная Республика"
  MOL_communism_ADJ:0 "МНР"
@@ -401,6 +491,9 @@
  MOL_democratic:0 "Республика Молдавия"
  MOL_democratic_ADJ:0 "Респ. Молд."
  MOL_democratic_DEF:0 "Республика Молдавия"
+ MOL_classical_liberalism:0 "Республика Молдавия"
+ MOL_classical_liberalism_ADJ:0 "Республика Молдавия"
+ MOL_classical_liberalism_DEF:0 "Республика Молдавия"
  
  GRE_communism:0 "Греческая Советская Республика"
  GRE_communism_ADJ:0 "ГСР"
@@ -414,6 +507,9 @@
  GRE_democratic:0 "Республика Греция"
  GRE_democratic_ADJ:0 "Респ. Греция"
  GRE_democratic_DEF:0 "Республика Греция"
+ GRE_classical_liberalism:0 "Республика Греция"
+ GRE_classical_liberalism_ADJ:0 "Республика Греция"
+ GRE_classical_liberalism_DEF:0 "Республика Греция"
  
  BUL_communism:0 "Болгарская Советская Республика"
  BUL_communism_ADJ:0 "БСР"
@@ -427,6 +523,9 @@
  BUL_democratic:0 "Республика Болгария"
  BUL_democratic_ADJ:0 "Респ. Болгария"
  BUL_democratic_DEF:0 "Республика Болгария"
+ BUL_classical_liberalism:0 "Республика Болгария"
+ BUL_classical_liberalism_ADJ:0 "Республика Болгария"
+ BUL_classical_liberalism_DEF:0 "Республика Болгария"
  
  MAC_communism:0 "Македонская Социалистическая Республика"    ########Македония
  MAC_communism_ADJ:0 "МакСР"
@@ -440,6 +539,9 @@
  MAC_democratic:0 "Республика Македония"
  MAC_democratic_ADJ:0 "Респ. Македония"
  MAC_democratic_DEF:0 "Республика Македония"
+ MAC_classical_liberalism:0 "Республика Македония"
+ MAC_classical_liberalism_ADJ:0 "Республика Македония"
+ MAC_classical_liberalism_DEF:0 "Республика Македония"
  
  ALB_communism:0 "Албанская Народно-Демократическая Республика"
  ALB_communism_ADJ:0 "АНДР"
@@ -453,6 +555,9 @@
  ALB_democratic:0 "Республика Албания"
  ALB_democratic_ADJ:0 "Респ. Албания"
  ALB_democratic_DEF:0 "Республика Албания"
+ ALB_classical_liberalism:0 "Российская Федерация"
+ ALB_classical_liberalism_ADJ:0 "РФ"
+ ALB_classical_liberalism_DEF:0 "Российская Федерация"
  
  HUN_communism:0 "Венгерская Советская Республика"
  HUN_communism_ADJ:0 "ВенСР"
@@ -466,6 +571,9 @@
  HUN_democratic:0 "Венгерская Республика"
  HUN_democratic_ADJ:0 "Вен. Респуб"
  HUN_democratic_DEF:0 "Венгерская Республика"
+ HUN_classical_liberalism:0 "Венгерская Республика"
+ HUN_classical_liberalism_ADJ:0 "Венгерская Республика"
+ HUN_classical_liberalism_DEF:0 "Венгерская Республика"
  
  SLV_communism:0 "Словацкая Советская Республика"
  SLV_communism_ADJ:0 "СлоСР"
@@ -479,6 +587,9 @@
  SLV_democratic:0 "Республика Словакия"
  SLV_democratic_ADJ:0 "Респ. Словакия"
  SLV_democratic_DEF:0 "Республика Словакия"
+ SLV_classical_liberalism:0 "Республика Словакия"
+ SLV_classical_liberalism_ADJ:0 "Республика Словакия"
+ SLV_classical_liberalism_DEF:0 "Республика Словакия"
  
  CRO_communism:0 "Хорватская Советская Республика"
  CRO_communism_ADJ:0 "ХорСР"
@@ -492,6 +603,9 @@
  CRO_democratic:0 "Республика Хорватия"
  CRO_democratic_ADJ:0 "Респ. Хорватия"
  CRO_democratic_DEF:0 "Республика Хорватия"
+ CRO_classical_liberalism:0 "Республика Хорватия"
+ CRO_classical_liberalism_ADJ:0 "Республика Хорватия"
+ CRO_classical_liberalism_DEF:0 "Республика Хорватия"
  
  SER_communism:0 "Сербская Советская Республика"
  SER_communism_ADJ:0 "СерСР"
@@ -505,6 +619,9 @@
  SER_democratic:0 "Республика Сербия"
  SER_democratic_ADJ:0 "Респ. Сербия"
  SER_democratic_DEF:0 "Республика Сербия"
+ SER_classical_liberalism:0 "Республика Сербия"
+ SER_classical_liberalism_ADJ:0 "Республика Сербия"
+ SER_classical_liberalism_DEF:0 "Республика Сербия"
  
  BOS_communism:0 "Боснийская Народная Республика"
  BOS_communism_ADJ:0 "БНР"
@@ -518,6 +635,9 @@
  BOS_democratic:0 "Республика Босния и Герцоговина"
  BOS_democratic_ADJ:0 "Респ. Босния"
  BOS_democratic_DEF:0 "Республика Босния и Герцоговина"
+ BOS_classical_liberalism:0 "Республика Босния и Герцоговина"
+ BOS_classical_liberalism_ADJ:0 "Республика Босния и Герцоговина"
+ BOS_classical_liberalism_DEF:0 "Республика Босния и Герцоговина"
  
  MNT_communism:0 "Черногорская Демократическая Республика"    #######Черногория
  MNT_communism_ADJ:0 "ЧДР"
@@ -531,6 +651,9 @@
  MNT_democratic:0 "Республика Черногория"
  MNT_democratic_ADJ:0 "Респ. Черногория"
  MNT_democratic_DEF:0 "Республика Черногория"
+ MNT_classical_liberalism:0 "Республика Черногория"
+ MNT_classical_liberalism_ADJ:0 "Республика Черногория"
+ MNT_classical_liberalism_DEF:0 "Республика Черногория"
  
  ROM_communism:0 "Румынская Советская Республика"
  ROM_communism_ADJ:0 "РСР"
@@ -544,6 +667,9 @@
  ROM_democratic:0 "Румынская Республика"
  ROM_democratic_ADJ:0 "Румыния"
  ROM_democratic_DEF:0 "Румынская Республика"
+ ROM_classical_liberalism:0 "Румынская Республика"
+ ROM_classical_liberalism_ADJ:0 "Румынская Республика"
+ ROM_classical_liberalism_DEF:0 "Румынская Республика"
  
  TUR_communism:0 "Турецкая Народная Республика"
  TUR_communism_ADJ:0 "ТНР"
@@ -557,6 +683,9 @@
  TUR_democratic:0 "Турецкая Республика"
  TUR_democratic_ADJ:0 "Турецкая Респ."
  TUR_democratic_DEF:0 "Турецкая Республика"
+ TUR_classical_liberalism:0 "Турецкая Республика"
+ TUR_classical_liberalism_ADJ:0 "Турецкая Республика"
+ TUR_classical_liberalism_DEF:0 "Турецкая Республика"
  
  GEO_communism:0 "Грузинская Советская Республика"
  GEO_communism_ADJ:0 "ГСР"
@@ -570,6 +699,9 @@
  GEO_democratic:0 "Республика Грузия"
  GEO_democratic_ADJ:0 "Респ. Грузия"
  GEO_democratic_DEF:0 "Республика Грузия"
+ GEO_classical_liberalism:0 "Республика Грузия"
+ GEO_classical_liberalism_ADJ:0 "Республика Грузия"
+ GEO_classical_liberalism_DEF:0 "Республика Грузия"
  
  AZR_communism:0 "Азербайджанская Советская Республика"
  AZR_communism_ADJ:0 "АзерСР"
@@ -583,6 +715,9 @@
  AZR_democratic:0 "Республика Азербайджан"
  AZR_democratic_ADJ:0 "Азербайджан"
  AZR_democratic_DEF:0 "Республика Азербайджан"
+ AZR_classical_liberalism:0 "Республика Азербайджан"
+ AZR_classical_liberalism_ADJ:0 "Республика Азербайджан"
+ AZR_classical_liberalism_DEF:0 "Республика Азербайджан"
  
  ARM_communism:0 "Армянская Советская Республика"
  ARM_communism_ADJ:0 "АрмянСР"
@@ -596,6 +731,9 @@
  ARM_democratic:0 "Республика Армения"
  ARM_democratic_ADJ:0 "Армения"
  ARM_democratic_DEF:0 "Республика Армения"
+ ARM_classical_liberalism:0 "Республика Армения"
+ ARM_classical_liberalism_ADJ:0 "Республика Армения"
+ ARM_classical_liberalism_DEF:0 "Республика Армения"
  
  CYP_communism:0 "Демократическая Республика Кипр"          ###############Южный Кипр
  CYP_communism_ADJ:0 "ДРК"
@@ -609,6 +747,9 @@
  CYP_democratic:0 "Кипр"
  CYP_democratic_ADJ:0 "Кипр"
  CYP_democratic_DEF:0 "Кипр"
+ CYP_classical_liberalism:0 "Кипр"
+ CYP_classical_liberalism_ADJ:0 "Кипр"
+ CYP_classical_liberalism_DEF:0 "Кипр"
  
  NYP_communism:0 "Народная Республика Северного Кипра"           ############Северный Кипр
  NYP_communism_ADJ:0 "НРСК"
@@ -622,6 +763,9 @@
  NYP_democratic:0 "Республика Кипр"
  NYP_democratic_ADJ:0 "Респ. Кипр"
  NYP_democratic_DEF:0 "Республика Кипр"
+ NYP_classical_liberalism:0 "Республика Кипр"
+ NYP_classical_liberalism_ADJ:0 "Республика Кипр"
+ NYP_classical_liberalism_DEF:0 "Республика Кипр"
  
  PER_communism:0 "Социалистическая Республика Иран"        ##########Иран
  PER_communism_ADJ:0 "СРИран"
@@ -635,6 +779,9 @@
  PER_democratic:0 "Республика Иран"
  PER_democratic_ADJ:0 "Респ. Иран"
  PER_democratic_DEF:0 "Республика Иран"
+ PER_classical_liberalism:0 "Республика Иран"
+ PER_classical_liberalism_ADJ:0 "Республика Иран"
+ PER_classical_liberalism_DEF:0 "Республика Иран"
  
  KAZ_communism:0 "Казахская Советская Республика"
  KAZ_communism_ADJ:0 "КазСР"
@@ -648,6 +795,9 @@
  KAZ_democratic:0 "Республика Казахстан"
  KAZ_democratic_ADJ:0 "Казахстан"
  KAZ_democratic_DEF:0 "Республика Казахстан"
+ KAZ_classical_liberalism:0 "Республика Казахстан"
+ KAZ_classical_liberalism_ADJ:0 "Республика Казахстан"
+ KAZ_classical_liberalism_DEF:0 "Республика Казахстан"
  
  UZB_communism:0 "Узбекская Советская Республика"
  UZB_communism_ADJ:0 "УзбекСР"
@@ -661,6 +811,9 @@
  UZB_democratic:0 "Республика Узбекистан"
  UZB_democratic_ADJ:0 "Узбекистан"
  UZB_democratic_DEF:0 "Республика Узбекистан"
+ UZB_classical_liberalism:0 "Республика Узбекистан"
+ UZB_classical_liberalism_ADJ:0 "Республика Узбекистан"
+ UZB_classical_liberalism_DEF:0 "Республика Узбекистан"
  
  TMS_communism:0 "Туркменская Советская Республика"
  TMS_communism_ADJ:0 "ТуркменСР"
@@ -674,6 +827,9 @@
  TMS_democratic:0 "Республика Туркменистан"
  TMS_democratic_ADJ:0 "Туркменистан"
  TMS_democratic_DEF:0 "Республика Туркменистан"
+ TMS_classical_liberalism:0 "Республика Туркменистан"
+ TMS_classical_liberalism_ADJ:0 "Республика Туркменистан"
+ TMS_classical_liberalism_DEF:0 "Республика Туркменистан"
  
  KYR_communism:0 "Киргизская Советская Республика"
  KYR_communism_ADJ:0 "КиргизСР"
@@ -687,6 +843,9 @@
  KYR_democratic:0 "Республика Киргизия"
  KYR_democratic_ADJ:0 "Киргизия"
  KYR_democratic_DEF:0 "Республика Киргизия"
+ KYR_classical_liberalism:0 "Республика Киргизия"
+ KYR_classical_liberalism_ADJ:0 "Республика Киргизия"
+ KYR_classical_liberalism_DEF:0 "Республика Киргизия"
  
  TAJ_communism:0 "Таджитская Советская Республика"
  TAJ_communism_ADJ:0 "ТаджСР"
@@ -700,6 +859,9 @@
  TAJ_democratic:0 "Республика Таджикистан"
  TAJ_democratic_ADJ:0 "Таджикистан"
  TAJ_democratic_DEF:0 "Республика Таджикистан"
+ TAJ_classical_liberalism:0 "Республика Таджикистан"
+ TAJ_classical_liberalism_ADJ:0 "Республика Таджикистан"
+ TAJ_classical_liberalism_DEF:0 "Республика Таджикистан"
  
  AFG_communism:0 "Демократическая Республика Афганистан"
  AFG_communism_ADJ:0 "ДРА"
@@ -713,6 +875,9 @@
  AFG_democratic:0 "Республика Афганистан"
  AFG_democratic_ADJ:0 "Афганистан"
  AFG_democratic_DEF:0 "Республика Афганистан"
+ AFG_classical_liberalism:0 "Республика Афганистан"
+ AFG_classical_liberalism_ADJ:0 "Республика Афганистан"
+ AFG_classical_liberalism_DEF:0 "Республика Афганистан"
  
  PAK_communism:0 "Демократическая Республика Пакистан"
  PAK_communism_ADJ:0 "ДРП"
@@ -726,6 +891,9 @@
  PAK_democratic:0 "Республика Пакистан"
  PAK_democratic_ADJ:0 "Пакистан"
  PAK_democratic_DEF:0 "Республика Пакистан"
+ PAK_classical_liberalism:0 "Республика Пакистан"
+ PAK_classical_liberalism_ADJ:0 "Республика Пакистан"
+ PAK_classical_liberalism_DEF:0 "Республика Пакистан"
  
  MON_communism:0 "Монгольская Народная Республика"
  MON_communism_ADJ:0 "МНР"
@@ -739,6 +907,9 @@
  MON_democratic:0 "Республика Монголия"
  MON_democratic_ADJ:0 "Монголия"
  MON_democratic_DEF:0 "Республика Монголия"
+ MON_classical_liberalism:0 "Республика Монголия"
+ MON_classical_liberalism_ADJ:0 "Республика Монголия"
+ MON_classical_liberalism_DEF:0 "Республика Монголия"
  
  PRC_communism:0 "Китайская Народная Республика"
  PRC_communism_ADJ:0 "КНР"
@@ -752,6 +923,9 @@
  PRC_democratic:0 "Китайская Республика"
  PRC_democratic_ADJ:0 "Китай. Респ."
  PRC_democratic_DEF:0 "Китайская Республика"
+ PRC_classical_liberalism:0 "Китайская Республика"
+ PRC_classical_liberalism_ADJ:0 "Китайская Республика"
+ PRC_classical_liberalism_DEF:0 "Китайская Республика"
  
  RAJ_communism:0 "Рабочая Индия"
  RAJ_communism_ADJ:0 "Рабочая Индия"
@@ -765,6 +939,9 @@
  RAJ_democratic:0 "Республика Индия"
  RAJ_democratic_ADJ:0 "Индия"
  RAJ_democratic_DEF:0 "Республика Индия"
+ RAJ_classical_liberalism:0 "Республика Индия"
+ RAJ_classical_liberalism_ADJ:0 "Республика Индия"
+ RAJ_classical_liberalism_DEF:0 "Республика Индия"
  
  PRK_communism:0 "Корейская Народно-Демократическая Республика"    #############КНДР
  PRK_communism_ADJ:0 "КНДР"
@@ -778,6 +955,9 @@
  PRK_democratic:0 "Республика Северная Корея"
  PRK_democratic_ADJ:0 "Северная Корея"
  PRK_democratic_DEF:0 "Республика Северная Корея"
+ PRK_classical_liberalism:0 "Республика Северная Корея"
+ PRK_classical_liberalism_ADJ:0 "Республика Северная Корея"
+ PRK_classical_liberalism_DEF:0 "Республика Северная Корея"
  
  KOR_communism:0 "Демократическая Республика Южная Корея"
  KOR_communism_ADJ:0 "ДРЮК"
@@ -791,6 +971,9 @@
  KOR_democratic:0 "Республика Южная Корея"
  KOR_democratic_ADJ:0 "Южная Корея"
  KOR_democratic_DEF:0 "Республика Южная Корея"
+ KOR_classical_liberalism:0 "Республика Корея"
+ KOR_classical_liberalism_ADJ:0 "Республика Корея"
+ KOR_classical_liberalism_DEF:0 "Республика Корея"
  
  JAP_communism:0 "Демократическая Республика Япония"
  JAP_communism_ADJ:0 "ДРЯ"
@@ -804,6 +987,9 @@
  JAP_democratic:0 "Республика Япония"
  JAP_democratic_ADJ:0 "Япония"
  JAP_democratic_DEF:0 "Республика Япония"
+ JAP_classical_liberalism:0 "Япония"
+ JAP_classical_liberalism_ADJ:0 "Япония"
+ JAP_classical_liberalism_DEF:0 "Япония"
  
  CHI_communism:0 "Китайская Демократическая Республика"
  CHI_communism_ADJ:0 "КДР"
@@ -817,6 +1003,9 @@
  CHI_democratic:0 "Республика Китай"
  CHI_democratic_ADJ:0 "Китай"
  CHI_democratic_DEF:0 "Республика Китай"
+ CHI_classical_liberalism:0 "Республика Китай"
+ CHI_classical_liberalism_ADJ:0 "Республика Китай"
+ CHI_classical_liberalism_DEF:0 "Республика Китай"
  
  VIN_communism:0 "Вьетнамская Демократическая Республика"
  VIN_communism_ADJ:0 "ВДР"
@@ -830,6 +1019,9 @@
  VIN_democratic:0 "Республика Вьетнам"
  VIN_democratic_ADJ:0 "Вьетнам"
  VIN_democratic_DEF:0 "Республика Вьетнам"
+ VIN_classical_liberalism:0 "Республика Вьетнам"
+ VIN_classical_liberalism_ADJ:0 "Республика Вьетнам"
+ VIN_classical_liberalism_DEF:0 "Республика Вьетнам"
  
  LAO_communism:0 "Демократическая Республика Лаос"
  LAO_communism_ADJ:0 "ДРЛ"
@@ -843,6 +1035,9 @@
  LAO_democratic:0 "Республика Лаос"
  LAO_democratic_ADJ:0 "Лаос"
  LAO_democratic_DEF:0 "Республика Лаос"
+ LAO_classical_liberalism:0 "Республика Лаос"
+ LAO_classical_liberalism_ADJ:0 "Республика Лаос"
+ LAO_classical_liberalism_DEF:0 "Республика Лаос"
  
  CAM_communism:0 "Кхемерская Республика Камбоджа"
  CAM_communism_ADJ:0 "КРК"
@@ -856,6 +1051,9 @@
  CAM_democratic:0 "Республика Камбоджа"
  CAM_democratic_ADJ:0 "Камбоджа"
  CAM_democratic_DEF:0 "Республика Камбоджа"
+ CAM_classical_liberalism:0 "Республика Камбоджа"
+ CAM_classical_liberalism_ADJ:0 "Республика Камбоджа"
+ CAM_classical_liberalism_DEF:0 "Республика Камбоджа"
  
  SIA_communism:0 "Сиамская Социалистическая Республика"
  SIA_communism_ADJ:0 "СиамСР"
@@ -869,6 +1067,9 @@
  SIA_democratic:0 "Республика Таиланд"
  SIA_democratic_ADJ:0 "Таиланд"
  SIA_democratic_DEF:0 "Республика Таиланд"
+ SIA_classical_liberalism:0 "Республика Таиланд"
+ SIA_classical_liberalism_ADJ:0 "Республика Таиланд"
+ SIA_classical_liberalism_DEF:0 "Республика Таиланд"
  
  BRM_communism:0 "Рабочий Фронт Мьянма"
  BRM_communism_ADJ:0 "РФМ"
@@ -882,6 +1083,9 @@
  BRM_democratic:0 "Республика Мьянма"
  BRM_democratic_ADJ:0 "Мьянма"
  BRM_democratic_DEF:0 "Республика Мьянма"
+ BRM_classical_liberalism:0 "Республика Мьянма"
+ BRM_classical_liberalism_ADJ:0 "Республика Мьянма"
+ BRM_classical_liberalism_DEF:0 "Республика Мьянма"
  
  BAN_communism:0 "Рабочий Фронт Бангладеша"
  BAN_communism_ADJ:0 "РФБа"
@@ -895,6 +1099,9 @@
  BAN_democratic:0 "Республика Бангладеш"
  BAN_democratic_ADJ:0 "Бангладеш"
  BAN_democratic_DEF:0 "Республика Бангладеш"
+ BAN_classical_liberalism:0 "Республика Бангладеш"
+ BAN_classical_liberalism_ADJ:0 "Республика Бангладеш"
+ BAN_classical_liberalism_DEF:0 "Республика Бангладеш"
  
  BHU_communism:0 "Рабочий Фронт Бутана"
  BHU_communism_ADJ:0 "РФБу"
@@ -908,6 +1115,9 @@
  BHU_democratic:0 "Республика Бутан"
  BHU_democratic_ADJ:0 "Бутан"
  BHU_democratic_DEF:0 "Республика Бутан"
+ BHU_classical_liberalism:0 "Республика Бутан"
+ BHU_classical_liberalism_ADJ:0 "Республика Бутан"
+ BHU_classical_liberalism_DEF:0 "Республика Бутан"
  
  NEP_communism:0 "Рабочий Фронт Непала"
  NEP_communism_ADJ:0 "РФН"
@@ -921,6 +1131,9 @@
  NEP_democratic:0 "Республика Непал"
  NEP_democratic_ADJ:0 "Непал"
  NEP_democratic_DEF:0 "Республика Непал"
+ NEP_classical_liberalism:0 "Республика Непал"
+ NEP_classical_liberalism_ADJ:0 "Республика Непал"
+ NEP_classical_liberalism_DEF:0 "Республика Непал"
  
  MAL_communism:0 "Демократическая Республика Малазия"
  MAL_communism_ADJ:0 "ДРМ"
@@ -934,6 +1147,9 @@
  MAL_democratic:0 "Республика Малазия"
  MAL_democratic_ADJ:0 "Малазия"
  MAL_democratic_DEF:0 "Республика Малазия"
+ MAL_classical_liberalism:0 "Республика Малазия"
+ MAL_classical_liberalism_ADJ:0 "Республика Малазия"
+ MAL_classical_liberalism_DEF:0 "Республика Малазия"
  
  SYD_communism:0 "Коммуна Сингапур"
  SYD_communism_ADJ:0 "Ком. Сингапур"
@@ -947,6 +1163,9 @@
  SYD_democratic:0 "Сингапур"
  SYD_democratic_ADJ:0 "Сингапур"
  SYD_democratic_DEF:0 "Сингапур"
+ SYD_classical_liberalism:0 "Сингапур"
+ SYD_classical_liberalism_ADJ:0 "Сингапур"
+ SYD_classical_liberalism_DEF:0 "Сингапур"
  
  SRL_communism:0 "Коммуна Шри-Ланка"
  SRL_communism_ADJ:0 "Ком. Шри-Ланк."
@@ -960,6 +1179,9 @@
  SRL_democratic:0 "Республика Шри-Ланка"
  SRL_democratic_ADJ:0 "Шри-Ланка"
  SRL_democratic_DEF:0 "Республика Шри-Ланка"
+ SRL_classical_liberalism:0 "Республика Шри-Ланка"
+ SRL_classical_liberalism_ADJ:0 "Республика Шри-Ланка"
+ SRL_classical_liberalism_DEF:0 "Республика Шри-Ланка"
  
  MLT_communism:0 "Коммуна Мальта"          #################Мальта
  MLT_communism_ADJ:0 "Ком. Мальт."
@@ -973,6 +1195,9 @@
  MLT_democratic:0 "Республика Мальта"
  MLT_democratic_ADJ:0 "Мальта"
  MLT_democratic_DEF:0 "Республика Мальта"
+ MLT_classical_liberalism:0 "Республика Мальта"
+ MLT_classical_liberalism_ADJ:0 "Республика Мальта"
+ MLT_classical_liberalism_DEF:0 "Республика Мальта"
  
  SYR_communism:0 "Сирийская Социалистическая Республика"
  SYR_communism_ADJ:0 "СирСР"
@@ -986,6 +1211,9 @@
  SYR_democratic:0 "Республика Сирия"
  SYR_democratic_ADJ:0 "Сирия"
  SYR_democratic_DEF:0 "Республика Сирия"
+ SYR_classical_liberalism:0 "Республика Сирия"
+ SYR_classical_liberalism_ADJ:0 "Республика Сирия"
+ SYR_classical_liberalism_DEF:0 "Республика Сирия"
  
  IRQ_communism:0 "Социалистическая Республика Ирак"
  IRQ_communism_ADJ:0 "СРИрак"
@@ -999,6 +1227,9 @@
  IRQ_democratic:0 "Республика Ирак"
  IRQ_democratic_ADJ:0 "Ирак"
  IRQ_democratic_DEF:0 "Республика Ирак"
+ IRQ_classical_liberalism:0 "Республика Ирак"
+ IRQ_classical_liberalism_ADJ:0 "Республика Ирак"
+ IRQ_classical_liberalism_DEF:0 "Республика Ирак"
  
  LEB_communism:0 "Ливанская Демократическая Республика"
  LEB_communism_ADJ:0 "ЛДР"
@@ -1012,6 +1243,9 @@
  LEB_democratic:0 "Республика Ливан"
  LEB_democratic_ADJ:0 "Ливан"
  LEB_democratic_DEF:0 "Республика Ливан"
+ LEB_classical_liberalism:0 "Республика Ливан"
+ LEB_classical_liberalism_ADJ:0 "Республика Ливан"
+ LEB_classical_liberalism_DEF:0 "Республика Ливан"
  
  KUW_communism:0 "Коммуна Кувейт"
  KUW_communism_ADJ:0 "Ком. Кувейт"
@@ -1025,6 +1259,9 @@
  KUW_democratic:0 "Республика Кувейт"
  KUW_democratic_ADJ:0 "Кувейт"
  KUW_democratic_DEF:0 "Республика Кувейт"
+ KUW_classical_liberalism:0 "Республика Кувейт"
+ KUW_classical_liberalism_ADJ:0 "Республика Кувейт"
+ KUW_classical_liberalism_DEF:0 "Республика Кувейт"
  
  VTC_communism:0 "Коммуна Ватикан"
  VTC_communism_ADJ:0 "Ком. Ватикан"
@@ -1038,6 +1275,9 @@
  VTC_democratic:0 "Ватикан"
  VTC_democratic_ADJ:0 "Ватикан"
  VTC_democratic_DEF:0 "Ватикан"
+ VTC_classical_liberalism:0 "Ватикан"
+ VTC_classical_liberalism_ADJ:0 "Ватикан"
+ VTC_classical_liberalism_DEF:0 "Ватикан"
  
  SAN_communism:0 "Коммуна Сан-Марино"
  SAN_communism_ADJ:0 "Ком. Сан-Марино"
@@ -1051,6 +1291,9 @@
  SAN_democratic:0 "Сан-Марино"
  SAN_democratic_ADJ:0 "Сан-Марино"
  SAN_democratic_DEF:0 "Сан-Марино"
+ SAN_classical_liberalism:0 "Сан-Марино"
+ SAN_classical_liberalism_ADJ:0 "Сан-Марино"
+ SAN_classical_liberalism_DEF:0 "Сан-Марино"
  
  ISR_communism:0 "Израильская Сионистская Социалистическая Республика"
  ISR_communism_ADJ:0 "ИССР"
@@ -1064,6 +1307,9 @@
  ISR_democratic:0 "Республика Израиль"
  ISR_democratic_ADJ:0 "Израиль"
  ISR_democratic_DEF:0 "Республика Израиль"
+ ISR_classical_liberalism:0 "Республика Израиль"
+ ISR_classical_liberalism_ADJ:0 "Республика Израиль"
+ ISR_classical_liberalism_DEF:0 "Республика Израиль"
  
  JOR_communism:0 "Рабочая Иордания"
  JOR_communism_ADJ:0 "Раб. Иордания"
@@ -1077,6 +1323,9 @@
  JOR_democratic:0 "Республика Иордания"
  JOR_democratic_ADJ:0 "Иордания"
  JOR_democratic_DEF:0 "Республика Иордания"
+ JOR_classical_liberalism:0 "Республика Иордания"
+ JOR_classical_liberalism_ADJ:0 "Республика Иордания"
+ JOR_classical_liberalism_DEF:0 "Республика Иордания"
  
  QAT_communism:0 "Коммуна Катар"
  QAT_communism_ADJ:0 "Ком. Катар"
@@ -1090,6 +1339,9 @@
  QAT_democratic:0 "Республика Катар"
  QAT_democratic_ADJ:0 "Катар"
  QAT_democratic_DEF:0 "Республика Катар"
+ QAT_classical_liberalism:0 "Республика Катар"
+ QAT_classical_liberalism_ADJ:0 "Республика Катар"
+ QAT_classical_liberalism_DEF:0 "Республика Катар"
  
  UAE_communism:0 "Федерация Арабских Государств"             ##########ОАЭ
  UAE_communism_ADJ:0 "Фед. Араб. Гос-в"
@@ -1103,6 +1355,9 @@
  UAE_democratic:0 "Обьединенные Арабские Эмираты"
  UAE_democratic_ADJ:0 "Обьединенные Арабские Эмираты"
  UAE_democratic_DEF:0 "Обьединенные Арабские Эмираты"
+ UAE_classical_liberalism:0 "Обьединенные Арабские Эмираты"
+ UAE_classical_liberalism_ADJ:0 "ОАЭ"
+ UAE_classical_liberalism_DEF:0 "Обьединенные Арабские Эмираты"
  
  OMA_communism:0 "Социалистическая Республика Оман"
  OMA_communism_ADJ:0 "СРО"
@@ -1116,6 +1371,9 @@
  OMA_democratic:0 "Республика Оман"
  OMA_democratic_ADJ:0 "Оман"
  OMA_democratic_DEF:0 "Республика Оман"
+ OMA_classical_liberalism:0 "Республика Оман"
+ OMA_classical_liberalism_ADJ:0 "Республика Оман"
+ OMA_classical_liberalism_DEF:0 "Республика Оман"
  
  YEM_communism:0 "Народно-Демократическая Республика Йемен"
  YEM_communism_ADJ:0 "НДРЙ"
@@ -1129,6 +1387,9 @@
  YEM_democratic:0 "Республика Йемен"
  YEM_democratic_ADJ:0 "Респ. Йемен"
  YEM_democratic_DEF:0 "Республика Йемен"
+ YEM_classical_liberalism:0 "Республика Йемен"
+ YEM_classical_liberalism_ADJ:0 "Республика Йемен"
+ YEM_classical_liberalism_DEF:0 "Республика Йемен"
  
  SAU_communism:0 "Народно-Демократическая Аравия"
  SAU_communism_ADJ:0 "НДА"
@@ -1142,3 +1403,6 @@
  SAU_democratic:0 "Аравийская Республика"
  SAU_democratic_ADJ:0 "Арав. Респ."
  SAU_democratic_DEF:0 "Аравийская Республика"
+ SAU_classical_liberalism:0 "Аравийская Республик"
+ SAU_classical_liberalism_ADJ:0 "Аравийская Республик"
+ SAU_classical_liberalism_DEF:0 "Аравийская Республик"
