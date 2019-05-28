@@ -1113,21 +1113,22 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "equipment_type"
-			position = { x = 37 y = 6 }
+			position = { x = 37 y = 2 }
 			font = "hoi_16mbs"
 			text = "name"
-			maxWidth = 115
+			maxWidth = 132
 			maxHeight = 20
 			fixedsize = yes
 			format = left
+			 
 		}
 
 		iconType = {
 			name = "equipment_icon"
 			spriteType = "GFX_equipment_item"
-			position = { x= 95 y = 40 }
+			position = { x= 90 y = 33 }
 			Orientation = "UPPER_LEFT"
-			scale = 0.4
+			scale = 0.20
 			centerposition = yes
 			alwaystransparent = yes
 		}
@@ -1215,21 +1216,22 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "equipment_type"
-			position = { x = 37 y = 6 }
+			position = { x = 37 y = 2 }
 			font = "hoi_16mbs"
 			text = "name"
-			maxWidth = 115
+			maxWidth = 132
 			maxHeight = 20
 			fixedsize = yes
 			format = left
+			 
 		}
 
 		iconType = {
 			name = "equipment_icon"
 			spriteType = "GFX_equipment_item"
-			position = { x= 92 y = 38 }
+			position = { x= 90 y = 33 }
 			Orientation = "UPPER_LEFT"
-			scale = 0.6
+			scale = 0.20
 			centerposition = yes
 			alwaystransparent = yes
 		}

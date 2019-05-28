@@ -86,11 +86,7 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate_nodowneffect.lua"
 	}	
 	
-	spriteType = {
-		name = "GFX_infantry_folder_tab"
-		textureFile = "gfx//interface//techtree//techtree_infantry_tab.dds"
-		noOfFrames = 2		
-	}
+
 	#########################################################################
 		spriteType = {
 		name = "GFX_infantry_folder_tab"
@@ -181,6 +177,16 @@ spriteTypes = {
 		spriteType = {
 		name = "GFX_air_support_units_arsenal_folder_tab"
 		textureFile = "gfx//interface//techtree//techtree_air_support_units_arsenal__tab.dds"
+		noOfFrames = 2		
+	}
+	spriteType = {
+		name = "GFX_helicopter_units_folder_tab"
+		textureFile = "gfx//interface//techtree//techtree_helicopter_units__tab.dds"
+		noOfFrames = 2		
+	}
+		spriteType = {
+		name = "GFX_helicopter_units_arsenal_folder_tab"
+		textureFile = "gfx//interface//techtree//techtree_helicopter_units_arsenal__tab.dds"
 		noOfFrames = 2		
 	}
 		spriteType = {
@@ -430,7 +436,38 @@ spriteTypes = {
 		name = "GFX_technology_unavailable_item_bg"
 		textureFile = "gfx//interface//techtree//technology_unavailable_item_bg.dds"
 	}
+	spriteType = {
+		name = "GFX_science_unavailable_item_bg"
+		textureFile = "gfx//interface//techtree//science_unavailable_item_bg.dds"
+	}
+		# science
+	spriteType = {
+		name = "GFX_technology_science_folder_small_unavailable_item_bg"
+		textureFile = "gfx//interface//techtree//tech_small_unavailable_item_bg.dds"
+	}	
 	
+	
+	spriteType = {
+		name = "GFX_technology_science_folder_small_available_item_bg"
+		textureFile = "gfx//interface//techtree//tech_small_available_item_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_technology_science_folder_small_researched_item_bg"
+		textureFile = "gfx//interface//techtree//tech_small_researched_item_bg.dds"
+	}	
+	
+	frameAnimatedSpriteType = {
+		name = "GFX_technology_science_folder_small_currently_researching_item_bg"
+		texturefile = "gfx//interface//techtree//tech_small_researching_anim_strip.dds"
+		noOfFrames = 9
+		loadType = "INGAME"
+		transparencecheck = yes
+		animation_rate_fps = 15
+		looping = yes
+		play_on_show = yes
+		pause_on_loop = 0.0
+	}	
 	spriteType = {
 		name = "GFX_technology_researched_item_bg"
 		textureFile = "gfx//interface//techtree//technology_researched_item_bg.dds"

@@ -32,4 +32,36 @@ sub_units = {
 		need = { strateg = 1 }
 		categories = { superior }
 	}	
+		palub_universal = {
+		sprite = light_plane
+		priority = 1
+		active = yes
+		type = { fighter tactical_bomber naval_bomber}
+		need = { palub_universal = 1 }
+		categories = { superior }
+	}	
+		palub_heli = {
+		sprite = light_plane
+		priority = 1
+		active = yes
+		type = { tactical_bomber naval_bomber}
+		need = { palub_heli = 1 }
+		categories = { superior }
+	}	
+		attack_heli = {
+		sprite = light_plane
+		priority = 1
+		active = yes
+		type = { tactical_bomber naval_bomber}
+		need = { attack_heli = 1 }
+		categories = { superior }
+	}
+		transport_heli = {
+		sprite = light_plane
+		priority = 1
+		active = yes
+		type = { air_transport}
+		need = { transport_heli = 1 }
+		categories = { superior }
+	}	
 }	

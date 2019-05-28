@@ -1,4 +1,8 @@
 spriteTypes = {
+ 	SpriteType = {
+		name = "GFX_maths_1_medium"
+		texturefile = "gfx/interface/technologies/maths_0.dds" 
+	}
  ###########Пехотное снаряжение и технологии
  	SpriteType = {
 		name = "GFX_light_weapon_equipment_1_medium"
@@ -1498,6 +1502,75 @@ spriteTypes = {
 			SpriteType = {
 		name = "GFX_palub_universal_3_medium"
 		texturefile = "gfx/interface/technologies/palub_universal_0.dds" 
+	}
+	
+	#######################
+		SpriteType = {
+		name = "GFX_palub_heli_1_medium"
+		texturefile = "gfx/interface/technologies/palub_heli_0.dds" 
+	}
+		SpriteType = {
+		name = "GFX_palub_heli_2_medium"
+		texturefile = "gfx/interface/technologies/palub_heli_0.dds" 
+	}
+			SpriteType = {
+		name = "GFX_palub_heli_3_medium"
+		texturefile = "gfx/interface/technologies/palub_heli_0.dds" 
+	}
+				SpriteType = {
+		name = "GFX_palub_heli_4_medium"
+		texturefile = "gfx/interface/technologies/palub_heli_0.dds" 
+	}
+		#######################
+		SpriteType = {
+		name = "GFX_attack_heli_1_medium"
+		texturefile = "gfx/interface/technologies/attack_heli_0.dds" 
+	}
+		SpriteType = {
+		name = "GFX_attack_heli_2_medium"
+		texturefile = "gfx/interface/technologies/attack_heli_0.dds" 
+	}
+			SpriteType = {
+		name = "GFX_attack_heli_3_medium"
+		texturefile = "gfx/interface/technologies/attack_heli_0.dds" 
+	}
+				SpriteType = {
+		name = "GFX_attack_heli_4_medium"
+		texturefile = "gfx/interface/technologies/attack_heli_0.dds" 
+	}
+		#######################
+		SpriteType = {
+		name = "GFX_transport_heli_1_medium"
+		texturefile = "gfx/interface/technologies/transport_heli_0.dds" 
+	}
+		SpriteType = {
+		name = "GFX_transport_heli_2_medium"
+		texturefile = "gfx/interface/technologies/transport_heli_0.dds" 
+	}
+			SpriteType = {
+		name = "GFX_transport_heli_3_medium"
+		texturefile = "gfx/interface/technologies/transport_heli_0.dds" 
+	}
+				SpriteType = {
+		name = "GFX_transport_heli_4_medium"
+		texturefile = "gfx/interface/technologies/transport_heli_0.dds" 
+	}
+		#######################
+		SpriteType = {
+		name = "GFX_recon_heli_1_medium"
+		texturefile = "gfx/interface/technologies/recon_heli_0.dds" 
+	}
+		SpriteType = {
+		name = "GFX_recon_heli_2_medium"
+		texturefile = "gfx/interface/technologies/recon_heli_0.dds" 
+	}
+			SpriteType = {
+		name = "GFX_recon_heli_3_medium"
+		texturefile = "gfx/interface/technologies/recon_heli_0.dds" 
+	}
+				SpriteType = {
+		name = "GFX_recon_heli_4_medium"
+		texturefile = "gfx/interface/technologies/recon_heli_0.dds" 
 	}
 	}
 	

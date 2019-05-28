@@ -712,6 +712,442 @@
 			factor = 10
 		}
 	}
+	####################### Стратегический бомбардировщик
+		attack_heli_1 = {
 
+ 		enable_equipments = {
+		attack_heli_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = attack_heli_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @1970 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			attack_heli_2 = {
+
+ 		enable_equipments = {
+		attack_heli_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = attack_heli_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1980
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @1990 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			attack_heli_3 = {
+
+ 		enable_equipments = {
+		attack_heli_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = attack_heli_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @2010 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			attack_heli_4 = {
+
+ 		enable_equipments = {
+		attack_heli_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = attack_heli_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2035
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @2035 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	####################### Стратегический бомбардировщик
+		palub_heli_1 = {
+
+ 		enable_equipments = {
+		palub_heli_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = palub_heli_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @1960 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			palub_heli_2 = {
+
+ 		enable_equipments = {
+		palub_heli_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = palub_heli_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1980
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @1980 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			palub_heli_3 = {
+
+ 		enable_equipments = {
+		palub_heli_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = palub_heli_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @2010 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			palub_heli_4 = {
+
+ 		enable_equipments = {
+		palub_heli_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = palub_heli_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2035
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @2035 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	####################### Стратегический бомбардировщик
+		transport_heli_1 = {
+
+ 		enable_equipments = {
+		transport_heli_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = transport_heli_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @1960 y = @03 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			transport_heli_2 = {
+
+ 		enable_equipments = {
+		transport_heli_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = transport_heli_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1980
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @1970 y = @03 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			transport_heli_3 = {
+
+ 		enable_equipments = {
+		transport_heli_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = transport_heli_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @1990 y = @03 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			transport_heli_4 = {
+
+ 		enable_equipments = {
+		transport_heli_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = transport_heli_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2035
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @2035 y = @03 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	####################### Стратегический бомбардировщик
+		recon_heli_1 = {
+
+ 		enable_equipments = {
+		recon_heli_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = recon_heli_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @1960 y = @04 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			recon_heli_2 = {
+
+ 		enable_equipments = {
+		recon_heli_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = recon_heli_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1980
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @1980 y = @04 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			recon_heli_3 = {
+
+ 		enable_equipments = {
+		recon_heli_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = recon_heli_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @2010 y = @04 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			recon_heli_4 = {
+
+ 		enable_equipments = {
+		recon_heli_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = recon_heli_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2035
+		folder = {
+			name = helicopter_units_folder
+			position = { x = @2035 y = @04 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}	
+	
 	
 	}
