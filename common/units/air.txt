@@ -1,1 +1,35 @@
- 
+sub_units = {
+############## strategic_bomber air_transport interceptor missile suicide naval_bomber  cas
+	superior = {
+		sprite = light_plane
+		priority = 1
+		active = yes
+		type = { fighter }
+		need = { superior = 1 }
+		categories = { superior }
+	}
+		universal = {
+		sprite = light_plane
+		priority = 1
+		active = yes
+		type = { fighter tactical_bomber }
+		need = { universal = 1 }
+		categories = { superior }
+	}
+		front = {
+		sprite = light_plane
+		priority = 1
+		active = yes
+		type = { tactical_bomber }
+		need = { front = 1 }
+		categories = { superior }
+	}	
+		strateg = {
+		sprite = light_plane
+		priority = 1
+		active = yes
+		type = { strategic_bomber naval_bomber }
+		need = { strateg = 1 }
+		categories = { superior }
+	}	
+}	

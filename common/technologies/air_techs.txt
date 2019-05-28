@@ -1,1 +1,717 @@
+		technologies = {
+		
+	###1960-1970-1980-1990-2010-2025-2035
+	
+	@1960 = 0
+	@1970 = 4
+	@1980 = 8
+	@1990 = 12
+	@2010 = 16
+	@2025 = 20
+	@2035 = 24
+	
+	@01 = 0
+	@02 = 3
+	@03 = 6
+	@04 = 9
+	@05 = 12
+	@06 = 15
+	@07 = 18
+	######### Истребитель завоевания превосходства
+		superior_1 = {
+
+ 		enable_equipments = {
+		superior_1
+		}
  
+		
+		path = {
+			leads_to_tech = superior_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1960 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			superior_2 = {
+
+ 		enable_equipments = {
+		superior_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = superior_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1970 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			superior_3 = {
+
+ 		enable_equipments = {
+		superior_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = superior_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1980
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1980 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			superior_4 = {
+
+ 		enable_equipments = {
+		superior_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = superior_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1990 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			superior_5 = {
+
+ 		enable_equipments = {
+		superior_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = superior_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = air_base_units_folder
+			position = { x = @2010 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			superior_6 = {
+
+ 		enable_equipments = {
+		superior_6
+		}
+ 
+		
+		path = {
+			leads_to_tech = superior_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = air_base_units_folder
+			position = { x = @2025 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			superior_7 = {
+
+ 		enable_equipments = {
+		superior_7
+		}	
+
+		research_cost = 1.5
+		start_year = 2035
+		folder = {
+			name = air_base_units_folder
+			position = { x = @2035 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	####################### Многоцелевой самолёт
+		universal_1 = {
+
+ 		enable_equipments = {
+		universal_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = universal_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1960 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			universal_2 = {
+
+ 		enable_equipments = {
+		universal_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = universal_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1970 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			universal_3 = {
+
+ 		enable_equipments = {
+		universal_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = universal_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1980
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1980 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			universal_4 = {
+
+ 		enable_equipments = {
+		universal_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = universal_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1990 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			universal_5 = {
+
+ 		enable_equipments = {
+		universal_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = universal_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = air_base_units_folder
+			position = { x = @2010 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			universal_6 = {
+
+ 		enable_equipments = {
+		universal_6
+		}
+ 
+		
+		path = {
+			leads_to_tech = universal_7
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = air_base_units_folder
+			position = { x = @2025 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			universal_7 = {
+
+ 		enable_equipments = {
+		universal_7
+		}	
+
+		research_cost = 1.5
+		start_year = 2035
+		folder = {
+			name = air_base_units_folder
+			position = { x = @2035 y = @02 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}	
+	####################### Фронтовой бомбрадировщик
+		front_1 = {
+
+ 		enable_equipments = {
+		front_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = front_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1960 y = @03 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			front_2 = {
+
+ 		enable_equipments = {
+		front_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = front_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1980
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1980 y = @03 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			front_3 = {
+
+ 		enable_equipments = {
+		front_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = front_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1990 y = @03 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			front_4 = {
+
+ 		enable_equipments = {
+		front_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = front_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2015
+		folder = {
+			name = air_base_units_folder
+			position = { x = @2010 y = @03 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			front_5 = {
+
+ 		enable_equipments = {
+		front_5
+		}
+ 
+		
+		path = {
+			leads_to_tech = front_6
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2035
+		folder = {
+			name = air_base_units_folder
+			position = { x = @2035 y = @03 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}	
+	####################### Стратегический бомбардировщик
+		strateg_1 = {
+
+ 		enable_equipments = {
+		strateg_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1960
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1960 y = @04 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			strateg_2 = {
+
+ 		enable_equipments = {
+		strateg_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1980
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1980 y = @04 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			strateg_3 = {
+
+ 		enable_equipments = {
+		strateg_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1990
+		folder = {
+			name = air_base_units_folder
+			position = { x = @1990 y = @04 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			strateg_4 = {
+
+ 		enable_equipments = {
+		strateg_4
+		}
+ 
+		
+		path = {
+			leads_to_tech = strateg_5
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2035
+		folder = {
+			name = air_base_units_folder
+			position = { x = @2035 y = @04 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	######### Палубный многоцелевой самолёт
+			palub_universal_1 = {
+
+ 		enable_equipments = {
+		palub_universal_1
+		}
+ 
+		
+		path = {
+			leads_to_tech = palub_universal_2
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1970
+		folder = {
+			name = air_support_units_folder
+			position = { x = @1960 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			palub_universal_2 = {
+
+ 		enable_equipments = {
+		palub_universal_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = palub_universal_3
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2010
+		folder = {
+			name = air_support_units_folder
+			position = { x = @2010 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			palub_universal_3 = {
+
+ 		enable_equipments = {
+		palub_universal_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = palub_universal_4
+			research_cost_coeff = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 2025
+		folder = {
+			name = air_support_units_folder
+			position = { x = @2025 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+
+	
+	}

@@ -198,7 +198,7 @@ guiTypes = {
 	
 		iconType = {
 			name = "technology"
-			position = { x=252 y=105 }
+			position = { x=149 y=117 }
 			spriteType = "GFX_research_folder_strip"
 			centerposition = yes
 			alwaystransparent = yes
@@ -219,7 +219,7 @@ guiTypes = {
 	
 		instantTextboxType = {
 			name = "title"
-			position = { x = 5 y = -2 }
+			position = { x = 10 y = 5 }
 			textureFile = ""
 			font = "hoi_18mbs"
 			borderSize = {x = 0 y = 0}
@@ -230,7 +230,7 @@ guiTypes = {
 		
 		instantTextboxType = {
 			name = "year"
-			position = { x = 52 y = 165 }
+			position = { x = 20 y = 195 }
 			textureFile = ""
 			font = "hoi_18mbs"
 			borderSize = {x = 0 y = 0}
@@ -241,7 +241,7 @@ guiTypes = {
 		
 		instantTextboxType = {
 			name = "eta"
-			position = { x = 335 y = 100 }
+			position = { x = 270 y = 100 }
 			textureFile = ""
 			font = "hoi_18mbs"
 			borderSize = {x = 0 y = 0}
@@ -253,13 +253,13 @@ guiTypes = {
 		iconType = {
 			name = "research_progressbar_frame_icon"
 			spriteType = "GFX_research_progressbar_frame"
-			position = { x=52 y=185 }		
+			position = { x=77 y=200 }		
 		}		
 		
 		iconType = {
 			name = "research_progressbar"
 			spriteType = "Gfx_research_progressbar"
-			position = { x=55 y=187 }		
+			position = { x=80 y=202 }		
 		}	
 	}
 }

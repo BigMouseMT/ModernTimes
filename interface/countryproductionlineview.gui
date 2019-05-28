@@ -355,7 +355,7 @@ guiTypes = {
 					spriteType = "GFX_prod_new_equipment_glow"
 					alwaystransparent = yes
 				}
-				
+ 
 				buttonType = {
 					name = "aircraft_button"
 					position = { x=10 y=110 }
@@ -1454,7 +1454,9 @@ guiTypes = {
 			pdx_tooltip = "CLOSE"
 		}
 	}
-	
+	#######################################3#
+ 
+	###########################################
 	containerWindowType = {
 		name = "production_military_line_entry"
 		position = { x=0 y=0 }

@@ -1,1 +1,1668 @@
+equipments = {
+#################################################
+			light_auto_pvo = {
+		year = 1950
+
+		is_archetype = yes
+		picture = archetype_light_auto_pvo		
+		type = {
+			artillery
+			infantry  
  
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 3
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 10
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+	light_auto_pvo_1 = {
+		year = 1970
+		archetype = light_auto_pvo
+ 
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 30
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 10
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+	light_auto_pvo_2 = {
+		year = 1990
+
+		archetype = light_auto_pvo
+		parent = light_auto_pvo_1
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 30
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 12
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+	light_auto_pvo_3 = {
+		year = 2000
+
+		archetype = light_auto_pvo
+		parent = light_auto_pvo_2
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 30
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 14
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}	
+		light_auto_pvo_4 = {
+		year = 2010
+
+		archetype = light_auto_pvo
+		parent = light_auto_pvo_3
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 30
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 16
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+			light_auto_pvo_5 = {
+		year = 2020
+
+		archetype = light_auto_pvo
+		parent = light_auto_pvo_4
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 30
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 18
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+			light_auto_pvo_6 = {
+		year = 2030
+
+		archetype = light_auto_pvo
+		parent = light_auto_pvo_5
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 30
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 20
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+			light_auto_pvo_7 = {
+		year = 2040
+
+		archetype = light_auto_pvo
+		parent = light_auto_pvo_6
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 30
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 22
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+				light_auto_pvo_8 = {
+		year = 2040
+
+		archetype = light_auto_pvo
+		parent = light_auto_pvo_7
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 30
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 24
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+				light_auto_pvo_9 = {
+		year = 2040
+
+		archetype = light_auto_pvo
+		parent = light_auto_pvo_8
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 50
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 4
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 30
+		hard_attack = 5
+		ap_attack = 40
+		air_attack = 26
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+	#########################################################
+	#################################################
+			zsu = {
+		year = 1950
+
+		is_archetype = yes
+		picture = archetype_zsu		
+		type = {
+			artillery
+			infantry  
+ 
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 15
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}
+	zsu_1 = {
+		year = 1970
+		archetype = zsu
+ 
+		priority = 50
+		visual_level = 1
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 17
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}
+	zsu_2 = {
+		year = 1990
+
+		archetype = zsu
+		parent = zsu_1
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 19
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}
+	zsu_3 = {
+		year = 2000
+
+		archetype = zsu
+		parent = zsu_2
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 21
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}	
+		zsu_4 = {
+		year = 2010
+
+		archetype = zsu
+		parent = zsu_3
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 23
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}
+			zsu_5 = {
+		year = 2020
+
+		archetype = zsu
+		parent = zsu_4
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 25
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}
+			zsu_6 = {
+		year = 2030
+
+		archetype = zsu
+		parent = zsu_5
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 27
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}
+			zsu_7 = {
+		year = 2040
+
+		archetype = zsu
+		parent = zsu_6
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 28
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}
+				zsu_8 = {
+		year = 2040
+
+		archetype = zsu
+		parent = zsu_7
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 30
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}
+				zsu_9 = {
+		year = 2040
+
+		archetype = zsu
+		parent = zsu_8
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 6
+		hardness = 0.5
+		armor_value = 40
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 10
+		ap_attack = 80
+		air_attack = 35
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 4
+		resources = {
+		}
+	}
+	#########################################################
+				small_pvo = {
+		year = 1950
+
+		is_archetype = yes
+		picture = archetype_small_pvo		
+		type = {
+			artillery
+			infantry  
+ 
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 25
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+	small_pvo_1 = {
+		year = 1970
+		archetype = small_pvo
+ 
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 25
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+	small_pvo_2 = {
+		year = 1990
+
+		archetype = small_pvo
+		parent = small_pvo_1
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 27
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+	small_pvo_3 = {
+		year = 2000
+
+		archetype = small_pvo
+		parent = small_pvo_2
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 29
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}	
+		small_pvo_4 = {
+		year = 2010
+
+		archetype = small_pvo
+		parent = small_pvo_3
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 31
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+			small_pvo_5 = {
+		year = 2020
+
+		archetype = small_pvo
+		parent = small_pvo_4
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 33
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+			small_pvo_6 = {
+		year = 2030
+
+		archetype = small_pvo
+		parent = small_pvo_5
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 35
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+			small_pvo_7 = {
+		year = 2040
+
+		archetype = small_pvo
+		parent = small_pvo_6
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 36
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+				small_pvo_8 = {
+		year = 2040
+
+		archetype = small_pvo
+		parent = small_pvo_7
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 38
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+				small_pvo_9 = {
+		year = 2040
+
+		archetype = small_pvo
+		parent = small_pvo_8
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 40
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 3
+		resources = {
+		}
+	}
+	#########################################################
+					middle_pvo = {
+		year = 1950
+
+		is_archetype = yes
+		picture = archetype_middle_pvo		
+		type = {
+			artillery
+			infantry  
+ 
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 35
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}
+	middle_pvo_1 = {
+		year = 1970
+		archetype = middle_pvo
+ 
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 36
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}
+	middle_pvo_2 = {
+		year = 1990
+
+		archetype = middle_pvo
+		parent = middle_pvo_1
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 38
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}
+	middle_pvo_3 = {
+		year = 2000
+
+		archetype = middle_pvo
+		parent = middle_pvo_2
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 40
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}	
+		middle_pvo_4 = {
+		year = 2010
+
+		archetype = middle_pvo
+		parent = middle_pvo_3
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 41
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}
+			middle_pvo_5 = {
+		year = 2020
+
+		archetype = middle_pvo
+		parent = middle_pvo_4
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 43
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}
+			middle_pvo_6 = {
+		year = 2030
+
+		archetype = middle_pvo
+		parent = middle_pvo_5
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 44
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}
+			middle_pvo_7 = {
+		year = 2040
+
+		archetype = middle_pvo
+		parent = middle_pvo_6
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 45
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}
+				middle_pvo_8 = {
+		year = 2040
+
+		archetype = middle_pvo
+		parent = middle_pvo_7
+		priority = 50
+		visual_level = 1
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 47
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}
+				middle_pvo_9 = {
+		year = 2040
+
+		archetype = middle_pvo
+		parent = middle_pvo_8
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 50
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 8
+		resources = {
+		}
+	}
+	#########################################################
+						heavy_pvo = {
+		year = 1950
+
+		is_archetype = yes
+		picture = archetype_heavy_pvo		
+		type = {
+			artillery
+			infantry  
+ 
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+		
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 45
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 20
+		resources = {
+		}
+	}
+	heavy_pvo_1 = {
+		year = 1970
+		archetype = heavy_pvo
+ 
+		priority = 50
+		visual_level = 1
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 45
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 20
+		resources = {
+		}
+	}
+	heavy_pvo_2 = {
+		year = 1990
+
+		archetype = heavy_pvo
+		parent = heavy_pvo_1
+		priority = 50
+		visual_level = 1
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 50
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 20
+		resources = {
+		}
+	}
+	heavy_pvo_3 = {
+		year = 2000
+
+		archetype = heavy_pvo
+		parent = heavy_pvo_2
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 52
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 20
+		resources = {
+		}
+	}	
+		heavy_pvo_4 = {
+		year = 2010
+
+		archetype = heavy_pvo
+		parent = heavy_pvo_3
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 55
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 20
+		resources = {
+		}
+	}
+			heavy_pvo_5 = {
+		year = 2020
+
+		archetype = heavy_pvo
+		parent = heavy_pvo_4
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.5
+		armor_value = 20
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 60
+
+		#Space taken in convoy
+		lend_lease_cost = 30
+		
+		build_cost_ic = 20
+		resources = {
+		}
+	}
+ 
+	#########################################################
+							strateg_pvo = {
+		year = 1950
+
+		is_archetype = yes
+		picture = archetype_strateg_pvo		
+		type = {
+			artillery
+			infantry  
+ 
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+
+		#Misc Abilities
+		reliability = 1.0
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.8
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 70
+
+		#Space taken in convoy
+		lend_lease_cost = 70
+		
+		build_cost_ic = 70
+		resources = {
+		}
+	}
+	strateg_pvo_1 = {
+		year = 1970
+		archetype = strateg_pvo
+ 
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 1.0
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.8
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 70
+
+		#Space taken in convoy
+		lend_lease_cost = 70
+		
+		build_cost_ic = 70
+		resources = {
+		}
+	}
+	strateg_pvo_2 = {
+		year = 1990
+
+		archetype = strateg_pvo
+		parent = strateg_pvo_1
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 1.0
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.8
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 75
+
+		#Space taken in convoy
+		lend_lease_cost = 70
+		
+		build_cost_ic = 70
+		resources = {
+		}
+	}
+	strateg_pvo_3 = {
+		year = 2000
+
+		archetype = strateg_pvo
+		parent = strateg_pvo_2
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 1.0
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.8
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 80
+
+		#Space taken in convoy
+		lend_lease_cost = 70
+		
+		build_cost_ic = 70
+		resources = {
+		}
+	}	
+		strateg_pvo_4 = {
+		year = 2010
+
+		archetype = strateg_pvo
+		parent = strateg_pvo_3
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 1.0
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.8
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 85
+
+		#Space taken in convoy
+		lend_lease_cost = 70
+		
+		build_cost_ic = 70
+		resources = {
+		}
+	}
+			strateg_pvo_5 = {
+		year = 2020
+
+		archetype = strateg_pvo
+		parent = strateg_pvo_4
+		priority = 50
+		visual_level = 1
+
+		#Misc Abilities
+		reliability = 1.0
+
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 0
+		breakthrough = 0
+		hardness = 0.8
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 0
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 90
+
+		#Space taken in convoy
+		lend_lease_cost = 70
+		
+		build_cost_ic = 70
+		resources = {
+		}
+	}
+ 
+	#########################################################
+} 

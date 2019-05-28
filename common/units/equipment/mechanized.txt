@@ -1,1 +1,1095 @@
+equipments = {
+
+	btr = {
+		year = 1970
+
+		is_archetype = yes
+		picture = archetype_btr		
+		is_buildable = no
+		type = {
+			#infantry #Removing inf type 
+			motorized
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+		
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 5
+		hardness = 0.7
+		armor_value = 60
+
+		#Offensive Abilities
+		soft_attack = 40
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6
+	}
+
+	btr_1 = {
+		year = 1970
+		
+        archetype = btr
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 5
+		hardness = 0.7
+		armor_value = 60
+
+		#Offensive Abilities
+		soft_attack = 40
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6
+ 			
+	}
+		btr_2 = {
+		year = 1990
+		
+		archetype = btr
+		parent = btr_1
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.82
+		maximum_speed = 22
+
+		#Defensive Abilities
+		defense = 22
+		breakthrough = 5.1
+		hardness = 7.0
+		armor_value = 65
+
+		#Offensive Abilities
+		soft_attack = 42
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6
+ 		
+	}
+		btr_3 = {
+		year = 2000
+		
+				archetype = btr
+		parent = btr_2
+		priority = 30	
+		
  
+		#Misc Abilities
+		reliability = 0.84
+		maximum_speed = 24
+
+		#Defensive Abilities
+		defense = 24
+		breakthrough = 5.2
+		hardness = 7.0
+		armor_value = 70
+
+		#Offensive Abilities
+		soft_attack = 44
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6
+	}
+		btr_4 = {
+		year = 2010
+				archetype = btr
+		parent = btr_3
+		priority = 30
+         
+		#Misc Abilities
+		reliability = 0.86
+		maximum_speed = 26
+
+		#Defensive Abilities
+		defense = 26
+		breakthrough = 5.4
+		hardness = 7.0
+		armor_value = 75
+
+		#Offensive Abilities
+		soft_attack = 46
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6		
+	}	
+		btr_5 = {
+		year = 2015
+			
+		archetype = btr
+		parent = btr_4
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.88
+		maximum_speed = 28
+
+		#Defensive Abilities
+		defense = 28
+		breakthrough = 5.6
+		hardness = 7.0
+		armor_value = 75
+
+		#Offensive Abilities
+		soft_attack = 48
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6	
+	}
+			btr_6 = {
+		year = 2020
+		
+				archetype = btr
+		parent = btr_5
+		priority = 30
+		
+ 
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 30
+		breakthrough = 5.8
+		hardness = 7.0
+		armor_value = 80
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8
+	}
+			btr_7 = {
+		year = 2025
+		
+				archetype = btr
+		parent = btr_6
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 32
+
+		#Defensive Abilities
+		defense = 32
+		breakthrough = 6.0
+		hardness = 7.0
+		armor_value = 85
+
+		#Offensive Abilities
+		soft_attack = 52
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8			
+	}
+			btr_8 = {
+		year = 2030
+		
+				archetype = btr
+		parent = btr_7
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 34
+
+		#Defensive Abilities
+		defense = 34
+		breakthrough = 6.4
+		hardness = 7.0
+		armor_value = 90
+
+		#Offensive Abilities
+		soft_attack = 55
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8	
+	}
+			btr_9 = {
+		year = 2035
+		
+				archetype = btr
+		parent = btr_8
+		priority = 30	
+ 
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 36
+
+		#Defensive Abilities
+		defense = 36
+		breakthrough = 6.6
+		hardness = 7.0
+		armor_value = 95
+
+		#Offensive Abilities
+		soft_attack = 58
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8	
+	}
+			btr_10 = {
+		year = 2040
+				archetype = btr
+		parent = btr_9
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 40
+
+		#Defensive Abilities
+		defense = 40
+		breakthrough = 7
+		hardness = 7.0
+		armor_value = 100
+
+		#Offensive Abilities
+		soft_attack = 60
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8	
+	}
+	
+	
+	
+	##############Бмп
+		bmp = {
+		year = 1970
+
+		is_archetype = yes
+		picture = archetype_bmp		
+		is_buildable = no
+		type = {
+			#infantry #Removing inf type 
+			motorized
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+		
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 40
+		breakthrough = 8
+		hardness = 0.8
+		armor_value = 80
+
+		#Offensive Abilities
+		soft_attack = 70
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0
+	}
+
+	bmp_1 = {
+		year = 1970
+		
+        archetype = bmp
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 40
+		breakthrough = 8
+		hardness = 0.8
+		armor_value = 80
+
+		#Offensive Abilities
+		soft_attack = 70
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0
+ 			
+	}
+		bmp_2 = {
+		year = 1990
+		
+		archetype = bmp
+		parent = bmp_1
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.82
+		maximum_speed = 22
+
+		#Defensive Abilities
+		defense = 42
+		breakthrough = 8
+		hardness = 0.8
+		armor_value = 85
+
+		#Offensive Abilities
+		soft_attack = 72
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0
+		
+ 		
+	}
+		bmp_3 = {
+		year = 2000
+		
+				archetype = bmp
+		parent = bmp_2
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.84
+		maximum_speed = 24
+
+		#Defensive Abilities
+		defense = 44
+		breakthrough = 8
+		hardness = 0.8
+		armor_value = 85
+
+		#Offensive Abilities
+		soft_attack = 74
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0
+	}
+		bmp_4 = {
+		year = 2010
+				archetype = bmp
+		parent = bmp_3
+		priority = 30
+         
+		#Misc Abilities
+		reliability = 0.85
+		maximum_speed = 26
+
+		#Defensive Abilities
+		defense = 46
+		breakthrough = 8
+		hardness = 0.8
+		armor_value = 90
+
+		#Offensive Abilities
+		soft_attack = 76
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0
+ 		
+	}	
+		bmp_5 = {
+		year = 2015
+			
+		archetype = bmp
+		parent = bmp_4
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.86
+		maximum_speed = 28
+
+		#Defensive Abilities
+		defense = 48
+		breakthrough = 8
+		hardness = 0.8
+		armor_value = 95
+
+		#Offensive Abilities
+		soft_attack = 78
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0	
+	}
+			bmp_6 = {
+		year = 2020
+		
+				archetype = bmp
+		parent = bmp_5
+		priority = 30
+		
+		#Misc Abilities
+		reliability = 0.88
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 50
+		breakthrough = 8
+		hardness = 0.8
+		armor_value = 100
+
+		#Offensive Abilities
+		soft_attack = 80
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0	
+	}
+			bmp_7 = {
+		year = 2025
+		
+				archetype = bmp
+		parent = bmp_6
+		priority = 30	
+		
+ 
+		#Misc Abilities
+		reliability = 0.89
+		maximum_speed = 32
+
+		#Defensive Abilities
+		defense = 52
+		breakthrough = 8.5
+		hardness = 0.8
+		armor_value = 105
+
+		#Offensive Abilities
+		soft_attack = 82
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0			
+	}
+			bmp_8 = {
+		year = 2030
+		
+				archetype = bmp
+		parent = bmp_7
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 34
+
+		#Defensive Abilities
+		defense = 55
+		breakthrough = 8.6
+		hardness = 0.8
+		armor_value = 110
+
+		#Offensive Abilities
+		soft_attack = 85
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0	
+	}
+			bmp_9 = {
+		year = 2035
+		
+				archetype = bmp
+		parent = bmp_8
+		priority = 30	
+ 
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 36
+
+		#Defensive Abilities
+		defense = 57
+		breakthrough = 8.7
+		hardness = 0.8
+		armor_value = 115
+
+		#Offensive Abilities
+		soft_attack = 87
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0	
+	}
+			bmp_10 = {
+		year = 2040
+				archetype = bmp
+		parent = bmp_9
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 38
+
+		#Defensive Abilities
+		defense = 60
+		breakthrough = 9
+		hardness = 0.8
+		armor_value = 130
+
+		#Offensive Abilities
+		soft_attack = 90
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 7
+		
+		build_cost_ic = 7
+		resources = {
+		}	
+		
+		fuel_consumption = 2.0
+	}
+	
+	######
+		bmd = {
+		year = 1970
+
+		is_archetype = yes
+		picture = archetype_bmd		
+		is_buildable = no
+		type = {
+			#infantry #Removing inf type 
+			motorized
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+		
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 5
+		hardness = 0.7
+		armor_value = 60
+
+		#Offensive Abilities
+		soft_attack = 40
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6
+	}
+
+	bmd_1 = {
+		year = 1970
+		
+        archetype = bmd
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 20
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 5
+		hardness = 0.7
+		armor_value = 60
+
+		#Offensive Abilities
+		soft_attack = 40
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6
+ 			
+	}
+		bmd_2 = {
+		year = 1990
+		
+		archetype = bmd
+		parent = bmd_1
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.82
+		maximum_speed = 22
+
+		#Defensive Abilities
+		defense = 22
+		breakthrough = 5.1
+		hardness = 7.0
+		armor_value = 65
+
+		#Offensive Abilities
+		soft_attack = 42
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6
+ 		
+	}
+		bmd_3 = {
+		year = 2000
+		
+				archetype = bmd
+		parent = bmd_2
+		priority = 30	
+		
+ 
+		#Misc Abilities
+		reliability = 0.84
+		maximum_speed = 24
+
+		#Defensive Abilities
+		defense = 24
+		breakthrough = 5.2
+		hardness = 7.0
+		armor_value = 70
+
+		#Offensive Abilities
+		soft_attack = 44
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6
+	}
+		bmd_4 = {
+		year = 2010
+				archetype = bmd
+		parent = bmd_3
+		priority = 30
+         
+		#Misc Abilities
+		reliability = 0.86
+		maximum_speed = 26
+
+		#Defensive Abilities
+		defense = 26
+		breakthrough = 5.4
+		hardness = 7.0
+		armor_value = 75
+
+		#Offensive Abilities
+		soft_attack = 46
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6		
+	}	
+		bmd_5 = {
+		year = 2015
+			
+		archetype = bmd
+		parent = bmd_4
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.88
+		maximum_speed = 28
+
+		#Defensive Abilities
+		defense = 28
+		breakthrough = 5.6
+		hardness = 7.0
+		armor_value = 75
+
+		#Offensive Abilities
+		soft_attack = 48
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.6	
+	}
+			bmd_6 = {
+		year = 2020
+		
+				archetype = bmd
+		parent = bmd_5
+		priority = 30
+		
+ 
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 30
+
+		#Defensive Abilities
+		defense = 30
+		breakthrough = 5.8
+		hardness = 7.0
+		armor_value = 80
+
+		#Offensive Abilities
+		soft_attack = 50
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8
+	}
+			bmd_7 = {
+		year = 2025
+		
+				archetype = bmd
+		parent = bmd_6
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 32
+
+		#Defensive Abilities
+		defense = 32
+		breakthrough = 6.0
+		hardness = 7.0
+		armor_value = 85
+
+		#Offensive Abilities
+		soft_attack = 52
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8			
+	}
+			bmd_8 = {
+		year = 2030
+		
+				archetype = bmd
+		parent = bmd_7
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 34
+
+		#Defensive Abilities
+		defense = 34
+		breakthrough = 6.4
+		hardness = 7.0
+		armor_value = 90
+
+		#Offensive Abilities
+		soft_attack = 55
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8	
+	}
+			bmd_9 = {
+		year = 2035
+		
+				archetype = bmd
+		parent = bmd_8
+		priority = 30	
+ 
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 36
+
+		#Defensive Abilities
+		defense = 36
+		breakthrough = 6.6
+		hardness = 7.0
+		armor_value = 95
+
+		#Offensive Abilities
+		soft_attack = 58
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8	
+	}
+			bmd_10 = {
+		year = 2040
+				archetype = bmd
+		parent = bmd_9
+		priority = 30	
+		
+		#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 40
+
+		#Defensive Abilities
+		defense = 40
+		breakthrough = 7
+		hardness = 7.0
+		armor_value = 100
+
+		#Offensive Abilities
+		soft_attack = 60
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 6
+		
+		build_cost_ic = 6
+		resources = {
+		}
+	
+		fuel_consumption = 1.8	
+	}
+	
+	
+} 

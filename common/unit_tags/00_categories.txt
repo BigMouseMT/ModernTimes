@@ -1,6 +1,5 @@
 sub_unit_categories = {
  
 	category_army
- 
+    superior
 } 
- 

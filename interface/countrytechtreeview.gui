@@ -1062,29 +1062,127 @@ guiTypes = {
 				name = "techtree_stripes"
 				position = { x= 0 y= 0 }
 				size = { 
-					width = 1400 height = 1275
+					width = 1500 height = 1000
 					min = { width = 100%% height = 100%% }
 				}
 				clipping = no
 
 				iconType = {
-					name ="infantry_techtree_bg"
-					spriteType = "GFX_infantry_techtree_bg"
+					name ="air_base_techtree_bg"
+					spriteType = "GFX_air_base_techtree_bg"
 					position = { x=0 y=0 }
 					allwaystransparent = yes
-				}			
-
+				}	
+				instantTextBoxType = {
+					name = "air_base_subtitle_1"
+					position = { x = 270 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "1960"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}	
+				instantTextBoxType = {
+					name = "air_base_subtitle_2"
+					position = { x = 550 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "1970"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}				
+				instantTextBoxType = {
+					name = "air_base_subtitle_3"
+					position = { x = 830 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "1980"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}
+				instantTextBoxType = {
+					name = "air_base_subtitle_4"
+					position = { x = 1110 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "1990"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}				
+				instantTextBoxType = {
+					name = "air_base_subtitle_5"
+					position = { x = 1390 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "2010"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}								
+				instantTextBoxType = {
+					name = "air_base_subtitle_6"
+					position = { x = 1670 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "2025"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}					
+				instantTextBoxType = {
+					name = "air_base_subtitle_7"
+					position = { x = 1950 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "2035"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}				
 			}
 
-				
-			gridboxtype = {
-				name = "support_weapons_tree"
-				position = { x = 140 y = 325 }
+	    	gridboxtype = {
+				name = "superior_1_tree"
+				position = { x = 200 y = 200 }
 				slotsize = { width = 70 height = 70 }
-				format = "LEFT"
-			}	
-
- 		
+				format = "UP"
+			}
+	    	gridboxtype = {
+				name = "universal_1_tree"
+				position = { x = 200 y = 200 }
+				slotsize = { width = 70 height = 70 }
+				format = "UP"
+			}
+	    	gridboxtype = {
+				name = "front_1_tree"
+				position = { x = 200 y = 200 }
+				slotsize = { width = 70 height = 70 }
+				format = "UP"
+			}
+	    	gridboxtype = {
+				name = "strateg_1_tree"
+				position = { x = 200 y = 200 }
+				slotsize = { width = 70 height = 70 }
+				format = "UP"
+			}			
 		}
 				containerWindowType = {
 			name = "air_base_units_arsenal_folder"
@@ -1146,27 +1244,109 @@ guiTypes = {
 				name = "techtree_stripes"
 				position = { x= 0 y= 0 }
 				size = { 
-					width = 1400 height = 1275
+					width = 1500 height = 1000
 					min = { width = 100%% height = 100%% }
 				}
 				clipping = no
 
 				iconType = {
-					name ="infantry_techtree_bg"
-					spriteType = "GFX_infantry_techtree_bg"
+					name ="air_base_techtree_bg"
+					spriteType = "GFX_air_base_techtree_bg"
 					position = { x=0 y=0 }
 					allwaystransparent = yes
-				}			
-
+				}	
+				instantTextBoxType = {
+					name = "air_support_subtitle_1"
+					position = { x = 270 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "1960"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}	
+				instantTextBoxType = {
+					name = "air_support_subtitle_2"
+					position = { x = 550 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "1970"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}				
+				instantTextBoxType = {
+					name = "air_support_subtitle_3"
+					position = { x = 830 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "1980"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}
+				instantTextBoxType = {
+					name = "air_support_subtitle_4"
+					position = { x = 1110 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "1990"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}				
+				instantTextBoxType = {
+					name = "air_support_subtitle_5"
+					position = { x = 1390 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "2010"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}								
+				instantTextBoxType = {
+					name = "air_support_subtitle_6"
+					position = { x = 1670 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "2025"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}					
+				instantTextBoxType = {
+					name = "air_support_subtitle_7"
+					position = { x = 1950 y = 120 }
+					textureFile = ""
+					font = "hoi_36header"
+					borderSize = { x = 0 y = 0}
+					text = "2035"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+				}				
 			}
 
-				
-			gridboxtype = {
-				name = "support_weapons_tree"
-				position = { x = 140 y = 325 }
+	    	gridboxtype = {
+				name = "palub_universal_1_tree"
+				position = { x = 200 y = 200 }
 				slotsize = { width = 70 height = 70 }
-				format = "LEFT"
-			}	
+				format = "UP"
+			}
 
  		
 		}
@@ -1576,13 +1756,132 @@ guiTypes = {
 					min = { width = 100%% height = 100%% }
 				}
 				clipping = no
-
+##### BG
 				iconType = {
 					name ="science_techtree_bg"
 					spriteType = "GFX_science_techtree_bg"
 					position = { x=0 y=0 }
 					allwaystransparent = yes
 				}	
+								iconType = {
+					name ="science_techtree1_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=1920 y=0 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree2_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=1920 y=0 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree3_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=5760 y=0 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree4_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=3840 y=0 }
+					allwaystransparent = yes
+				}
+				
+				
+				
+								iconType = {
+					name ="science_techtree5_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=0 y=1080 }
+					allwaystransparent = yes
+				}	
+								iconType = {
+					name ="science_techtree6_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=1920 y=1080 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree7_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=1920 y=1080 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree8_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=5760 y=1080 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree9_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=3840 y=1080 }
+					allwaystransparent = yes
+				}
+				
+												iconType = {
+					name ="science_techtree10_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=0 y=2160 }
+					allwaystransparent = yes
+				}	
+								iconType = {
+					name ="science_techtree11_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=1920 y=2160 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree12_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=1920 y=2160 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree13_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=5760 y=2160 }
+					allwaystransparent = yes
+				}
+				iconType = {
+					name ="science_techtree14_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=3840 y=2160 }
+					allwaystransparent = yes
+				}
+				iconType = {
+					name ="science_techtree15_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=0 y=3240 }
+					allwaystransparent = yes
+				}	
+								iconType = {
+					name ="science_techtree16_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=1920 y=3240 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree17_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=1920 y=3240 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree18_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=5760 y=3240 }
+					allwaystransparent = yes
+				}
+												iconType = {
+					name ="science_techtree19_bg"
+					spriteType = "GFX_science_techtree_bg"
+					position = { x=3840 y=3240 }
+					allwaystransparent = yes
+				}
+				######## Top
 				instantTextBoxType = {
 					name = "science_subtitle_1"
 					position = { x = 30 y = 220 }
@@ -2498,7 +2797,8 @@ guiTypes = {
 			name ="tech_icon"
 			spriteType = "GFX_tiled_window_transparent"
 			position = { x= 45 y = 47 }
-			Orientation = "UPPER_LEFT"
+			scale = 0.50
+			centerposition = yes
 		}		
 
 		instantTextboxType = {
@@ -3049,6 +3349,894 @@ guiTypes = {
    #########################################
 	containerWindowType = {
 		name = "techtree_infantry_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_air_base_units_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_air_base_units_arsenal_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_air_support_units_arsenal_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_air_support_units_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_helicopter_units_arsenal_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_helicopter_units_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_naval_units_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_naval_units_arsenal_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_naval_escort_units_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_naval_escort_units_arsenal_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_naval_support_units_folder_item"
+		position = { x=0 y=0 }
+		size = { width = 340 height = 154 }
+		clipping = no
+
+		background = {
+			name = "Background"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon" ##322 136
+			position = { x=130 y=79}
+			spriteType = "GFX_technology_medium"
+			centerposition = yes
+			alwaystransparent = yes
+		}
+
+		
+		instantTextBoxType = {
+			name = "Name"
+			position = { x = 8 y = 120 }
+			textureFile = ""
+			font = "hoi_20bs"
+			borderSize = {x = 4 y = 4}
+			text = "Happy-Go-Lucky-Tank"
+			maxWidth = 200
+			maxHeight = 20
+			fixedsize = yes
+			format = left
+		}
+
+		iconType = {
+			name = "bonus_icon"
+			position = { x=111 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = 111 y = -22 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+		
+		
+		containerWindowType = {
+			name = "sub_technology_slot_0"
+			position = { x=141 y=1 }
+			size = { width = 35 height = 26 }
+			clipping = no
+			
+			background = {
+				name = "Background"
+				spriteType ="GFX_subtechnology_unavailable_item_bg"
+			}
+			
+			iconType = {
+				name = "picture"
+				position = { x=2 y=2 }
+				spriteType = "GFX_subtech_rocket"
+				alwaystransparent = yes
+			}
+		}		
+		
+	}
+    #########################################
+	   #########################################
+	containerWindowType = {
+		name = "techtree_naval_support_units_arsenal_folder_item"
 		position = { x=0 y=0 }
 		size = { width = 340 height = 154 }
 		clipping = no
@@ -4495,7 +5683,8 @@ guiTypes = {
 		
 		iconType = {
 			name = "unit_icon"
-			position = { x = 245 y = 40 }
+			position = { x = 245 y = 50 }
+			scale = 0.60
 			spriteType = "GFX_tiled_window_transparent_transparent"
 			centerposition = yes
 			allwaystransparent = no
@@ -4514,6 +5703,7 @@ guiTypes = {
 		iconType = {
 			name = "equipment_icon"
 			position = { x = 140 y = 27 }
+			scale = 0.50
 			spriteType = "GFX_sub_tech_strip_w_bg"
 			frame = 1
 		}
@@ -4608,6 +5798,7 @@ guiTypes = {
 		iconType = {
 			name = "equipment_icon"
 			position = { x = 140 y = 27 }
+			scale = 0.50
 			spriteType = "GFX_sub_tech_strip_w_bg"
 			frame = 1
 		}

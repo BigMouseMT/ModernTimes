@@ -2,6 +2,7 @@
 # If adding new technology, make sure they are uniquely named.
 
 technology_categories = {
+ air
  infantry_weapons
  science
 }

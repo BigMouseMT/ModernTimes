@@ -4,7 +4,7 @@ equipments = {
 		year = 1950
 	
 		is_archetype = yes
-		picture = archetype_light_weapon_equipment		
+		picture = light_weapon_equipment_1		
 		is_buildable = no
 		type = infantry
 		group_by = archetype
@@ -14,8 +14,8 @@ equipments = {
 		active = yes
 		
 		#Misc Abilities
-		reliability = 0.9
-		maximum_speed = 4
+		reliability = 0.8
+		maximum_speed = 5
 
 		#Defensive Abilities
 		defense = 20
@@ -34,7 +34,6 @@ equipments = {
 		
 		build_cost_ic = 1
 		resources = {
-			steel = 2
 		}
 		
 	}
@@ -45,13 +44,28 @@ equipments = {
 		active = yes
 		priority = 05
 		visual_level = 0
-				resources = {
-			steel = 2
-			oil = 2
-			rubber = 2
-			aluminium = 2
-			tungsten = 2
-			chromium = 2
+		
+				#Misc Abilities
+		reliability = 0.81
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 21
+		breakthrough = 2.1
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 3.5
+		hard_attack = 1
+		ap_attack = 1
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1
+		resources = {
 		}
 	}
 	light_weapon_1 = {
@@ -62,6 +76,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.82
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 22
+		breakthrough = 2.2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 4
+		hard_attack = 1.5
+		ap_attack = 1
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1
+		resources = {
+		}
 	}
 		light_weapon_2 = {
 		year = 1970
@@ -71,6 +108,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.83
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 23
+	    breakthrough = 2.5
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 5
+		hard_attack = 2
+		ap_attack = 3
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1
+		resources = {
+		}
 	}
 		light_weapon_3 = {
 		year = 1990
@@ -80,6 +140,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.84
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 24
+		breakthrough = 2.6
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 5.5
+		hard_attack = 3
+		ap_attack = 3.5
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1.1
+		resources = {
+		}
 	}
 		light_weapon_4 = {
 		year = 2000
@@ -89,6 +172,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.85
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 25
+		breakthrough = 2.7
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 6
+		hard_attack = 3.5
+		ap_attack = 4
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1.2
+		resources = {
+		}
 	}
 		light_weapon_5 = {
 		year = 2010
@@ -98,6 +204,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.86
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 26
+		breakthrough = 2.8
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 6.5
+		hard_attack = 4
+		ap_attack = 4.5
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1.3
+		resources = {
+		}
 	}
 		light_weapon_6 = {
 		year = 2017
@@ -107,6 +236,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.87
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 27
+		breakthrough = 2.8
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 7
+		hard_attack = 4
+		ap_attack = 4.5
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1.3
+		resources = {
+		}
 	}
 		light_weapon_7 = {
 		year = 2022
@@ -116,6 +268,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.88
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 28
+		breakthrough = 2.9
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 8
+		hard_attack = 4
+		ap_attack = 4.5
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1.3
+		resources = {
+		}
 	}
 		light_weapon_8 = {
 		year = 2026
@@ -125,6 +300,28 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+				#Misc Abilities
+		reliability = 0.89
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 29
+		breakthrough = 3
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 8.5
+		hard_attack = 4
+		ap_attack = 4.5
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1.4
+		resources = {
+		}
 	}
 		light_weapon_9 = {
 		year = 2029
@@ -134,6 +331,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.9
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 30
+		breakthrough = 3
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 9
+		hard_attack = 5
+		ap_attack = 5
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1.4
+		resources = {
+		}
 	}
 		light_weapon_10 = {
 		year = 2034
@@ -143,6 +363,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.91
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 31
+		breakthrough = 3.5
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 10
+		hard_attack = 6
+		ap_attack = 6
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1.5
+		resources = {
+		}
 	}
 		light_weapon_11 = {
 		year = 2040
@@ -152,13 +395,36 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.95
+		maximum_speed = 10
+
+		#Defensive Abilities
+		defense = 35
+		breakthrough = 4
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 15
+		hard_attack = 10
+		ap_attack = 10
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 1.5
+		resources = {
+		}
 	}
 	###### 
 		ptk_weapon = {
 		year = 1950
 	
 		is_archetype = yes
-		picture = archetype_ptk_weapon_equipment		
+		picture = ptk_weapon_equipment_1		
 		is_buildable = no
 		type = infantry
 		group_by = archetype
@@ -167,28 +433,27 @@ equipments = {
 		
 		active = yes
 		
-		#Misc Abilities
-		reliability = 0.9
-		maximum_speed = 4
+	    #Misc Abilities
+		reliability = 0.7
+		maximum_speed = 5
 
 		#Defensive Abilities
-		defense = 20
-		breakthrough = 2
+		defense = 10
+		breakthrough = 3
 		hardness = 0
 		armor_value = 0
 
 		#Offensive Abilities
-		soft_attack = 3
-		hard_attack = 0.5
-		ap_attack = 1
+		soft_attack = 2
+		hard_attack = 20
+		ap_attack = 100
 		air_attack = 0
 
 		#Space taken in convoy
-		lend_lease_cost = 1
+		lend_lease_cost = 2
 		
-		build_cost_ic = 1
+		build_cost_ic = 2
 		resources = {
-			steel = 2
 		}
 		
 	}
@@ -200,6 +465,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.7
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 3
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 2
+		hard_attack = 20
+		ap_attack = 100
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2
+		resources = {
+		}
 	}
 		ptk_weapon_2 = {
 		year = 1970
@@ -209,6 +497,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.72
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 11
+		breakthrough = 3
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 3
+		hard_attack = 21
+		ap_attack = 150
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2
+		resources = {
+		}
 	}
 		ptk_weapon_3 = {
 		year = 1990
@@ -218,6 +529,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.74
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 13
+		breakthrough = 3
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 5
+		hard_attack = 25
+		ap_attack = 400
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.1
+		resources = {
+		}
 	}
 		ptk_weapon_4 = {
 		year = 2000
@@ -227,6 +561,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.76
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 14
+		breakthrough = 3
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 5
+		hard_attack = 28
+		ap_attack = 450
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.2
+		resources = {
+		}
 	}
 		ptk_weapon_5 = {
 		year = 2010
@@ -236,6 +593,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.78
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 16
+		breakthrough = 3
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 6
+		hard_attack = 30
+		ap_attack = 500
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.3
+		resources = {
+		}
 	}
 		ptk_weapon_6 = {
 		year = 2017
@@ -245,6 +625,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.8
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 16
+		breakthrough = 3.5
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 6
+		hard_attack = 32
+		ap_attack = 550
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.3
+		resources = {
+		}
 	}
 		ptk_weapon_7 = {
 		year = 2022
@@ -254,6 +657,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.82
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 18
+		breakthrough = 3.5
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 6
+		hard_attack = 34
+		ap_attack = 600
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.4
+		resources = {
+		}
 	}
 		ptk_weapon_8 = {
 		year = 2026
@@ -263,6 +689,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.83
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 18
+		breakthrough = 3.5
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 6
+		hard_attack = 36
+		ap_attack = 650
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.4
+		resources = {
+		}
 	}
 		ptk_weapon_9 = {
 		year = 2029
@@ -272,6 +721,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.84
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 18
+		breakthrough = 3.5
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 6
+		hard_attack = 38
+		ap_attack = 700
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.5
+		resources = {
+		}
 	}
 		ptk_weapon_10 = {
 		year = 2034
@@ -281,6 +753,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.86
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 4
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 8
+		hard_attack = 40
+		ap_attack = 750
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.5
+		resources = {
+		}
 	}
 		ptk_weapon_11 = {
 		year = 2040
@@ -290,6 +785,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.9
+		maximum_speed = 10
+
+		#Defensive Abilities
+		defense = 25
+		breakthrough = 5
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 10
+		hard_attack = 50
+		ap_attack = 800
+		air_attack = 0
+
+		#Space taken in convoy
+		lend_lease_cost = 3
+		
+		build_cost_ic = 3
+		resources = {
+		}
 	}
 	#####
 		###### 
@@ -297,7 +815,7 @@ equipments = {
 		year = 1950
 	
 		is_archetype = yes
-		picture = archetype_anti_air_weapon_equipment		
+		picture = anti_air_weapon_equipment_1		
 		is_buildable = no
 		type = infantry
 		group_by = archetype
@@ -306,28 +824,27 @@ equipments = {
 		
 		active = yes
 		
-		#Misc Abilities
-		reliability = 0.9
-		maximum_speed = 4
+	    #Misc Abilities
+		reliability = 0.7
+		maximum_speed = 5
 
 		#Defensive Abilities
-		defense = 20
+		defense = 5
 		breakthrough = 2
 		hardness = 0
 		armor_value = 0
 
 		#Offensive Abilities
-		soft_attack = 3
-		hard_attack = 0.5
-		ap_attack = 1
-		air_attack = 0
+		soft_attack = 2
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 10
 
 		#Space taken in convoy
-		lend_lease_cost = 1
+		lend_lease_cost = 2
 		
-		build_cost_ic = 1
+		build_cost_ic = 2
 		resources = {
-			steel = 2
 		}
 		
 	}
@@ -339,6 +856,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.7
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 5
+		breakthrough = 2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 2
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 10
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2
+		resources = {
+		}
 	}
 		anti_air_weapon_2 = {
 		year = 1970
@@ -348,6 +888,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.71
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 5
+		breakthrough = 2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 2
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 12
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2
+		resources = {
+		}
 	}
 		anti_air_weapon_3 = {
 		year = 1990
@@ -357,6 +920,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.72
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 5
+		breakthrough = 2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 2
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 14
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2
+		resources = {
+		}
 	}
 		anti_air_weapon_4 = {
 		year = 2000
@@ -366,6 +952,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.73
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 8
+		breakthrough = 2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 2
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 16
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2
+		resources = {
+		}
 	}
 		anti_air_weapon_5 = {
 		year = 2010
@@ -375,6 +984,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.75
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 8
+		breakthrough = 2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 3
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 18
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.5
+		resources = {
+		}
 	}
 		anti_air_weapon_6 = {
 		year = 2017
@@ -384,6 +1016,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.76
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 10
+		breakthrough = 2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 4
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 20
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.5
+		resources = {
+		}
 	}
 		anti_air_weapon_7 = {
 		year = 2022
@@ -393,6 +1048,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.78
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 11
+		breakthrough = 2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 5
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 22
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.5
+		resources = {
+		}
 	}
 		anti_air_weapon_8 = {
 		year = 2026
@@ -402,6 +1080,33 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+				#Misc Abilities
+		reliability = 0.8
+		maximum_speed = 5
+		
+	    #Misc Abilities
+		reliability = 0.8
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 12
+		breakthrough = 2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 6
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 24
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.7
+		resources = {
+		}
 	}
 		anti_air_weapon_9 = {
 		year = 2029
@@ -411,6 +1116,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.84
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 14
+		breakthrough = 2
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 8
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 26
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.8
+		resources = {
+		}
 	}
 		anti_air_weapon_10 = {
 		year = 2034
@@ -420,6 +1148,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.88
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 16
+		breakthrough = 3
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 8
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 28
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 2.9
+		resources = {
+		}
 	}
 		anti_air_weapon_11 = {
 		year = 2040
@@ -429,6 +1180,29 @@ equipments = {
 		active = no
 		priority = 05
 		visual_level = 0
+		
+	    #Misc Abilities
+		reliability = 0.9
+		maximum_speed = 5
+
+		#Defensive Abilities
+		defense = 20
+		breakthrough = 3
+		hardness = 0
+		armor_value = 0
+
+		#Offensive Abilities
+		soft_attack = 12
+		hard_attack = 0
+		ap_attack = 0
+		air_attack = 35
+
+		#Space taken in convoy
+		lend_lease_cost = 2
+		
+		build_cost_ic = 3
+		resources = {
+		}
 	}
 	#####
 }	

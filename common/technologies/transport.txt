@@ -294,27 +294,7 @@
 			factor = 10
 		}
 	}
-		auto_11 = {
-
-		enable_equipments = {
-		auto_11
-		}	
-
-		research_cost = 1.5
-		start_year = 2040
-		folder = {
-			name = transport_units_folder
-			position = { x = @2040 y = @01 }
-		}
-		
-		categories = {
-			infantry_weapons
-		}
-		
-		ai_will_do = {
-			factor = 10
-		}
-	}
+ 
 	##########################################################
 	
 	
@@ -654,27 +634,7 @@
 			factor = 10
 		}
 	}
-		broneauto_11 = {
-
-		enable_equipments = {
-		broneauto_11
-		}	
-
-		research_cost = 1.5
-		start_year = 2040
-		folder = {
-			name = transport_units_folder
-			position = { x = @2040 y = @02 }
-		}
-		
-		categories = {
-			infantry_weapons
-		}
-		
-		ai_will_do = {
-			factor = 10
-		}
-	}
+ 
 	##########################################################
 	
 	
@@ -980,27 +940,7 @@
 			factor = 10
 		}
 	}
-		btr_11 = {
-
-		enable_equipments = {
-		btr_11
-		}	
-
-		research_cost = 1.5
-		start_year = 2040
-		folder = {
-			name = transport_units_folder
-			position = { x = @2040 y = @03 }
-		}
-		
-		categories = {
-			infantry_weapons
-		}
-		
-		ai_will_do = {
-			factor = 10
-		}
-	}
+ 
 	##########################################################
 	
 	
@@ -1300,27 +1240,7 @@
 			factor = 10
 		}
 	}
-		bmp_11 = {
-
-		enable_equipments = {
-		bmp_11
-		}	
-
-		research_cost = 1.5
-		start_year = 2040
-		folder = {
-			name = transport_units_folder
-			position = { x = @2040 y = @04 }
-		}
-		
-		categories = {
-			infantry_weapons
-		}
-		
-		ai_will_do = {
-			factor = 10
-		}
-	}
+ 
 	##########################################################
 	
 	
@@ -1628,27 +1548,7 @@
 			factor = 10
 		}
 	}
-		bmd_11 = {
-
-		enable_equipments = {
-		bmd_11
-		}	
-
-		research_cost = 1.5
-		start_year = 2040
-		folder = {
-			name = transport_units_folder
-			position = { x = @2040 y = @05 }
-		}
-		
-		categories = {
-			infantry_weapons
-		}
-		
-		ai_will_do = {
-			factor = 10
-		}
-	}
+ 
 	##########################################################
 
 	

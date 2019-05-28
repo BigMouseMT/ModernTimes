@@ -145,6 +145,10 @@ spriteTypes = {
 		textureFile = "gfx//interface//techtree//infantry_techtree_bg.dds"
 	}	
 		spriteType = {
+		name = "GFX_air_base_techtree_bg"
+		textureFile = "gfx//interface//techtree//air_base_techtree_bg.dds"
+	}	
+		spriteType = {
 		name = "GFX_science_techtree_bg"
 		textureFile = "gfx//interface//techtree//science_techtree_bg.dds"
 	}	

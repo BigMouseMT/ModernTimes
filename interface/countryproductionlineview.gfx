@@ -268,7 +268,11 @@ spriteTypes = {
 		textureFile = "gfx//interface//add_prod_armour_line.dds"
 		noOfFrames = 3			
 	}
-
+	spriteType = {
+		name = "GFX_add_prod_transport_line"
+		textureFile = "gfx//interface//add_prod_armour_line.dds"
+		noOfFrames = 3			
+	}
 	spriteType = {
 		name = "GFX_add_prod_naval_line"
 		textureFile = "gfx//interface//add_prod_naval_line.dds"

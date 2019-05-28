@@ -1,1 +1,431 @@
+equipments = {
+
+	auto = {
+		year = 1970
+
+		is_archetype = yes
+		picture = archetype_auto		
+		is_buildable = no
+		type = {
+			#infantry #Removing inf type 
+			motorized
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+		
+		maximum_speed = 20
+		reliability = 0.8
+		hardness = 0.1
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 4
+		resources = {
+
+		}
+		
+		fuel_consumption = 1.2
+	}
+
+	auto_1 = {
+		year = 1970
+		
+        archetype = auto
+		priority = 30	
+		
+ 
+		
+		maximum_speed = 20
+		reliability = 0.82
+		hardness = 0.2
+		
+		        build_cost_ic = 4
+ 			
+	}
+		auto_2 = {
+		year = 1990
+		
+		archetype = auto
+		parent = auto_1
+		priority = 30	
+		
+ 
+		
+	    maximum_speed = 22
+		reliability = 0.83
+		hardness = 0.21
+		
+		        build_cost_ic = 4
+		
+ 		
+	}
+		auto_3 = {
+		year = 2000
+		
+				archetype = auto
+		parent = auto_2
+		priority = 30	
+		
+ 
+		
+		maximum_speed = 24
+		reliability = 0.84
+		hardness = 0.22
+		
+ 		 build_cost_ic = 4
+	}
+		auto_4 = {
+		year = 2010
+				archetype = auto
+		parent = auto_3
+		priority = 30
+         
+		
+		maximum_speed = 26
+		reliability = 0.85
+		hardness = 0.23
+		
+build_cost_ic = 3.4			
+	}	
+		auto_5 = {
+		year = 2015
+			
+		archetype = auto
+		parent = auto_4
+		priority = 30	
+		
+ 
+		
+		maximum_speed = 30
+		reliability = 0.86
+		hardness = 0.30
+        armor_value = 10		
+ 
+		
+        build_cost_ic = 4		
+	}
+			auto_6 = {
+		year = 2020
+		
+				archetype = auto
+		parent = auto_5
+		priority = 30
+		
+ 
+		maximum_speed = 30
+		reliability = 0.87
+		hardness = 0.34	
+armor_value = 20		
+ 			
+			        build_cost_ic = 3.6
+	}
+			auto_7 = {
+		year = 2025
+		
+				archetype = auto
+		parent = auto_6
+		priority = 30	
+		
+ 
+		maximum_speed = 32
+		reliability = 0.88
+		hardness = 0.36
+armor_value = 25		
+		
+         build_cost_ic = 4.5			
+	}
+			auto_8 = {
+		year = 2030
+		
+				archetype = auto
+		parent = auto_7
+		priority = 30	
+		
+ 
+		maximum_speed = 34
+		reliability = 0.89
+		hardness = 0.38
+		armor_value = 30
+
+		       build_cost_ic = 4.5
+	}
+			auto_9 = {
+		year = 2035
+		
+				archetype = auto
+		parent = auto_8
+		priority = 30	
+ 
+		maximum_speed = 36
+		reliability = 0.9
+		hardness = 0.40		
+		armor_value = 35
+ 
+ 		
+        build_cost_ic = 4.5
+	}
+			auto_10 = {
+		year = 2040
+				archetype = auto
+		parent = auto_9
+		priority = 30	
+		
+ 
+		maximum_speed = 40
+		reliability = 0.9
+		hardness = 0.40	
+        armor_value = 40		
+ 
+         build_cost_ic = 4.5
+	}
+	
+	
+	
+	##############Бронеавтомобили
+		broneauto = {
+		year = 1970
+
+		is_archetype = yes
+		picture = archetype_broneauto		
+		is_buildable = no
+		type = {
+			#infantry #Removing inf type 
+			motorized
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+		
+		maximum_speed = 20
+		reliability = 0.8
+		hardness = 0.1
+		armor_value = 30
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.4
+	}
+
+	broneauto_1 = {
+		year = 1970
+		
+        archetype = broneauto
+		priority = 30	
+		
+		maximum_speed = 20
+		reliability = 0.8
+		hardness = 0.2
+		armor_value = 30
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.4
+ 			
+	}
+		broneauto_2 = {
+		year = 1990
+		
+		archetype = broneauto
+		parent = broneauto_1
+		priority = 30	
+		
+ 
+		maximum_speed = 22
+		reliability = 0.81
+		hardness = 0.2
+		armor_value = 35
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.4
+		
+ 		
+	}
+		broneauto_3 = {
+		year = 2000
+		
+				archetype = broneauto
+		parent = broneauto_2
+		priority = 30	
+		
+ 
+		maximum_speed = 24
+		reliability = 0.82
+		hardness = 0.3
+		armor_value = 40
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.4
+	}
+		broneauto_4 = {
+		year = 2010
+				archetype = broneauto
+		parent = broneauto_3
+		priority = 30
+         
+		maximum_speed = 26
+		reliability = 0.84
+		hardness = 0.4
+		armor_value = 45
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.4		
+	}	
+		broneauto_5 = {
+		year = 2015
+			
+		archetype = broneauto
+		parent = broneauto_4
+		priority = 30	
+		
+		maximum_speed = 28
+		reliability = 0.86
+		hardness = 0.45
+		armor_value = 50
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.6		
+	}
+			broneauto_6 = {
+		year = 2020
+		
+				archetype = broneauto
+		parent = broneauto_5
+		priority = 30
+		
+ 
+		maximum_speed = 30
+		reliability = 0.87
+		hardness = 0.5
+		armor_value = 55
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.6	
+	}
+			broneauto_7 = {
+		year = 2025
+		
+				archetype = broneauto
+		parent = broneauto_6
+		priority = 30	
+		
+ 
+		maximum_speed = 32
+		reliability = 0.88
+		hardness = 0.5
+		armor_value = 60
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.6			
+	}
+			broneauto_8 = {
+		year = 2030
+		
+				archetype = broneauto
+		parent = broneauto_7
+		priority = 30	
+		
+		maximum_speed = 34
+		reliability = 0.89
+		hardness = 0.5
+		armor_value = 70
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.6
+	}
+			broneauto_9 = {
+		year = 2035
+		
+				archetype = broneauto
+		parent = broneauto_8
+		priority = 30	
+ 
+		maximum_speed = 36
+		reliability = 0.9
+		hardness = 0.5
+		armor_value = 75
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.6
+	}
+			broneauto_10 = {
+		year = 2040
+				archetype = broneauto
+		parent = broneauto_9
+		priority = 30	
+		
+		maximum_speed = 36
+		reliability = 0.9
+		hardness = 0.5
+		armor_value = 80
+
+		#Space taken in convoy
+		lend_lease_cost = 5
+
+		build_cost_ic = 5
+		resources = {
+		}
+		
+		fuel_consumption = 1.6
+	}
+}
  
