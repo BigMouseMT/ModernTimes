@@ -15,23 +15,110 @@ idea_categories = {
 	}
 	
 	political_system = {
-		slot = mobilization_laws
-		slot = trade_laws
-		slot = economy
-		slot = political_advisor
-		slot = political_advisor
-		slot = political_advisor
-		slot = political_advisor
-		slot = political_advisor
-		slot = political_advisor
-		slot = political_advisor
-		slot = political_advisor
-		slot = political_advisor
+		slot = gos_stroi
+		slot = v_gos_stroi
+		slot = polit_regime
+		slot = forma_pravlenia
+		slot = gos_status
+		slot = gos_razmer
+		slot = pop_razmer
+		slot = socium_dev
+		slot = socium_pop
+		slot = status_prava
+		slot = macro_economy
+		slot = level_economy
+		
+		cost = 150
+		removal_cost = 0
+	}
+	economy_system = {
+		slot = economy_category
+		slot = economy_type
+		slot = economy_large		
+		slot = economy_orientation
+		slot = economy_stable
+		slot = economy_cifra
+		slot = economy_property
+		slot = economy_liberty
+		slot = economy_dev
+		slot = economy_small_bus
+		slot = economy_middle_bus
+		slot = economy_large_bus
+		
+		cost = 150
+		removal_cost = 0
+	}
+	military_laws = {
+		slot = law_armyfinance
+		slot = law_armylarge
+		slot = law_armystatus
+		slot = law_armyconscription
+		slot = law_armyconscriptionlarge
+		slot = law_armyservice
+	    slot = law_armypreeducation
+		slot = law_armyeduation
+		slot = law_armywomens
+		slot = law_armysituation
+		slot = law_armyreserve
+		slot = law_armyuchet
+		
+		cost = 150
+		removal_cost = 0
+	}	
+    political_laws = {
+		slot = law_information
+		slot = law_mitings
+		slot = law_sobrania		
+		slot = law_partii
+		slot = law_gosservice
+		slot = law_corruption
+		slot = law_borders
+		slot = law_religion
+		slot = law_pravociv
+		slot = law_pravochil
+		slot = law_pravomensh
+		slot = law_pravoweapon
 		
 		cost = 150
 		removal_cost = 0
 	}
 	
+    economy_laws = {
+		slot = law_nalogi
+		slot = law_ceny
+		slot = law_monopolii	
+		slot = law_stroitelstvo
+		slot = law_resursy
+		slot = law_subsidii
+	    slot = law_business
+		slot = law_zarplata
+		slot = law_pensii
+		slot = law_socialobespech
+		slot = law_researchfinance
+		slot = law_lichnhoz
+		
+		cost = 150
+		removal_cost = 0
+	}	
+
+    social_laws = {
+		slot = law_medicine
+		slot = law_start_education
+		slot = law_second_eduation
+		slot = law_high_education
+		slot = law_molodezh
+		slot = law_ohrana
+	    slot = law_ipoteka
+		slot = law_family
+		slot = law_sitisen
+		slot = law_sitisen_protect
+		slot = law_rabday
+		slot = law_ohranarab
+		
+		cost = 150
+		removal_cost = 0
+	}	
+    
 	research_production = {
 		slot = tank_manufacturer
 		slot = naval_manufacturer
