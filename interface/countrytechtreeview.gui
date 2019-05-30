@@ -1613,12 +1613,12 @@ guiTypes = {
 			}
 
 				
-			gridboxtype = {
-				name = "support_weapons_tree"
-				position = { x = 140 y = 325 }
+	    	gridboxtype = {
+				name = "esminets_1_tree"
+				position = { x = 200 y = 200 }
 				slotsize = { width = 70 height = 70 }
-				format = "LEFT"
-			}	
+				format = "UP"
+			}
 
  		
 		}
@@ -2575,14 +2575,14 @@ guiTypes = {
 								buttonType = {
 				name = "helicopter_units_folder_tab"
 				position = { x = 1000 y = 0 }
-				quadTextureSprite = "GFX_air_support_units_folder_tab"
+				quadTextureSprite = "GFX_helicopter_units_folder_tab"
 				frame = 1
 				clicksound = click_default
 			}
 						buttonType = {
 				name = "helicopter_units_arsenal_folder_tab"
 				position = { x = 1000 y = 50 }
-				quadTextureSprite = "GFX_air_support_units_arsenal_folder_tab"
+				quadTextureSprite = "GFX_helicopter_units_arsenal_folder_tab"
 				frame = 1
 				clicksound = click_default
 			}

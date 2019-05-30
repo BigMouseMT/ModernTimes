@@ -1,1 +1,94 @@
+ 		technologies = {
+		
+	###1960-1970-2040-1990-2010-2025-2035
+	
+	@1980 = 0
+	@2025 = 6
+	@2040 = 12
+	
+	@01 = 0
+	@02 = 3
+	@03 = 6
+
+		esminets_1 = {
+
+ 		enable_equipments = {
+		esminets_1
+		}
  
+		
+		path = {
+			leads_to_tech = esminets_2
+			research_cost_coeff = 2
+		}		
+
+		research_cost = 2
+		start_year = 1980
+		folder = {
+			name = naval_units_folder
+			position = { x = @1980 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			esminets_2 = {
+
+ 		enable_equipments = {
+		esminets_2
+		}
+ 
+		
+		path = {
+			leads_to_tech = esminets_3
+			research_cost_coeff = 2
+		}		
+
+		research_cost = 2
+		start_year = 1960
+		folder = {
+			name = naval_units_folder
+			position = { x = @2025 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			esminets_3 = {
+
+ 		enable_equipments = {
+		esminets_3
+		}
+ 
+		
+		path = {
+			leads_to_tech = esminets_4
+			research_cost_coeff = 2
+		}		
+
+		research_cost = 2
+		start_year = 2040
+		folder = {
+			name = naval_units_folder
+			position = { x = @2040 y = @01 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	}

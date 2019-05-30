@@ -6,16 +6,30 @@ set_research_slots = 3
 set_politics = {
 
 	parties = {
-		fascism = { 
-			popularity = 33
+		democratic = { 
+			popularity = 25 #shared between all parties, should add to 100
 		}
-		neutrality = { 
-			popularity = 33
-		}		
+
+		fascism = {
+			popularity = 10
+		}
+		
 		communism = {
-			popularity = 34
+			popularity = 17
+		}
+		
+		classical_liberalism = {
+			popularity = 35
+		} 
+		
+		neutrality = {
+			popularity = 13
 		}
 	}
+	
+	ruling_party = classical_liberalism
+	last_election = "2016.9.18"
+	election_frequency = 48
+	elections_allowed = yes
 }
-
 

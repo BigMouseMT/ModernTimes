@@ -14,16 +14,31 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		fascism = { 
-			popularity = 33
+		democratic = { 
+			popularity = 30 #shared between all parties, should add to 100
 		}
-		neutrality = { 
-			popularity = 33
-		}		
+
+		fascism = {
+			popularity = 10
+		}
+		
 		communism = {
-			popularity = 34
+			popularity = 20
+		}
+		
+		classical_liberalism = {
+			popularity = 25
+		} 
+		
+		neutrality = {
+			popularity = 15
 		}
 	}
+	
+	ruling_party = democratic
+	last_election = "2016.9.18"
+	election_frequency = 48
+	elections_allowed = yes
 }
 
 

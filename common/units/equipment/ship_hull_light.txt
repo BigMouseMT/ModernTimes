@@ -1,1 +1,121 @@
  
+
+equipments = {
+
+	ship_hull_light = {
+		year = 1980
+
+		is_archetype = yes
+		is_buildable = no
+		type = screen_ship
+		interface_category = interface_category_screen_ships
+		alias = esminets
+		priority = 2000
+
+		upgrades = {
+ 
+		}
+
+		module_slots = {
+ 
+		}
+		
+		module_count_limit = {
+ 
+		}
+		
+		module_count_limit = {
+ 
+		}
+		
+		default_modules = {
+ 
+		}
+		
+		lg_armor_piercing = 0
+		lg_attack = 0
+		
+		hg_armor_piercing = 0
+		hg_attack = 0
+		
+		torpedo_attack = 0
+		sub_attack = 1
+		
+		anti_air_attack = 0
+		
+		armor_value = 0
+
+		
+		surface_detection = 20
+		sub_detection = 1
+		surface_visibility = 10
+		naval_speed = 25
+		reliability = 0.80
+		
+		naval_range = 1500
+		
+		max_strength = 25
+		
+
+		fuel_consumption = 0
+		
+		build_cost_ic = 400
+		resources = {
+			steel = 2
+		}
+		
+		manpower = 250
+	}
+
+
+
+
+
+
+
+
+
+ esminets_1 = {
+		year = 1922
+
+		archetype = ship_hull_light
+		priority = 2000
+		module_slots = inherit
+		default_modules = {
+ 
+		}
+		lg_armor_piercing = 1
+		lg_attack = 1
+		
+		hg_armor_piercing = 1
+		hg_attack = 1
+		
+		torpedo_attack = 1
+		sub_attack = 1
+		
+		anti_air_attack = 1
+		
+		armor_value = 1
+
+		
+		surface_detection = 20
+		sub_detection = 1
+		surface_visibility = 10
+		naval_speed = 25
+		reliability = 0.80
+		
+		naval_range = 1500
+		
+		max_strength = 25
+		
+
+		fuel_consumption = 0
+		
+		build_cost_ic = 400
+		resources = {
+			steel = 2
+		}
+		
+		manpower = 250
+	}
+	}

@@ -6,27 +6,31 @@ oob = "AUS_1936"
 set_politics = {
 
 	parties = {
-		neutrality = { 
-			popularity = 48
+		democratic = { 
+			popularity = 55 #shared between all parties, should add to 100
 		}
 
 		fascism = {
-			popularity = 50
-		}
-
-		democratic = {
-			popularity = 1
+			popularity = 15
 		}
 		
 		communism = {
-			popularity = 1
+			popularity = 20
+		}
+		
+		classical_liberalism = {
+			popularity = 5
+		} 
+		
+		neutrality = {
+			popularity = 5
 		}
 	}
 	
-	ruling_party = neutrality
-	last_election = "1930.11.9"
+	ruling_party = democratic
+	last_election = "2017.3.18"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
-
+ 
  

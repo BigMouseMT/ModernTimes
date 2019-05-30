@@ -9,17 +9,30 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 15
+			popularity = 55 #shared between all parties, should add to 100
 		}
 
 		fascism = {
-			popularity = 30
+			popularity = 7
 		}
 		
 		communism = {
-			popularity = 50
+			popularity = 20
+		}
+		
+		classical_liberalism = {
+			popularity = 15
+		} 
+		
+		neutrality = {
+			popularity = 3
 		}
 	}
+	
+	ruling_party = democratic
+	last_election = "2019.3.18"
+	election_frequency = 48
+	elections_allowed = yes
 }
 
  

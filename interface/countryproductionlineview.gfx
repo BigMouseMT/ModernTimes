@@ -420,7 +420,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_naval_production_line_selected"
-		textureFile = "gfx//interface//naval_production_line_selected.dds"
+		textureFile = "gfx//interface//production_line_selected.dds"
 	}	
 
 	spriteType = {

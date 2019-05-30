@@ -14,10 +14,16 @@ idea_categories = {
 		removal_cost = -1
 	}
 	
-	government = {
+	political_system = {
 		slot = mobilization_laws
 		slot = trade_laws
 		slot = economy
+		slot = political_advisor
+		slot = political_advisor
+		slot = political_advisor
+		slot = political_advisor
+		slot = political_advisor
+		slot = political_advisor
 		slot = political_advisor
 		slot = political_advisor
 		slot = political_advisor

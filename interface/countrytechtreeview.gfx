@@ -179,6 +179,16 @@ spriteTypes = {
 		textureFile = "gfx//interface//techtree//techtree_air_support_units_arsenal__tab.dds"
 		noOfFrames = 2		
 	}
+		spriteType = {
+		name = "GFX_helicopter_units_folder_tab"
+		textureFile = "gfx//interface//techtree//techtree_helicopter_units__tab.dds"
+		noOfFrames = 2		
+	}
+		spriteType = {
+		name = "GFX_helicopter_units_arsenal_folder_tab"
+		textureFile = "gfx//interface//techtree//techtree_helicopter_units_arsenal__tab.dds"
+		noOfFrames = 2		
+	}	
 	spriteType = {
 		name = "GFX_helicopter_units_folder_tab"
 		textureFile = "gfx//interface//techtree//techtree_helicopter_units__tab.dds"
