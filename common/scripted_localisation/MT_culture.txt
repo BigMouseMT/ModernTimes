@@ -1,0 +1,10 @@
+defined_text = {
+	name = CULTURE
+
+	text = {
+		trigger = {
+			check_variable = { culture = 1 }
+		}
+		localization_key = culture_1
+	}
+	}

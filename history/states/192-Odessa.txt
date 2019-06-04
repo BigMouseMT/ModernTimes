@@ -9,8 +9,11 @@ state={
 	history={
 		owner = UKR
 		victory_points = {
-			11670 10 
+			11670 20 
 		}
+		victory_points = {
+			3757 5 
+		}		
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

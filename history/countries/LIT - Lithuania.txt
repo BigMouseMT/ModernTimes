@@ -1,4 +1,4 @@
-﻿capital = 11
+﻿capital = 784
 
 oob = "LIT_1936"
 
@@ -6,27 +6,7 @@ oob = "LIT_1936"
 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 15 #shared between all parties, should add to 100
-		}
-
-		fascism = {
-			popularity = 15
-		}
-		
-		communism = {
-			popularity = 20
-		}
-		
-		classical_liberalism = {
-			popularity = 40
-		} 
-		
-		neutrality = {
-			popularity = 15
-		}
-	}
+ 
 	
 	ruling_party = classical_liberalism
 	last_election = "2018.3.18"

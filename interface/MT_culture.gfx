@@ -1,0 +1,5 @@
+ spriteTypes = {	
+	spriteType = {
+		name = "GFX_culture_belorus"
+		texturefile = "gfx/interface/state/culture_icon.dds"
+	}

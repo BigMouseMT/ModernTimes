@@ -8,19 +8,7 @@ set_research_slots = 4
 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 80
-		}
-
-		neutrality = {
-			popularity = 19
-		}
-		
-		communism = {
-			popularity = 1
-		}
-	}
+ 
 
 	ruling_party = democratic
 	last_election = "1991.1.1"

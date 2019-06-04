@@ -5,27 +5,7 @@ oob = "POR_1936"
  
 set_politics = {
  
-	parties = {
-		democratic = { 
-			popularity = 55 #shared between all parties, should add to 100
-		}
-
-		fascism = {
-			popularity = 15
-		}
-		
-		communism = {
-			popularity = 20
-		}
-		
-		classical_liberalism = {
-			popularity = 5
-		} 
-		
-		neutrality = {
-			popularity = 5
-		}
-	}
+ 
 	
 	ruling_party = democratic
 	last_election = "2017.3.18"

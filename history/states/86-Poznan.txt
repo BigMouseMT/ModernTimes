@@ -8,29 +8,16 @@ state={
 	history={
 		owner = POL
 		victory_points = {
-			6558 10
+			6558 20
 		}
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
-			11232 = {
-				bunker = 1
-
-			}
-			9532 = {
-				bunker = 1
-
-			}
-			3381 = {
-				bunker = 1
-
-			}
+ 
 			air_base = 3
 		}
 		add_core_of = POL
-		1938.3.12 = {
-			add_claim_by = GER
-		}
+ 
 	}
 
 	provinces={

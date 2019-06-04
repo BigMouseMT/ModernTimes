@@ -1,0 +1,36 @@
+
+state={
+	id=845
+	name="STATE_845"
+	manpower = 1331211
+	state_category = metropolis
+
+	history={
+ 
+ 
+		victory_points = {
+			9345 10
+		}
+		victory_points = {
+			13278 10
+		}
+		victory_points = {
+			13279 10
+		} 
+ 		victory_points = {
+			13280 10
+		}
+
+
+		
+		owner = SOV
+		buildings = {
+			infrastructure = 10
+		}
+		add_core_of = SOV
+	}
+
+	provinces={
+	 9356  11236  6356  9345 6346 13278 13279 13280
+	}
+}

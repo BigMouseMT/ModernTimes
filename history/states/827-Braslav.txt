@@ -1,0 +1,28 @@
+state={
+	id=827
+	name="STATE_827"
+	
+		manpower = 25000
+	
+	state_category = rural
+
+	history={
+		owner = BLR
+	    add_core_of = BLR
+		victory_points = {
+			233 5
+		}
+ 			
+		
+ 
+		buildings = {
+			infrastructure = 7
+		}
+ 
+	}	
+	
+	provinces={
+		233 358 9341
+	}
+ 
+}

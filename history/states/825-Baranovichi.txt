@@ -1,0 +1,28 @@
+state={
+	id=825
+	name="STATE_825"
+	
+			manpower = 190000
+	
+	state_category = large_town
+
+	history={
+		owner = BLR
+	    add_core_of = BLR
+		victory_points = {
+			6359 5
+		}
+ 			
+		
+ 
+		buildings = {
+			infrastructure = 7
+		}
+ 
+	}		
+	
+	provinces={
+		6359 3309 6306 11341 9304
+	}
+ 
+}

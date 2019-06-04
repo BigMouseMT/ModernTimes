@@ -1,0 +1,335 @@
+spriteTypes = {
+ 	SpriteType = {
+		name = "GFX_idea_unitary_state"
+		texturefile = "gfx/interface/laws/Unitarnoe Gosudarstvo.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_federal_state"
+		texturefile = "gfx/interface/laws/Federativnoe Gosudarstvo.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_confederal_state"
+		texturefile = "gfx/interface/laws/Konfederativnoe Gosudarstvo.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_unrecognized_state"
+		texturefile = "gfx/interface/laws/Desorganisovannoe Gosudarstvo.dds" 
+	}
+	##
+	 	SpriteType = {
+		name = "GFX_idea_centralized_unitary_state"
+		texturefile = "gfx/interface/laws/cenralisovannoe unitarnoe gosudarstvo.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_decentralized_unitary_state"
+		texturefile = "gfx/interface/laws/decentralisovannoe unitarnoe gosudarstvo.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_regionalist_state"
+		texturefile = "gfx/interface/laws/regionalisticheskoe gosudarstvo.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_simmetrial_federal_state"
+		texturefile = "gfx/interface/laws/simmerichnoe gosudarstvo.dds" 
+	}
+		SpriteType = {
+		name = "GFX_idea_asimmetrial_federal_state"
+		texturefile = "gfx/interface/laws/assimetrcihnoe gosudarstvo.dds" 
+	}
+	##
+	 	SpriteType = {
+		name = "GFX_idea_liberal_dem"
+		texturefile = "gfx/interface/laws/Liberalism.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_social_dem"
+		texturefile = "gfx/interface/laws/Socialism.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_egalitar_dem"
+		texturefile = "gfx/interface/laws/Aligarism.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_oligarh_dem"
+		texturefile = "gfx/interface/laws/Oligarhism.dds" 
+	}
+		SpriteType = {
+		name = "GFX_idea_imitation_dem"
+		texturefile = "gfx/interface/laws/Imitacionnaya democratiya.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_fascist_total"
+		texturefile = "gfx/interface/laws/Fascism.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_social_total"
+		texturefile = "gfx/interface/laws/Total_socialism.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_nat-soc_total"
+		texturefile = "gfx/interface/laws/Nazionalism.dds" 
+	}
+	 	SpriteType = {
+		name = "GFX_idea_military_buro_regime"
+		texturefile = "gfx/interface/laws/voennaya burokratiya.dds" 
+	}
+		SpriteType = {
+		name = "GFX_idea_corporat_avtor"
+		texturefile = "gfx/interface/laws/Dotolitarnaya avtoritarism.dds" 
+	}
+			SpriteType = {
+		name = "GFX_idea_dototal_avtor"
+		texturefile = "gfx/interface/laws/Dotolitarnaya avtoritarism.dds" 
+	}
+			SpriteType = {
+		name = "GFX_idea_postcolonial_avtor"
+		texturefile = "gfx/interface/laws/Postkolinoalnaya avtoritarism.dds" 
+	}
+			SpriteType = {
+		name = "GFX_idea_ras_cvas_dem"
+		texturefile = "gfx/interface/laws/Kvasidemocratiya.dds" 
+	}
+			SpriteType = {
+		name = "GFX_idea_sultan_regime"
+		texturefile = "gfx/interface/laws/Sultanism.dds" 
+	}
+	####################
+				SpriteType = {
+		name = "GFX_idea_president_republic"
+		texturefile = "gfx/interface/laws/Presydenskaya rep..dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_mixed_republic"
+		texturefile = "gfx/interface/laws/Smeshanaya rep..dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_pres-parlament_republic"
+		texturefile = "gfx/interface/laws/Premier rep..dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_parlament_republic"
+		texturefile = "gfx/interface/laws/Parlament. rep.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_parlament_monarchy"
+		texturefile = "gfx/interface/laws/Parlament monarch.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_dual_monarchy"
+		texturefile = "gfx/interface/laws/Дуализм.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_absolut_monarchy"
+		texturefile = "gfx/interface/laws/Absolut monarch.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_one-party_state"
+		texturefile = "gfx/interface/laws/Odnoportiynaya sist.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_military_dictat"
+		texturefile = "gfx/interface/laws/Voenschina.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_total_power_state"
+		texturefile = "gfx/interface/laws/Тоталитаризм.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_chatolic_teocrasy"
+		texturefile = "gfx/interface/laws/Католичество.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_protestant_teocrasy"
+		texturefile = "gfx/interface/laws/Протестанты.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_pravoslavie_teocrasy"
+		texturefile = "gfx/interface/laws/Православие.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_sunnit_teocrasy"
+		texturefile = "gfx/interface/laws/Сунниты.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_shiit_teocrasy"
+		texturefile = "gfx/interface/laws/Шииты.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_buddist_teocrasy"
+		texturefile = "gfx/interface/laws/Буддизм.dds" 
+	}
+				SpriteType = {
+		name = "GFX_idea_iydei_teocrasy"
+		texturefile = "gfx/interface/laws/Иудаизм.dds" 
+	}	
+##############################
+					SpriteType = {
+		name = "GFX_idea_local_state"
+		texturefile = "gfx/interface/laws/Localnoe.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_regional_state"
+		texturefile = "gfx/interface/laws/Regional.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_great_state"
+		texturefile = "gfx/interface/laws/Velikoe.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_superpower_state"
+		texturefile = "gfx/interface/laws/Sverhderzhava.dds" 
+	}
+	###########################
+						SpriteType = {
+		name = "GFX_idea_micro_state"
+		texturefile = "gfx/interface/laws/micro.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_very_small_state"
+		texturefile = "gfx/interface/laws/Maliye.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_small_state"
+		texturefile = "gfx/interface/laws/Nebolshie.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_middle_state"
+		texturefile = "gfx/interface/laws/Sredniy.dds" 
+	}
+						SpriteType = {
+		name = "GFX_idea_big_state"
+		texturefile = "gfx/interface/laws/Znachitelnye.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_very_big_state"
+		texturefile = "gfx/interface/laws/Gigant.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_superbig_state"
+		texturefile = "gfx/interface/laws/Gigant.dds" 
+	}
+	###########################
+						SpriteType = {
+		name = "GFX_idea_micropop_state"
+		texturefile = "gfx/interface/laws/Micropop.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_smallpop_state"
+		texturefile = "gfx/interface/laws/Malyepop.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_middlepop_state"
+		texturefile = "gfx/interface/laws/Nebolshiepop.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_bigpop_state"
+		texturefile = "gfx/interface/laws/Znachytelniepop.dds" 
+	}
+						SpriteType = {
+		name = "GFX_idea_verybigpop_state"
+		texturefile = "gfx/interface/laws/Gigantypop.dds" 
+	}
+	###########################
+						SpriteType = {
+		name = "GFX_idea_agrarian_state"
+		texturefile = "gfx/interface/laws/Agrarnoe.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_industrial_state"
+		texturefile = "gfx/interface/laws/Industrialnoe.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_postindustrial_state"
+		texturefile = "gfx/interface/laws/Post-Industrialnoe.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_information_state"
+		texturefile = "gfx/interface/laws/Informationnoe.dds" 
+	}	
+		###########################
+						SpriteType = {
+		name = "GFX_idea_verylow_socium"
+		texturefile = "gfx/interface/laws/Ochen Niskiysoc.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_low_socium"
+		texturefile = "gfx/interface/laws/Niskiysoc.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_middle_socium"
+		texturefile = "gfx/interface/laws/Sredniysoc.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_high_socium"
+		texturefile = "gfx/interface/laws/Visokiysoc.dds" 
+	}
+						SpriteType = {
+		name = "GFX_idea_veryhigh_socium"
+		texturefile = "gfx/interface/laws/Ochen Visokiysoc.dds" 
+	}
+		###########################
+						SpriteType = {
+		name = "GFX_idea_verylow_pravo"
+		texturefile = "gfx/interface/laws/Ochen Niskiypravo.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_low_pravo"
+		texturefile = "gfx/interface/laws/Niskiy Urovenpravo.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_middle_pravo"
+		texturefile = "gfx/interface/laws/Sredniy Urovenpravo.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_high_pravo"
+		texturefile = "gfx/interface/laws/Visokiy Urovenpravo.dds" 
+	}
+						SpriteType = {
+		name = "GFX_idea_veryhigh_pravo"
+		texturefile = "gfx/interface/laws/Ochen Visokiy Urovenpravo.dds" 
+	}	
+		###########################
+						SpriteType = {
+		name = "GFX_idea_low_dev_economy"
+		texturefile = "gfx/interface/laws/Slabiy_dev_eco.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_high_dev_economy"
+		texturefile = "gfx/interface/laws/Sredniy_dev_eco.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_high_economy"
+		texturefile = "gfx/interface/laws/Visokiy_dev_eco.dds" 
+	}	
+		###########################
+						SpriteType = {
+		name = "GFX_idea_avtark_economy"
+		texturefile = "gfx/interface/laws/Изоляция.dds" 
+	}
+						SpriteType = {
+		name = "GFX_idea_particall_avtark_economy"
+		texturefile = "gfx/interface/laws/глубо­кая экономическая периферия.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_periferia_economy"
+		texturefile = "gfx/interface/laws/активная периферия.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_polypolyperiferia_economy"
+		texturefile = "gfx/interface/laws/переходный тип от периферии к полупериферии.dds" 
+	}
+					SpriteType = {
+		name = "GFX_idea_polyperiferia_economy"
+		texturefile = "gfx/interface/laws/полупериферия.dds" 
+	}
+						SpriteType = {
+		name = "GFX_idea_center_world_economy"
+		texturefile = "gfx/interface/laws/центрмирохозяйства.dds" 
+	}		
+	}
+	
+	
+	
+	
+	
+	

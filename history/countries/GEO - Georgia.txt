@@ -5,15 +5,7 @@ oob = "GEO_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 25
-		}
-		
-		communism = {
-			popularity = 75
-		}
-	}
+ 
 }
 
  

@@ -8,19 +8,21 @@ state={
 	history={
 		owner = UKR
 		victory_points = {
-			11405 1
+			11405 20
 		}
+		victory_points = {
+			588 5
+		}
+		victory_points = {
+			9729 5
+		}		
 		buildings = {
 			infrastructure = 5
 			air_base = 3
 		}
  
 		add_core_of = UKR
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 1
-			}
-		}
+ 
 	}
 
 	provinces={

@@ -5,24 +5,7 @@ oob = "ETH_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 0
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 0
-			#banned = no #default is no
-		}
-		
-		neutrality = { 
-			popularity = 100
-		}
-	}
+ 
 	
 	ruling_party = neutrality
 	last_election = "1936.1.1"

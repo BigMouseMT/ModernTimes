@@ -4,21 +4,7 @@ oob = "CAN_1936"
 
  
 set_politics = {
-
-	parties = {
-		democratic = { 
-			popularity = 98
-		}
-
-		fascism = {
-			popularity = 1
-		}
-		
-		communism = {
-			popularity = 1
-			#banned = no #default is no
-		}
-	}
+ 
 	
 	ruling_party = democratic
 	last_election = "1935.10.14"

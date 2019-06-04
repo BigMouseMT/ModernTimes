@@ -5,19 +5,7 @@ oob = "AZR_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 30
-		}
-		
-		communism = {
-			popularity = 40
-		}
-		
-		neutrality = {
-			popularity = 30
-		}		
-	}
+ 
 }
 
  

@@ -6,21 +6,7 @@ oob = "CRO_1936"
 
  
 set_politics = {
-
-	parties = {
-		democratic = { 
-			popularity = 15
-		}
-
-		fascism = {
-			popularity = 75
-		}
-		
-		communism = {
-			popularity = 10
-		}
-	}
-	
+ 
 	ruling_party = fascism
 	last_election = "1935.6.9"
 	election_frequency = 12

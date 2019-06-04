@@ -1,0 +1,26 @@
+
+state={
+	id=836
+	name="STATE_836"
+	manpower = 410000
+	
+	state_category = town
+
+	history={
+		owner = LIT
+		buildings = {
+			infrastructure = 7
+		}
+				victory_points = {
+        9438 20
+		}
+				victory_points = {
+        11498 5
+		}		
+		add_core_of = LIT
+	}
+
+	provinces={
+ 9404 9357 11498 9438 11226 9246 9374
+	}
+}

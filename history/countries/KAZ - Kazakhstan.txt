@@ -5,15 +5,7 @@ oob = "KAZ_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 60
-		}
-		
-		communism = {
-			popularity = 40
-		}		
-	}
+ 
 }
 
  

@@ -7,27 +7,7 @@ oob = "SLO_1939"
 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 5 #shared between all parties, should add to 100
-		}
-
-		fascism = {
-			popularity = 15
-		}
-		
-		communism = {
-			popularity = 20
-		}
-		
-		classical_liberalism = {
-			popularity = 45
-		} 
-		
-		neutrality = {
-			popularity = 15
-		}
-	}
+ 
 	
 	ruling_party = classical_liberalism
 	last_election = "2017.3.18"

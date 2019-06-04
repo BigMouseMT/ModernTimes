@@ -1,0 +1,14 @@
+ guiTypes = {
+	containerWindowType = {
+		name = "culture_container"
+		position = {x=442 y=27}
+		size = { width=780 height=496 }
+
+		iconType = {
+			name = "culture_belorus"
+			position = {x=0 y=0}
+			spriteType = GFX_culture_belorus
+			pdx_tooltip = "CULT_STATUS"
+		}
+		}
+		}

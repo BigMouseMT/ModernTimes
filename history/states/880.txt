@@ -1,0 +1,22 @@
+state=
+{
+	id=880
+	name="STATE_880"
+	manpower = 2296800
+	
+	state_category = town
+	
+	history= {
+		add_core_of = MOL
+		owner = MOL
+ 
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+		}
+	 
+	}
+	provinces=
+	{
+  3724	}
+}

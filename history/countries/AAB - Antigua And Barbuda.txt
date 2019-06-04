@@ -2,13 +2,7 @@
 
 set_politics = {
 
-	parties = {
-		democratic = {
-			popularity = 35
-		} 
  
-	}
-
 	ruling_party = democratic
 	last_election = "1989.3.8"
 	election_frequency = 60

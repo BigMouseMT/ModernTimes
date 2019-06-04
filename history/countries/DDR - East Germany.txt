@@ -3,20 +3,7 @@
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 30
-		}
-
-		fascism = {
-			popularity = 10
-		}
-		
-		communism = {
-			popularity = 60
-			banned = no #default is no
-		}
-	}
+ 
 	
 	ruling_party = communism
 	last_election = "1936.1.1"

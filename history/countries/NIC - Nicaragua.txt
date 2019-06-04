@@ -5,24 +5,7 @@ oob = "NIC_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 15
-		}
-
-		fascism = {
-			popularity = 5
-		}
-		
-		communism = {
-			popularity = 10
-			#banned = no #default is no
-		}
-
-		neutrality = {
-			popularity = 70
-		}
-	}
+ 
 	
 	ruling_party = neutrality
 	last_election = "1934.11.8"

@@ -2,28 +2,7 @@
 oob = "BLR_1991"
 
 set_politics = {
-
-	parties = {
-		democratic = { 
-			popularity = 15 #shared between all parties, should add to 100
-		}
-
-		fascism = {
-			popularity = 15
-		}
-		
-		communism = {
-			popularity = 55
-		}
-		
-		classical_liberalism = {
-			popularity = 15
-		} 
-		
-		neutrality = {
-			popularity = 5
-		}
-	}
+ 
 
 	ruling_party = communism
 	last_election = "1991.1.1"

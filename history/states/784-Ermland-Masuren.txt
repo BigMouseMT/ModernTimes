@@ -8,8 +8,11 @@ state={
 	history={
 		owner = LIT
 		victory_points = {
-			3320 3
+			3320 70
 		}
+		victory_points = {
+			9274 5
+		}		
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

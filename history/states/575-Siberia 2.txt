@@ -4,10 +4,13 @@ state={
 	name="STATE_575" # Kirensk
 	manpower = 146494
 	
-	state_category = wasteland
+	state_category = rural
 
 	history={
 		owner = SOV
+						victory_points = {
+			 7726 10
+		}		
 		buildings = {
 			infrastructure = 1
 		}

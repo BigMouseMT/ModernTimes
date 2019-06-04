@@ -10,20 +10,7 @@ oob = "VEN_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 5
-		}
-
-		fascism = {
-			popularity = 80
-		}
-		
-		communism = {
-			popularity = 15
-			#banned = no #default is no
-		}
-	}
+ 
 	
 	ruling_party = fascism
 	last_election = "1936.1.1"

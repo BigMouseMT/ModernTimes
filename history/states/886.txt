@@ -1,0 +1,21 @@
+state=
+{
+	id=886
+	name="STATE_886"
+	manpower = 2296800
+	
+	state_category = town
+	
+	history= {
+		add_core_of = ROM
+		owner = ROM
+ 
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+		}
+	 
+	}
+	provinces=
+	{  660 11619 690 3689 11655	}
+}

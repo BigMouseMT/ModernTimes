@@ -1,7 +1,7 @@
 state={
 	id=664
 	name="STATE_664"
-	manpower = 854300
+	manpower = 500000
 	resources={
 		steel=13 # was: 20
 		chromium = 3 # was: 4
@@ -11,18 +11,22 @@ state={
 	
 	history={
 		owner = SLO
+				victory_points = {
+			541 5 
+		}
+				victory_points = {
+			3537 5 
+		}		
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
 		}
-		victory_points = {
-			6573 1 
-		}
+ 
 			add_core_of = SLO
 
 	}
 	
 	provinces={
-		3565 3716 6561 6573 9537 11679 
+		   11522 3537  6561  11679 541 
 	}
 }

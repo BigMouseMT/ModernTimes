@@ -1,0 +1,156 @@
+﻿l_russian:
+political_system:0 "Политическая система"
+gos_stroi:0 "Форма государственного устройства"
+unitary_state:0 "Унитарное государство"
+federal_state:0 "Федеральное государство"
+confederal_state:0 "Конфедеративное государство"
+unrecognized_state:0 "Дезорганизованное государство"
+v_gos_stroi:0 "Особенности государственного устройства"
+centralized_unitary_state:0 "Централизованное унитарное государство"
+decentralized_unitary_state:0 "Децентрализованное унитарное государство"
+regionalist_state:0 "Регионалистское государство"
+simmetrial_federal_state:0 "Симметричная федерация"
+asimmetrial_federal_state:0 "Ассиметричная федерация"
+polit_regime:0 "Политический режим"
+liberal_dem:0 "Либеральная демократия"
+social_dem:0 "Социал-демократия"
+egalitar_dem:0 "Эгалитарная демократия"
+oligarh_dem:0 "Олигархическая демократия"
+imitation_dem:0 "Имитационная демократия"
+fascist_total:0 "Фашизм"
+social_total:0 "Социализм"
+nat-soc_total:0 "Национал-социализм"
+military_buro_regime:0 "Военная бюрократия"
+corporat_avtor:0 "Корпоративный авторитаризм"
+dototal_avtor:0 "Дототалитарный авторитаризм"
+postcolonial_avtor:0 "Постколониальный авторитаризм"
+ras_cvas_dem:0 "Расовая квази-демократия"
+sultan_regime:0 "Султанистский режим"
+forma_pravlenia:0 "Форма правления"
+president_republic:0 "Президентская республика"
+mixed_republic:0 "Смешанная республика"
+pres-parlament_republic:0 "Президентско-парламентская республика"
+parlament_republic:0 "Парламентская республика"
+parlament_monarchy:0 "Парламентская монархия"
+dual_monarchy:0 "Дуалистическая монархия"
+absolut_monarchy:0 "Абсолютная монархия"
+one-party_state:0 "Однопартизм"
+military_dictat:0 "Военная диктатура"
+total_power_state:0 "Тоталитарное государство"
+chatolic_teocrasy:0 "Католическая теоркратия"
+protestant_teocrasy:0 "Протестантская теоркратия"
+pravoslavie_teocrasy:0 "Православная теократия"
+sunnit_teocrasy:0 "Суннитская теократия"
+shiit_teocrasy:0 "Шиитская теократия"
+buddist_teocrasy:0 "Буддистская Теократия"
+iydei_teocrasy:0 "Иудейская теократия"
+gos_status:0 "Уровень государства"
+local_state:0 "Локальная держава"
+regional_state:0 "Региональная держава"
+great_state:0 "Великая держава"
+superpower_state:0 "Сверхдержава"
+gos_razmer:0 "Размер государства"
+micro_state:0 "Карликовое государство"
+very_small_state:0 "Очень маленькое государство"
+small_state:0 "Малое государство"
+middle_state:0 "Небольшое государство"
+big_state:0 "Крупное государство"
+very_big_state:0 "Очень крупное государство"
+superbig_state:0 "Государство-гигант"
+pop_razmer:0 "Размер населения"
+micropop_state:0 "Сверхмалое население"
+smallpop_state:0 "Малое население"
+middlepop_state:0 "Небольшое население"
+bigpop_state:0 "Крупное население"
+verybigpop_state:0 "Очень крупное население"
+socium_dev:0 "Уровень общественного развития"
+agrarian_state:0 "Аграрное общество"
+industrial_state:0 "Индустриальное общество"
+postindustrial_state:0 "Постиндустриальное общество"
+information_state:0 "Инфомационное общество"
+socium_pop:0 "Гражданское общество"
+verylow_socium:0 "Отсутствующее"
+low_socium:0 "Зачаточное"
+middle_socium:0 "Развивающееся"
+high_socium:0 "Активно развивающееся"
+veryhigh_socium:0 "Развитое" 
+status_prava:0 "Правовые институты"
+verylow_pravo:0 "Неразвиты"
+low_pravo:0 "Зачаточные"
+middle_pravo:0 "Развивающиеся"
+high_pravo:0 "Развитые"
+veryhigh_pravo:0 "Прогрессивные"
+macro_economy:0 "Общий уровень экономики"
+low_dev_economy:0 "Слаборазвивающаяся"
+high_dev_economy:0 "Развивающаяся"
+high_economy:0 "Развитая"
+level_economy:0 "Экономический уровень"
+avtark_economy:0 "Автаркия"
+particall_avtark_economy:0 "Частичная автаркия"
+periferia_economy:0 "Периферийная экономика"
+polypolyperiferia_economy:0 "Переходная периферийная экономика"
+polyperiferia_economy:0 "Полупериферийная экономика"
+center_world_economy:0 "Центр мирового хозяйства"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

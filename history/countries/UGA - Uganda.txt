@@ -4,20 +4,7 @@ oob = "UGA_1991"
 
 set_politics = {
 
-	parties = {
-		democratic = {
-			popularity = 50
-		}
-
-		communism = {
-			popularity = 25
-			#banned = no #default is no
-		}
-
-		neutrality = {
-			popularity = 5
-		}
-	}
+ 
 
 	ruling_party = democratic
 	last_election = "1991.1.1"

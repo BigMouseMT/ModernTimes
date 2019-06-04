@@ -5,20 +5,7 @@ oob = "PAR_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 25
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 75
-			#banned = no #default is no
-		}
-	}
+ 
 	
 	ruling_party = communism
 	last_election = "1936.1.1"

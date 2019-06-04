@@ -9,10 +9,18 @@ state={
 	history={
 		owner = SOV
 		add_core_of = SOV
+		buildings = {
+			infrastructure = 3
+			1399 = {
+				naval_base = 3
+
+			}
+
+		}
 
 	}
 
 	provinces={
-		 1399
+		1399  
 	}
 }

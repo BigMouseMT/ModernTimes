@@ -7,7 +7,45 @@
 #Rules needs linking from the straits that are affected by the rule ( adjacency_rule_id )
 
 #Name is how you refer to the rule in adjecencies.csv
+#Spb
+adjacency_rule
+{
+	name = "SPB"
 
+	contested =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	enemy =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = no
+	}
+	friend =
+	{
+		army = yes
+		navy = yes
+		submarine = yes
+		trade = yes
+	}
+	neutral =
+	{
+		army = no
+		navy = no
+		submarine = no
+		trade = yes
+	}
+	
+	required_provinces = { 13288 13291 3060 }
+	
+	icon = 13288
+	offset = { -2 0 -9 }
+}
 #Suez Canal
 adjacency_rule
 {

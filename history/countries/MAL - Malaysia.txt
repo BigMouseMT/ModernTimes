@@ -5,19 +5,7 @@ oob = "MAL_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 33
-		}
-  
-		
-		communism = {
-			popularity = 33
-		}
-		neutrality = {
-			popularity = 34
-		}
-	}
+ 
 }
 
  

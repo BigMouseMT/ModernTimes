@@ -5,6 +5,9 @@ state={
 
 	history={
 		owner = SOV
+						victory_points = {
+			 4728 20
+		}		
 		buildings = {
 			infrastructure = 2
 			12207 = {
@@ -22,5 +25,5 @@ state={
 	}
 	manpower=48831
 	buildings_max_level_factor=1
-	state_category="wasteland"
+	state_category= rural
 }

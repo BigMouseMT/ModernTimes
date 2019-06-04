@@ -1,0 +1,39 @@
+state={
+	id=828
+	name="STATE_828"
+	
+		manpower = 406000
+	
+	state_category = city
+
+	history={
+		owner = BLR
+	    add_core_of = BLR
+		victory_points = {
+			6326 25
+		}
+	    victory_points = {
+			6371 25
+		}
+		victory_points = {
+			3219 5
+		}
+		victory_points = {
+			9323 1
+		}		
+		victory_points = {
+			6220 1
+		}				
+		
+ 
+		buildings = {
+			infrastructure = 7
+		}
+ 
+	}
+	
+	provinces={
+		6326 3219 6249 6371 6220 9323
+	}
+ 
+}

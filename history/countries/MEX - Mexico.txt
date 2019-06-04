@@ -5,23 +5,7 @@ oob = "MEX_1936"
 # 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 5
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 1
-		}
-		
-		neutrality = { 
-			popularity = 94
-		}
-	}
+ 
 	
 	ruling_party = neutrality
 	last_election = "1934.7.1"

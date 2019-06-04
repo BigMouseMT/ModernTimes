@@ -1,0 +1,1036 @@
+ideas = {
+
+gos_stroi = {
+		unitary_state = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+				federal_state = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+				confederal_state = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+				unrecognized_state = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+}
+v_gos_stroi = {
+		centralized_unitary_state = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+				decentralized_unitary_state = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+				regionalist_state = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+			simmetrial_federal_state = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+			asimmetrial_federal_state = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}	
+		
+}
+ ################
+ 
+ polit_regime = {
+		liberal_dem = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+				social_dem = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+				egalitar_dem = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		oligarh_dem = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		imitation_dem = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		fascist_total = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}	
+		social_total = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}	
+		nat-soc_total = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		military_buro_regime = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}	
+		
+		corporat_avtor = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}	
+		dototal_avtor = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}	
+		postcolonial_avtor = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}	
+		ras_cvas_dem = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}	
+		sultan_regime = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}			
+		
+}
+#######################################33
+forma_pravlenia = {
+president_republic = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+mixed_republic = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+pres-parlament_republic = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+parlament_republic = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+parlament_monarchy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+dual_monarchy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+absolut_monarchy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+one-party_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+military_dictat = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+total_power_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+chatolic_teocrasy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+protestant_teocrasy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+pravoslavie_teocrasy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+sunnit_teocrasy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+shiit_teocrasy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+buddist_teocrasy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+iydei_teocrasy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+}
+##########################################################################
+gos_status = {
+local_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+regional_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+great_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+superpower_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+}
+
+#######################
+gos_razmer = {
+micro_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+very_small_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+small_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+middle_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+big_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+very_big_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+superbig_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+}
+#################
+pop_razmer = {
+micropop_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+smallpop_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+middlepop_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+bigpop_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+verybigpop_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+}
+####################################
+socium_dev = {
+agrarian_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+industrial_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+postindustrial_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+information_state = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+}
+###################3
+socium_pop = {
+verylow_socium = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+low_socium = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+middle_socium = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+high_socium = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+veryhigh_socium = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+}
+
+###################3
+status_prava = {
+verylow_pravo = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+low_pravo = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+middle_pravo = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+high_pravo = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+veryhigh_pravo = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+}
+macro_economy = {
+low_dev_economy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+high_dev_economy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+high_economy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+}
+#########################################
+level_economy = {
+avtark_economy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+particall_avtark_economy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+periferia_economy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+polypolyperiferia_economy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+polyperiferia_economy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+center_world_economy = {
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+}
+}
+}

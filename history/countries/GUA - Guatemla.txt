@@ -6,24 +6,7 @@ oob = "GUA_1936"
 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 30
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 0
-			#banned = no #default is no
-		}
-
-		neutrality = {
-			popularity = 70
-		}
-	}
+ 
 	
 	ruling_party = neutrality
 	last_election = "1931.2.8"

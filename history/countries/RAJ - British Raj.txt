@@ -6,23 +6,7 @@ oob = "RAJ_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 17
-		}
-
-		fascism = {
-			popularity = 2
-		}
-		
-		communism = {
-			popularity = 1
-		}
-
-		neutrality = {
-			popularity = 80
-		}
-	}
+ 
 	
 	ruling_party = neutrality
 	last_election = "1935.11.14"

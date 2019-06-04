@@ -4,20 +4,7 @@ oob = "AST_1936"
  
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 98
-		}
-
-		fascism = {
-			popularity = 0
-		}
-		
-		communism = {
-			popularity = 2
-			#banned = no #default is no
-		}
-	}
+ 
 	
 	ruling_party = democratic
 	last_election = "1934.9.15"

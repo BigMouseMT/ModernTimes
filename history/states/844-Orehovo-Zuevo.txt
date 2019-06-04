@@ -1,0 +1,30 @@
+
+state={
+	id=844
+	name="STATE_844"
+	manpower = 1331211
+	state_category = metropolis
+
+	history={
+		owner = SOV
+			victory_points = {
+			11330 10 
+		}	
+			victory_points = {
+			13281 10 
+		}
+			victory_points = {
+			13282 10 
+		}			
+		
+		
+		buildings = {
+			infrastructure = 10
+		}
+		add_core_of = SOV
+	}
+
+	provinces={
+	 11330 350 11217 9235 6316 11362 13281 13282
+	}
+}

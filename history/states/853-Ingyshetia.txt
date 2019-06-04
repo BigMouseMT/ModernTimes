@@ -1,0 +1,27 @@
+state={
+	id=853
+	name="STATE_853"
+	resources={
+		chromium=35 # was: 46.000
+	}
+
+	history={
+		owner = SOV
+				victory_points = {
+			13244 20 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces={
+	 11609 13243 13244 670
+	}
+	manpower=1463970
+	 
+	state_category=town
+}

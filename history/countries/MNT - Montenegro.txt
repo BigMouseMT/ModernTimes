@@ -6,17 +6,7 @@ oob = "MON_1936"
 
 set_politics = {
 
-	parties = {
-		fascism = { 
-			popularity = 33
-		}
-		neutrality = { 
-			popularity = 33
-		}		
-		communism = {
-			popularity = 34
-		}
-	}
+ 
 }
 
  

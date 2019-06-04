@@ -9,27 +9,7 @@ oob = "PRC_1936"
 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 10 #shared between all parties, should add to 100
-		}
-
-		fascism = {
-			popularity = 14
-		}
-		
-		communism = {
-			popularity = 56
-		}
-		
-		classical_liberalism = {
-			popularity = 10
-		} 
-		
-		neutrality = {
-			popularity = 10
-		}
-	}
+ 
 	
 	ruling_party = communism
 	last_election = "2019.3.18"
