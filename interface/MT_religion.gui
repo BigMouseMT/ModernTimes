@@ -1,0 +1,20 @@
+ guiTypes = {
+	containerWindowType = {
+		name = "religion_container"
+		position = {x=330 y=485}
+		size = { width=780 height=496 }
+
+		iconType = {
+			name = "religion_pravoslavie"
+			position = {x=0 y=0}
+			spriteType = GFX_religion_pravoslavie
+			pdx_tooltip = "REL_STATUS"
+		}
+				iconType = {
+			name = "religion_islam"
+			position = {x=0 y=0}
+			spriteType = GFX_religion_islam
+			pdx_tooltip = "REL_STATUS"
+		}
+		}
+		}

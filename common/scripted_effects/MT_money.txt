@@ -1,0 +1,40 @@
+ 
+money_bust = {
+factory_money_calc = yes
+add_to_variable = { var = money value = factory_budget}
+ 
+}
+ 
+factory_money_calc = {
+subtract_from_variable = { factory_budget_d = factory_budget_r }
+set_variable = { factory_budget = factory_budget_d }
+########## Гражданские
+
+set_variable = { var = money_rite_civfac value = num_of_civilian_factories}
+set_variable = { factory_budget_d = num_of_civilian_factories}
+
+##### Военные
+set_variable = { var = money_rite_milfac value = num_of_military_factories}
+set_variable = { factory_budget_r = num_of_military_factories}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

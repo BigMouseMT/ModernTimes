@@ -480,6 +480,13 @@ protestant_teocrasy = {
 			cancel_if_invalid = yes
 }
 pravoslavie_teocrasy = {
+ 
+ available = {
+ AND = {
+  is_religion_pravoslavie = yes
+  }
+ }
+ 
 			cost = 150
 			removal_cost = -1
 			

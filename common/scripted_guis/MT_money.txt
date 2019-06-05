@@ -1,0 +1,41 @@
+scripted_gui = {
+	money = {
+		context_type = player_context
+
+		window_name = "money_container"
+
+		visible = {
+ 
+		}
+
+		effects = { }
+	}
+		money_debt = {
+		context_type = player_context
+
+		window_name = "money_debt_container"
+
+		visible = {
+ 
+		}
+
+		effects = { }
+	}
+		budget_screen = {
+		context_type = player_context
+
+		window_name = "budget_container"
+		parent_window_token = politics_tab
+
+		visible = {
+
+		}
+
+		effects = {
+
+		}
+			triggers = {
+ 
+}
+}
+}			

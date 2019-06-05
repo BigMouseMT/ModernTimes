@@ -1,0 +1,163 @@
+﻿ 
+ 
+ add_namespace = religion
+ 
+ country_event = { 
+	id = religion.1
+	immediate = {log = "[GetDateText]: [Root.GetName]: event religion.1"}
+ 	title = religion.1.t
+ 	desc = religion.1.desc
+ 	picture = GFX_religion_belorus
+ 	fire_only_once = yes
+	
+	hidden = yes
+
+ 	option = {
+ 		name = religion.1.a
+		
+		206 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+		835  = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				834 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				831 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				830 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				833 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				824 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				204 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				832 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				829 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				828 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				95 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				94 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				241 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				825 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				826 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				827 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				96 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				207 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+				194 = {
+			set_variable = { 
+			var = religion
+			value = 1
+			}
+		}
+
+ 	}
+ }
+  country_event = { 
+	id = religion.2
+	immediate = {log = "[GetDateText]: [Root.GetName]: event religion.1"}
+ 	title = religion.2.t
+ 	desc = religion.2.desc
+ 	picture = GFX_religion_islam
+ 	fire_only_once = yes
+	
+	hidden = yes
+
+ 	option = {
+ 		name = religion.2.a
+		
+		49 = {
+			set_variable = { 
+			var = religion
+			value = 2
+			}
+		}
+ 
+
+ 	}
+ }

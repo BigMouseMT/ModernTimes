@@ -1,0 +1,95 @@
+	guiTypes = {
+ 	containerWindowType = {
+		name = "money_container"
+		position = { x = 900 y = 35 }
+		
+		buttonType ={
+			name ="money_bg"
+			spriteType = "GFX_money_bg"
+			position = { x=0 y=0 }
+			#shortcut = "ctrl+k"
+		}
+		
+		iconType = {
+			name ="money_icon"
+			spriteType = "GFX_money"
+			position = { x= 3 y = 10 }
+		}
+		
+		instantTextBoxType = {
+			name ="money_text"
+			position = { x= 25 y = 15 }
+			font = "hoi_18mbs"
+			text = "[?money]"
+			format = left
+			maxWidth = 200
+			maxHeight = 24
+			fixedsize = yes
+			
+			pdx_tooltip = "CASH"
+			pdx_tooltip_delayed = "CASH_DELAYED"
+		}
+	}
+	 	containerWindowType = {
+		name = "money_debt_container"
+		position = { x = 1050 y = 35 }
+		
+		buttonType ={
+			name ="money_debt_bg"
+			spriteType = "GFX_money_debt_bg"
+			position = { x=0 y=0 }
+			#shortcut = "ctrl+k"
+		}
+		
+		iconType = {
+			name ="money_debt_icon"
+			spriteType = "GFX_money_debt"
+			position = { x= 3 y = 10 }
+		}
+		
+		instantTextBoxType = {
+			name ="money_text"
+			position = { x= 25 y = 15 }
+			font = "hoi_18mbs"
+			text = "[?money_debt]"
+			format = left
+			maxWidth = 200
+			maxHeight = 24
+			fixedsize = yes
+			
+			pdx_tooltip = "CASH"
+			pdx_tooltip_delayed = "CASH_DELAYED"
+		}
+	}
+		 	containerWindowType = {
+		name = "budget_container"
+		position = { x = 550 y = 50 }
+		
+		instantTextBoxType = {
+			name ="mil_fact_text"
+			position = { x= 280 y = 15 }
+			font = "hoi_18mbs"
+			text = "[?money_rite_milfac]"
+			format = left
+			maxWidth = 200
+			maxHeight = 24
+			fixedsize = yes
+			
+			pdx_tooltip = "CASH"
+			pdx_tooltip_delayed = "CASH_DELAYED"
+		}
+				instantTextBoxType = {
+			name ="civ_fact_text"
+			position = { x= 200 y = 15 }
+			font = "hoi_18mbs"
+			text = "[?money_rite_civfac]"
+			format = left
+			maxWidth = 200
+			maxHeight = 24
+			fixedsize = yes
+			
+			pdx_tooltip = "CASH"
+			pdx_tooltip_delayed = "CASH_DELAYED"
+		}
+	}
+	}

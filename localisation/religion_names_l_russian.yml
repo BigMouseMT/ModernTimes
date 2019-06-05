@@ -1,0 +1,7 @@
+﻿l_russian:
+
+REL_STATUS:0 "Преобладающее в этом регионе вероучение - §Y[This.RELIGION]§!"
+ #
+ religion_1:0 "Православие"
+ religion_2:0 "Ислам" 
+ 

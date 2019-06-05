@@ -1,0 +1,16 @@
+defined_text = {
+	name = RELIGION
+
+	text = {
+		trigger = {
+			check_variable = { religion = 1 }
+		}
+		localization_key = religion_1
+	}
+		text = {
+		trigger = {
+			check_variable = { religion = 2 }
+		}
+		localization_key = religion_2
+	}
+	}

@@ -1,5 +1,5 @@
 scripted_gui = {
-	nationality_screen = {
+	culture_screen = {
 		context_type = selected_state_context
 
 		window_name = "culture_container"

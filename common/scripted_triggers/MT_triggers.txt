@@ -1,0 +1,8 @@
+
+is_religion_pravoslavie = {
+ any_owned_state = {
+	  				check_variable = {
+					religion = 1
+				}
+}
+}
