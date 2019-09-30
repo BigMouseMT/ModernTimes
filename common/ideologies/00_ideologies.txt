@@ -23,7 +23,10 @@ ideologies = {
 			} 
 			
 			eurocommunism ={
-			}
+			} 
+			
+			baasism = {
+			} 
 		}
 		
 		dynamic_faction_names = {
@@ -245,7 +248,10 @@ ideologies = {
 			rexism = {
 			} 
 			
-			nazbolism ={
+			nazbolism = {
+			} 
+			
+			neoliberalsim = {
 			}
 		}
 		

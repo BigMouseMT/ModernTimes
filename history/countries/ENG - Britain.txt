@@ -4,15 +4,53 @@ oob = "ENG_1936"
 
  
 set_politics = {
-
- 
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "2017.3.18"
-	election_frequency = 48
+	election_frequency = 60
 	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 42
+ communism = 0
+ fascism = 5
+ democratic = 41 		
+ classical_liberalism = 12
+} 
 
+create_country_leader = {
+	name = "Jeremy Corbyn"
+	desc = ""
+	picture = "gfx/leaders/eng/Jeremy_Corbyn.dds"
+	ideology = socialism
+} 
 
+create_country_leader = {
+	name = "Margaret Tetcher"
+	desc = ""
+	picture = "gfx/leaders/eng/Tetcher.dds"
+	ideology = centrism
+} 
+
+create_country_leader = {
+	name = "Alex Callinicos"
+	desc = ""
+	picture = ""
+	ideology = leninism
+} 
+
+create_country_leader = {
+	name = "Jo Swinson"
+	desc = ""
+	picture = ""
+	ideology = soc_liberalism
+} 
+
+create_country_leader = {
+	name = "Nick Griffin"
+	desc = ""
+	picture = ""
+	ideology = neoliberalsim
+} 
 
  

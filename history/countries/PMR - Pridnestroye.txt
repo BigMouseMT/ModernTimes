@@ -2,13 +2,25 @@
 oob = "BLR_1991"
 
 set_politics = {
- 
+ruling_party = neutrality 
+	last_election = "2015.11.29"
+	election_frequency = 60
+	elections_allowed = yes
+} 
+set_popularities = {
+ neutrality = 81
+ communism = 7
+ fascism = 7
+ democratic = 3
+ classical_liberalism = 2
+} 
 
-	ruling_party = communism
-	last_election = "1991.1.1"
-	election_frequency = 48
-	elections_allowed = no
+
+create_country_leader = {
+	name = "Vadim Krasnoselsky"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/pmr/Krasnoselsky.dds"
+	ideology = centrism
 }
-
-
+ 
  

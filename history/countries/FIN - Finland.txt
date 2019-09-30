@@ -5,12 +5,23 @@ oob = "FIN_1936"
  
 set_politics = {
 
- 
-	
 	ruling_party = neutrality
-	last_election = "2016.3.18"
+	last_election = "2015.4.14"
 	election_frequency = 48
 	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 28
+ communism = 0
+ fascism = 18
+ democratic = 33
+ classical_liberalism = 21
+} 
 
+create_country_leader = {
+	name = "Sauli Niinistö"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/fin/Sauli_Niinistö.dds"
+	ideology = centrism
+} 
  

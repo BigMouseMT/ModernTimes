@@ -2,19 +2,25 @@
 
 oob = "PRC_1936"
 
- 
-
-
- 
-
 set_politics = {
+	ruling_party = neutrality 
+	last_election = "2018.3.18"
+	election_frequency = 60
+	elections_allowed = yes
+}
+set_popularities = {
+ neutrality = 60
+ communism = 12
+ fascism = 15
+ democratic = 6
+ classical_liberalism = 7
+} 
 
- 
-	
-	ruling_party = communism
-	last_election = "2019.3.18"
-	election_frequency = 48
-	elections_allowed = no
+create_country_leader = {
+	name = "XI Jinping"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/prc/XI_Jinping.dds"
+	ideology = oligarchism
 }
 
  

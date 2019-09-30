@@ -1,5 +1,1857 @@
 ideas = {
 
+economy_category = {
+traditional_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
  
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+market_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
  
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+plan_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+mix_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_type = {
+high_open_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+open_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+part_open_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+close_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_large = {
+micro_local_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+monosector_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+manysector_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+macrosector_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+globalsector_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_orientation = {
+social_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+social_orientation_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+arist_orientation_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+oligarch_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+pragmatic_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+part_mil_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+mil_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_stable = {
+very_low_stable_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+low_stable_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+stable_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+high_stable_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+very_high_stable_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_cifra = {
+very_low_dev_cifra_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+low_dev_cifra_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+dev_cifra_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+high_dev_cifra_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+very_high_dev_cifra_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_property = {
+gos_prop_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+mix_prop_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+private_prop_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_liberty = {
+very_low_liberty_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+low_liberty_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+liberty_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+high_liberty_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+very_high_liberty_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_dev = {
+high_ungrowtn_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+ungrowtn_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+stop_growtn_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+very_low_growtn_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+low_growtn_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+growtn_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+high_growtn_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+very_high_growtn_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_small_bus = {
+very_low_small_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+low_small_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+small_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+high_small_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+very_high_small_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_middle_bus = {
+very_low_middle_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+low_middle_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+middle_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+high_middle_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+very_high_middle_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+economy_large_bus = {
+very_low_large_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+low_large_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+large_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+high_large_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+very_high_large_business_economy = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+############################################################################################
+law_nalogi = {
+nalogi_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+nalogi_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+nalogi_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+nalogi_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+nalogi_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+nalogi_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+nalogi_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+nalogi_8 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+nalogi_9 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+nalogi_10 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_ceny = {
+ceny_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+ceny_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+ceny_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+ceny_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+ceny_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_monopolii = {
+monopoli_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+monopoli_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+monopoli_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+monopoli_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+monopoli_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+monopoli_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+monopoli_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_stroitelstvo = {
+stroika_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+stroika_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+stroika_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_resursy = {
+resursy_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+resursy_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+resursy_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+resursy_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+resursy_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+resursy_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+resursy_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_subsidii = {
+subsidii_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+subsidii_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+subsidii_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+subsidii_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+subsidii_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+subsidii_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+subsidii_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+subsidii_8 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_business = {
+focbus_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+focbus_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+focbus_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_zarplata = {
+zarpl_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+zarpl_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+zarpl_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+zarpl_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+zarpl_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+zarpl_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+zarpl_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_pensii = {
+pensi_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+pensi_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+pensi_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+pensi_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+pensi_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+pensi_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+pensi_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_socialobespech = {
+socialka_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+socialka_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+socialka_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+socialka_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+socialka_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+socialka_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+socialka_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################
+law_researchfinance = {
+naykafin_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+naykafin_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+naykafin_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+naykafin_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+naykafin_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+naykafin_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+ 
+}
+######################################
+law_culture = {
+cultfin_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+cultfin_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+cultfin_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+cultfin_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+cultfin_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+cultfin_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+###################################### 
 }

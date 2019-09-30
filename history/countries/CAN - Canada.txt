@@ -4,12 +4,17 @@ oob = "CAN_1936"
 
  
 set_politics = {
- 
-	
-	ruling_party = democratic
+	ruling_party = classical_liberalism
 	last_election = "1935.10.14"
 	election_frequency = 60
 	elections_allowed = yes
-}
+} 
+set_popularities = {
+ neutrality = 5
+ communism = 10
+ fascism = 5
+ democratic = 35
+ classical_liberalism = 45
+} 
 
  

@@ -1,0 +1,716 @@
+ideas = {
+ law_medicine = {
+ 		medical_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		medical_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		medical_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}		
+ }
+ law_start_education = {
+  		start_edu_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		start_edu_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		start_edu_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ }
+ law_second_eduation = {
+  		second_edu_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		second_edu_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		second_edu_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ }
+ law_high_education = {
+  		high_edu_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		high_edu_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		high_edu_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ }
+ law_molodezh = {
+  		molodezh_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		molodezh_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		molodezh_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		 		molodezh_4 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		molodezh_5 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ }
+ law_ohrana = {
+   		ohrana_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		ohrana_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		ohrana_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		 		ohrana_4 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		ohrana_5 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ }
+ law_ipoteka = {
+   		ipot_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		ipot_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		ipot_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		 		ipot_4 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 
+ }
+ law_family = {
+    		famil_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		famil_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		famil_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		 		famil_4 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ }
+ law_sitisen = {
+    		sitisen_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		sitisen_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		sitisen_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		 		sitisen_4 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ }
+ law_sitisen_protect = {
+ sitprot_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		sitprot_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		sitprot_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 
+ }
+ law_rabday = {
+    		rabday_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		rabday_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		rabday_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		 		rabday_4 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		rabday_5 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ }
+ law_ohranarab = {
+     		ohrab_1 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		ohrab_2 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		ohrab_3 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+		 		ohrab_4 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ 		ohrab_5 = {
+			
+		
+			cost = 150
+			removal_cost = -1
+			
+			modifier = {
+ 
+			}
+			
+			default = no
+			
+			cancel_if_invalid = yes
+		}
+ }
+}
+######################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

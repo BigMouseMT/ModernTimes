@@ -1,8 +1,0 @@
-on_actions = {
-	on_startup = {
-		effect = {
-		
-					BLR = { country_event = { id = CULTURE.1 } }
-		}
-		}
-		}

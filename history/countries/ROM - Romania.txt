@@ -3,15 +3,24 @@
 oob = "ROM_1936"
 
  
-
 set_politics = {
-
- 
-	
-	ruling_party = neutrality
-	last_election = "2015.12.20"
+ruling_party = democratic
+	last_election = "2016.12.11"
 	election_frequency = 48
 	elections_allowed = yes
-}
+} 
+set_popularities = {
+ neutrality = 32
+ communism = 1
+ fascism = 4
+ democratic = 47
+ classical_liberalism = 16
+} 
 
+ create_country_leader = {
+	name = "Klaus Johannis"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/rom/Johannis.dds"
+	ideology = liberalism
+} 
  

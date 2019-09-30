@@ -6,12 +6,17 @@ oob = "IRQ_1936"
 
 set_politics = {
 
- 
-	
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 5
+ communism = 33
+ fascism = 15
+ democratic = 37
+ classical_liberalism = 10
+} 
 
  

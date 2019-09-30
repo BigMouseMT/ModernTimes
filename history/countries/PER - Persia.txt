@@ -4,11 +4,17 @@ oob = "PER_1936"
 
  
 set_politics = {
- 
+
 	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
-
+set_popularities = {
+ neutrality = 45
+ communism = 25
+ fascism = 5
+ democratic = 10
+ classical_liberalism = 15
+} 
  

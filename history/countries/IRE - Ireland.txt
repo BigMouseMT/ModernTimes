@@ -5,12 +5,50 @@ oob = "IRE_1936"
  
 set_politics = {
 
- 
-	
-	ruling_party = democratic
-	last_election = "1933.1.24"
+	ruling_party = classical_liberalism
+	last_election = "2016.2.26"
 	election_frequency = 48
 	elections_allowed = yes
 }
-
+set_popularities = {
+ neutrality = 28
+ communism = 3
+ fascism = 15
+ democratic = 22
+ classical_liberalism = 32
+} 
  
+ create_country_leader = {
+	name = "Michael Higgins"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/ire/Higgins.dds"
+	ideology = soc_liberalism
+}  
+ 
+create_country_leader = {
+	name = "Linda Walker"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = leninism
+}
+
+create_country_leader = {
+	name = "Joan Burton"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = liberalism
+}
+
+create_country_leader = {
+	name = "Gerard Adams"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = nazism 
+}
+
+create_country_leader = {
+	name = "Fianna Fáil"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = centrism
+}

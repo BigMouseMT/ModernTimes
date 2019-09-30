@@ -4,12 +4,51 @@ oob = "GER_1936"
 
  
 set_politics = {
-
- 
 	
-	ruling_party = democratic
-	last_election = "2019.3.18"
+	ruling_party = neutrality
+	last_election = "2017.9.24"
 	election_frequency = 48
 	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 38
+ communism = 0
+ fascism = 12
+ democratic = 33
+ classical_liberalism = 17
+}  
  
+create_country_leader = {
+	name = "Angela Merkel"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/frg/Merkel.dds"
+	ideology = centrism
+}
+
+create_country_leader = {
+	name = "Patrik Köbele"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = leninism
+}
+
+create_country_leader = {
+	name = "Robert Habeck"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = soc_liberalism
+} 
+
+create_country_leader = {
+	name = "Malu Dreyer"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = liberalism
+}
+
+create_country_leader = {
+	name = "Alexander Gauland"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = nazism
+}

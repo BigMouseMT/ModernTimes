@@ -2,10 +2,20 @@
 
 oob = "INS_1936"
 
- 
+
+
 set_politics = {
 
- 
+	ruling_party = neutrality
+	last_election = "2014.4.17"
+	election_frequency = 60
+	elections_allowed = yes
 }
-
+set_popularities = {
+ neutrality = 49
+ communism = 0
+ fascism = 23
+ democratic = 16
+ classical_liberalism = 13
+}
  

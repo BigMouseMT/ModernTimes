@@ -5,14 +5,25 @@ oob = "DEN_1936"
  
 
 set_politics = {
-
- 
 	
-	ruling_party = classical_liberalism
-	last_election = "2018.3.18"
+	ruling_party = democratic
+	last_election = "2015.6.5"
 	election_frequency = 48
 	elections_allowed = yes
 }
  
-
+set_popularities = {
+ neutrality = 32
+ communism = 4
+ fascism = 13
+ democratic = 37
+ classical_liberalism = 14
+} 
  
+
+create_country_leader = {
+	name = "Lars løkke Rasmussen"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/den/Rasmussen.dds"
+	ideology = liberalism
+}

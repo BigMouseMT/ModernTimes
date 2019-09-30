@@ -7,10 +7,23 @@ OOB = "ALB_1936"
 set_politics = {
 
  
-	ruling_party = neutrality
-	last_election = "1933.3.5"
+	ruling_party = democratic
+	last_election = "2017.6.25"
 	election_frequency = 48
 	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 30
+ communism = 0
+ fascism = 5
+ democratic = 63
+ classical_liberalism = 2
+} 
 
+ create_country_leader = {
+	name = "Ilir Meta"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/alb/Meta.dds"
+	ideology = liberalism
+} 
  

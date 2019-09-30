@@ -7,10 +7,18 @@ set_politics = {
 
  
 
-	ruling_party = democratic
-	last_election = "1991.1.1"
+	ruling_party = classical_liberalism
+	last_election = "2015.4.7"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 15
+ communism = 0
+ fascism = 0
+ democratic = 38
+ classical_liberalism = 47
+} 
+ 
 
  

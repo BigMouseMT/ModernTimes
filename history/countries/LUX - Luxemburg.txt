@@ -2,15 +2,39 @@
 
 oob = "LUX_1936"
 
- 
-set_politics = {
 
- 
-	
-	ruling_party = democratic
-	last_election = "1934.6.3"
-	election_frequency = 36
+set_politics = {
+ruling_party = neutrality
+	last_election = "2018.10.14"
+	election_frequency = 60
 	elections_allowed = yes
+} 
+set_popularities = {
+ neutrality = 36
+ communism = 2
+ fascism = 0
+ democratic = 30
+ classical_liberalism = 32
+} 
+ 
+create_country_leader = {
+	name = "Xavier Bettel"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/lux/Bettel.dds"
+	ideology = centrism
 }
 
+create_country_leader = {
+	name = "Ali Ruckert"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = leninism
+} 
+
+create_country_leader = {
+	name = "Claude Hagen"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = socialism
+}
  

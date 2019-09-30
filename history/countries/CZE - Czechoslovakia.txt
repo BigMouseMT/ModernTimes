@@ -5,13 +5,32 @@ oob = "CZE_1936"
  
 set_politics = {
 
- 
-	
-	ruling_party = democratic
-	last_election = "2016.3.18"
+	ruling_party = neutrality
+	last_election = "2017.10.21"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
- 
+set_popularities = {
+ neutrality = 30
+ communism = 8
+ fascism = 11
+ democratic = 25
+ classical_liberalism = 26
+} 
+
+
+create_country_leader = {
+	name = "Vojtech Filip"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/cze/Vojtech_Filip.dds"
+	ideology = leninism
+}
+
+create_country_leader = {
+	name = "Milos Zeman"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/cze/Zetman.dds"
+	ideology = centrism
+}
 

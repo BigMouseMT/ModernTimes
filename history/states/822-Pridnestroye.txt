@@ -13,6 +13,12 @@ state={
 
 
 	history={
+			victory_points = {
+			741 30
+		}
+					victory_points = {
+			9576 15
+		}
  		add_core_of = PMR
 		owner = PMR
  

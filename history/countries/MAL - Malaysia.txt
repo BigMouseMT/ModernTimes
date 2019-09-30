@@ -2,10 +2,20 @@
 
 oob = "MAL_1936"
 
- 
-set_politics = {
 
- 
-}
+set_politics = {
+ruling_party = democratic
+	last_election = "2018.5.9"
+	election_frequency = 60
+	elections_allowed = yes
+} 
+
+set_popularities = {
+ neutrality = 34
+ communism = 0
+ fascism = 17
+ democratic = 48
+ classical_liberalism = 1
+} 
 
  

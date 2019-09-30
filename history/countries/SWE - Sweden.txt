@@ -5,12 +5,25 @@ oob = "SWE_1936"
  
 set_politics = {
 
- 
-	
 	ruling_party = democratic
-	last_election = "2016.9.18"
+	last_election = "2018.9.9"
 	election_frequency = 48
 	elections_allowed = yes
 }
-
+set_popularities = {
+ neutrality = 8
+ communism = 3
+ fascism = 19
+ democratic = 37
+ classical_liberalism = 33
+} 
+ 
+create_country_leader = {
+	name = "Stephen Leven"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/swe/Stephen_Leven.dds"
+	ideology = liberalism
+}
+ 
+ 
  

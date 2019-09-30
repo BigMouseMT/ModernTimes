@@ -4,12 +4,23 @@ oob = "POR_1936"
 
  
 set_politics = {
- 
- 
-	
-	ruling_party = democratic
-	last_election = "2017.3.18"
+
+	ruling_party = neutrality
+	last_election = "2015.10.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 42
+ communism = 2
+ fascism = 1
+ democratic = 41
+ classical_liberalism = 14
+} 
  
+ create_country_leader = {
+	name = "Marcelo Rebelo de Sousa"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/por/Marcelo.dds"
+	ideology = centrism
+}   

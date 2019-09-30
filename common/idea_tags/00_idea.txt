@@ -95,7 +95,7 @@ idea_categories = {
 		slot = law_pensii
 		slot = law_socialobespech
 		slot = law_researchfinance
-		slot = law_lichnhoz
+		slot = law_culture
 		
 		cost = 150
 		removal_cost = 0

@@ -1,9 +1,0 @@
-on_actions = {
-	on_startup = {
-		effect = {
-		
-					BLR = { country_event = { id = religion.1 } }
-					TUR = { country_event = { id = religion.2 } }
-		}
-		}
-		}

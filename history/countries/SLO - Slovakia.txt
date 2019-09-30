@@ -3,16 +3,24 @@
 oob = "SLO_1939"
  
 
- 
-
 set_politics = {
-
- 
-	
-	ruling_party = classical_liberalism
-	last_election = "2017.3.18"
+ruling_party = democratic
+	last_election = "2016.3.5"
 	election_frequency = 48
 	elections_allowed = yes
+} 
+set_popularities = {
+ neutrality = 27
+ communism = 1
+ fascism = 23
+ democratic = 30
+ classical_liberalism = 19
+} 
+ 
+ 
+ create_country_leader = {
+	name = "Zuzana Chupanova"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/slo/Chupanova.dds"
+	ideology = liberalism
 }
- 
- 

@@ -5,12 +5,24 @@ oob = "NOR_1936"
  
 set_politics = {
 
- 
-	
-	ruling_party = democratic
-	last_election = "1933.10.16"
-	election_frequency = 36
+	ruling_party = neutrality
+	last_election = "2017.9.11"
+	election_frequency = 48
 	elections_allowed = yes
 }
 
+set_popularities = {
+ neutrality = 39
+ communism = 2
+ fascism = 15
+ democratic = 40
+ classical_liberalism = 4
+} 
+ 
+create_country_leader = {
+	name = "Erna Solberg"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/nor/Erna_Solberg.dds"
+	ideology = centrism
+} 
  

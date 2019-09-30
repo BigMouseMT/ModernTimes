@@ -5,12 +5,24 @@ oob = "EST_1936"
  
 set_politics = {
 
- 
-	
-	ruling_party = neutrality
-	last_election = "2018.3.18"
+
+	ruling_party = classical_liberalism
+	last_election = "2015.3.3"
 	election_frequency = 48
 	elections_allowed = yes
 }
-
+set_popularities = {
+ neutrality = 13
+ communism = 0
+ fascism = 18
+ democratic = 34
+ classical_liberalism = 35
+} 
+ 
+ create_country_leader = {
+	name = "Kirsty Kaljulaid"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/est/Kirsty_Kaljulaid.dds"
+	ideology = soc_liberalism
+}
  

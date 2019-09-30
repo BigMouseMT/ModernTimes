@@ -6,12 +6,51 @@ oob = "FRA_1936"
 
 set_politics = {
 
- 
-	
-	ruling_party = neutrality
-	last_election = "2017.3.18"
-	election_frequency = 48
+	ruling_party = classical_liberalism
+	last_election = "2017.6.18"
+	election_frequency = 60
 	elections_allowed = yes
 }
-
+set_popularities = {
+ neutrality = 24
+ communism = 5
+ fascism = 2
+ democratic = 8
+ classical_liberalism = 61
+} 
   
+  
+create_country_leader = {
+	name = "Emmanuel Macron"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/fra/Macron.dds"
+	ideology = soc_liberalism
+}
+
+create_country_leader = {
+	name = "Fabien Roussel"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = eurocommunism
+}
+
+create_country_leader = {
+	name = "Olivier Faure"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = socialism
+}
+
+create_country_leader = {
+	name = "Jean Leonetti"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = centrism
+} 
+
+create_country_leader = {
+	name = "Marine Le Pen"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = neoliberalsim
+}

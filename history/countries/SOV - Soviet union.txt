@@ -7,24 +7,62 @@ oob = "SOV_1936"
  
 
 set_politics = {
-
- 
-	
-	ruling_party = neutrality
+ruling_party = neutrality
 	last_election = "2018.3.18"
 	election_frequency = 72
 	elections_allowed = yes
-}
+} 
+set_popularities = {
+ neutrality = 40
+ communism = 20
+ fascism = 10
+ democratic = 15
+ classical_liberalism = 15
+} 
+
 
 create_country_leader = {
 	name = "Vladimir Putin"
 	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
-	picture = "moderntimes/gfx/leaders/RUS/putin.dds"
-	expire = "2024.1.1"
+	picture = "gfx/leaders/RUS/putin.dds"
 	ideology = centrism
 }
 
- 
+create_country_leader = {
+	name = "Gennady Zyganov"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/RUS/Ivashov.dds"
+	ideology = revisionism
+}
+
+create_country_leader = {
+	name = "Vladimir Zhirinovskiy"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/RUS/zhirinovsky.dds"
+	ideology = rexism
+}
+
+create_country_leader = {
+	name = "Sergey Mironov"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = liberalism
+}
+
+create_country_leader = {
+	name = "Alexey Navalny"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = soc_liberalism
+}
+
+create_faction = CSTO
+add_to_faction = SOV
+add_to_faction = KAZ
+add_to_faction = BLR
+add_to_faction = KYR
+add_to_faction = TAJ
+add_to_faction = ARM
 
 
  

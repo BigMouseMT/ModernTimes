@@ -6,12 +6,17 @@ oob = "RAJ_1936"
  
 set_politics = {
 
- 
-	
-	ruling_party = neutrality
-	last_election = "1935.11.14"
-	election_frequency = 48
-	elections_allowed = no
+	ruling_party = democratic
+	last_election = "2014.4.11"
+	election_frequency = 60
+	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 46
+ communism = 8
+ fascism = 5
+ democratic = 35
+ classical_liberalism = 6
+} 
 
  

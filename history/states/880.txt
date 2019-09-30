@@ -9,10 +9,13 @@ state=
 	history= {
 		add_core_of = MOL
 		owner = MOL
- 
+ 					victory_points = {
+			3724 10
+		}
 		buildings = {
 			infrastructure = 4
 			air_base = 2
+ 
 		}
 	 
 	}

@@ -1,4 +1,888 @@
 ideas = {
 
+law_armyfinance = {
+army_1_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_1_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_1_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_1_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_1_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armylarge = {
+army_2_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_2_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_2_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_2_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_2_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_2_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_2_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_2_8 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armystatus = {
+army_3_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_3_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_3_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armyconscription = {
+army_4_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_8 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_9 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_10 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_11 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_4_12 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+
+
+}
+######################################################################
+law_armyconscriptionlarge = {
+army_5_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_5_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_5_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_5_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_5_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_5_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_5_7 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_5_8 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_5_9 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armyservice = {
+army_6_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_6_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_6_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armypreeducation = {
+army_7_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_7_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_7_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_7_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armyeduation = {
+army_8_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_8_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_8_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armywomens = {
+army_9_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_9_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_9_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_9_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armysituation = {
+army_10_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_10_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armyreserve = {
+army_11_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_11_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_11_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_11_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_11_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_11_6 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+law_armyuchet = {
+army_12_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_12_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_12_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+army_12_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+######################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }

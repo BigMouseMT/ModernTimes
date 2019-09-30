@@ -7,12 +7,17 @@ oob = "SIA_1936"
  
 set_politics = {
 
- 
-	
-	ruling_party = neutrality
-	last_election = "1936.1.1"
+	ruling_party = fascism
+	last_election = "2015.3.24"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 25
+ communism = 2
+ fascism = 27
+ democratic = 19
+ classical_liberalism = 27
+} 
 
  

@@ -2,13 +2,25 @@
 
 set_politics = {
 
- 
-	
-	ruling_party = communism
-	last_election = "2019.3.18"
-	election_frequency = 48
-	elections_allowed = no
-}
 
+	ruling_party = communism
+	last_election = "2014.3.10"
+	election_frequency = 60
+	elections_allowed = yes
+}
+set_popularities = {
+ neutrality = 2
+ communism = 90
+ fascism = 0
+ democratic = 8
+ classical_liberalism = 0
+} 
+
+create_country_leader = {
+	name = "Kim Jong-UN"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/prk/Kim_Jong-UN.dds"
+	ideology = anti_revisionism
+}
 
  

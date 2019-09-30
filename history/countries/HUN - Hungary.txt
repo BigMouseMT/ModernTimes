@@ -2,14 +2,24 @@
 
 oob = "HUN_1936"
 
- 
+
 set_politics = {
- 
-	
-	ruling_party = neutrality
-	last_election = "1935.3.31"
+ruling_party = neutrality
+	last_election = "2018.4.8"
 	election_frequency = 48
 	elections_allowed = yes
-}
+} 
+set_popularities = {
+ neutrality = 52
+ communism = 1
+ fascism = 19
+ democratic = 13
+ classical_liberalism = 15
+} 
 
- 
+ create_country_leader = {
+	name = "Victor Orban"
+	desc = ""
+	picture = "gfx/leaders/hun/Orban.dds"
+	ideology = centrism
+} 

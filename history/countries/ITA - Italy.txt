@@ -5,15 +5,26 @@ oob = "ITA_1936"
  
 
 set_politics = {
-
- 
- 
-	ruling_party = democratic
-	last_election = "2017.3.18"
-	election_frequency = 48
+	
+	ruling_party = neutrality
+	last_election = "2018.3.4"
+	election_frequency = 60
 	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 37
+ communism = 2
+ fascism = 2
+ democratic = 26
+ classical_liberalism = 33
+} 
 
+ create_country_leader = {
+	name = "Sergio Mattarella"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/ita/Mattarella.dds"
+	ideology = centrism
+}
 
 
 

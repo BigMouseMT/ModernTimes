@@ -1040,4 +1040,626 @@ center_world_economy = {
 			cancel_if_invalid = yes
 }
 }
+######################################################################################################################################################################
+law_information = {
+politics_1_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_1_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_1_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_1_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_mitings  = {
+politics_2_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_2_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_2_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_2_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_2_5 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_sobrania  = {
+politics_3_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_3_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_3_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_3_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+} 	
+#########################################################################################
+law_partii = {
+politics_4_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_4_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_4_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_gosservice = {
+politics_5_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_5_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_5_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_corruption = {
+politics_6_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_6_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_6_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_borders = {
+politics_7_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_7_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_7_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_7_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_religion = {
+politics_8_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_8_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_8_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_pravociv = {
+politics_9_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_9_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_9_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_9_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_pravochil = {
+politics_10_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_10_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_10_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_10_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_pravomensh = {
+politics_11_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_11_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_11_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_11_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
+law_pravoweapon = {
+politics_12_1 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_12_2 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_12_3 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+politics_12_4 = {
+	
+
+cost = 150
+removal_cost = -1
+			
+modifier = {
+ 
+}
+			
+default = no
+cancel_if_invalid = yes
+}
+}
+#########################################################################################
 }

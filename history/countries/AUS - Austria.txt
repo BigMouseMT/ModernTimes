@@ -5,11 +5,23 @@ oob = "AUS_1936"
  
 set_politics = {
 
- 
-	ruling_party = democratic
-	last_election = "2017.3.18"
+	ruling_party =  neutrality
+	last_election = "2015.9.29"
 	election_frequency = 48
 	elections_allowed = yes
 }
  
+ set_popularities = {
+ neutrality = 32
+ communism = 2
+ fascism = 26
+ democratic = 29
+ classical_liberalism = 11
+} 
  
+ create_country_leader = {
+	name = "Brigitte Birline"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/aus/Birline.dds"
+	ideology = centrism
+}  

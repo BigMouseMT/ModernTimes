@@ -5,13 +5,18 @@ oob = "PAK_1936"
  
 set_politics = {
 
- 
-	
 	ruling_party = neutrality
-	last_election = "1935.11.14"
+	last_election = "2018.7.25"
 	election_frequency = 48
-	elections_allowed = no
+	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 60
+ communism = 6
+ fascism = 11
+ democratic = 20
+ classical_liberalism = 3
+} 
 
 
  

@@ -5,7 +5,18 @@ oob = "LAO_1936"
  
 set_politics = {
 
- 
+	ruling_party = neutrality
+	last_election = "2016.3.20"
+	election_frequency = 60
+	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 64
+ communism = 26
+ fascism = 0
+ democratic = 2
+ classical_liberalism = 8
+} 
+
 
  

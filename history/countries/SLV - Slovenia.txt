@@ -5,13 +5,23 @@ oob = "SLV_1991"
 set_convoys = 180
 
 set_politics = {
-
- 
-
-	ruling_party = democratic
-	last_election = "1987.12.6"
-	election_frequency = 60
+ruling_party = neutrality
+	last_election = "2018.6.3"
+	election_frequency = 48
 	elections_allowed = yes
-}
+} 
+set_popularities = {
+ neutrality = 36
+ communism = 8
+ fascism = 4
+ democratic = 22
+ classical_liberalism = 30
+} 
 
- 
+ create_country_leader = {
+	name = "Borut Pahor"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/slv/Pahor.dds"
+	ideology = centrism
+} 
+

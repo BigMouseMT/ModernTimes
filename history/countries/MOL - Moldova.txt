@@ -9,11 +9,22 @@ set_technology = {
 
 
 set_politics = {
-
- 
-	
-	ruling_party = democratic
-	last_election = "2017.1.1"
-	election_frequency = 48
+ruling_party = democratic
+	last_election = "2019.2.24"
+	election_frequency = 60
 	elections_allowed = yes
+} 
+set_popularities = {
+ neutrality = 11
+ communism = 4
+ fascism = 6
+ democratic = 50
+ classical_liberalism = 29
+} 
+
+create_country_leader = {
+	name = "Igor Dodon"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/mol/Dodon.dds"
+	ideology = liberalism
 }

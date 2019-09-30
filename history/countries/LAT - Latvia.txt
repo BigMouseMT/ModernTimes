@@ -6,13 +6,23 @@ oob = "LAT_1936"
 
 set_politics = {
 
- 
-	
-	ruling_party = classical_liberalism
-	last_election = "2018.3.18"
+
+	ruling_party = democratic
+	last_election = "2018.10.6"
 	election_frequency = 48
 	elections_allowed = yes
 }
- 
+set_popularities = {
+neutrality = 32
+communism = 0
+fascism = 12
+democratic = 27
+classical_liberalism = 29
+} 
 
- 
+ create_country_leader = {
+	name = "Raimonds Vējonis"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/lat/Raimonds_Vējonis.dds"
+	ideology = liberalism
+}

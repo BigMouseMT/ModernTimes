@@ -1,0 +1,25 @@
+state={
+	id=891
+	name="STATE_891"
+	resources={
+		steel=3.000
+	}
+
+	history={
+ 
+		owner = MAC
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = MAC
+
+	}
+
+	provinces={
+	   3833 907 6886
+	}
+	manpower=1533000
+ 
+	state_category=town
+}

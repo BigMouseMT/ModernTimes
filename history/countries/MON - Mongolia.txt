@@ -6,12 +6,23 @@ oob = "MON_1936"
 
 set_politics = {
 
- 
-	
-	ruling_party = communism
-	last_election = "1936.1.1"
-	election_frequency = 48
-	elections_allowed = no
-}
 
+	ruling_party = neutrality
+	last_election = "2016.6.24"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+ neutrality = 48
+ communism = 1
+ fascism = 1
+ democratic = 17
+ classical_liberalism = 33
+} 
+create_country_leader = {
+	name = "Khaltmagiin Battulga"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/mon/Khaltmagiin_Battulga.dds"
+	ideology = centrism
+} 
  

@@ -2,15 +2,23 @@
 
 oob = "BUL_1936"
 
- 
-
 set_politics = {
-
- 
-	
-	ruling_party = democratic
-	last_election = "2015.9.18"
+ruling_party = neutrality
+	last_election = "2017.3.24"
 	election_frequency = 48
 	elections_allowed = yes
-}
+} 
+set_popularities = {
+ neutrality = 38
+ communism = 2
+ fascism = 15
+ democratic = 29
+ classical_liberalism = 16
+} 
  
+  create_country_leader = {
+	name = "Rumen Radaev"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/bul/Radaev.dds"
+	ideology = centrism
+} 

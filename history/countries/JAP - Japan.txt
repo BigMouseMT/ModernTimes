@@ -5,12 +5,26 @@ oob = "JAP_1936"
  
 set_politics = {
 
- 
-	
-	ruling_party = classical_liberalism
-	last_election = "2016.3.18"
+	ruling_party = fascism
+	last_election = "2017.10.22"
 	election_frequency = 48
 	elections_allowed = yes
 }
+
+set_popularities = {
+ neutrality = 30
+ communism = 8
+ fascism = 40
+ democratic = 2
+ classical_liberalism = 20
+} 
+
+create_country_leader = {
+	name = "Abe Shinzo"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/jap/sindso_abe.dds"
+	ideology = fascism_ideology
+}
+
 
  

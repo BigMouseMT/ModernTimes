@@ -6,12 +6,23 @@ oob = "SPR_1936"
 
 set_politics = {
 
- 
-	
 	ruling_party = democratic
-	last_election = "2018.3.18"
+	last_election = "2015.4.28"
 	election_frequency = 48
 	elections_allowed = yes
 }
+set_popularities = {
+ neutrality = 19
+ communism = 1
+ fascism = 10
+ democratic = 37
+ classical_liberalism = 33
+} 
 
+create_country_leader = {
+	name = "Sanchez Pedro"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/spr/Sanchez_Pedro.dds"
+	ideology = liberalism
+}
  

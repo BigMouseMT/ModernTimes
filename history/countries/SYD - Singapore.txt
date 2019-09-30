@@ -3,13 +3,18 @@
 oob = "BLR_1991"
 
 set_politics = {
-
- 
-
-	ruling_party = democratic
-	last_election = "1991.1.1"
-	election_frequency = 48
+	ruling_party = neutrality
+	last_election = "2015.9.11"
+	election_frequency = 60
 	elections_allowed = yes
 }
+
+set_popularities = {
+ neutrality = 72
+ communism = 1
+ fascism = 0
+ democratic = 13
+ classical_liberalism = 14
+} 
 
  

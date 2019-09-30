@@ -4,8 +4,23 @@ oob = "KAZ_1936"
 
  
 set_politics = {
+ruling_party = neutrality
+	last_election = "2016.3.18"
+	election_frequency = 48
+	elections_allowed = yes
+} 
+set_popularities = {
+ neutrality = 37
+ communism = 33
+ fascism = 15
+ democratic = 5
+ classical_liberalism = 10
+} 
 
- 
+ create_country_leader = {
+	name = "Нурсултан Назарбаев"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/kaz/nazarbaev.dds"
+	expire = "2024.1.1"
+	ideology = centrism
 }
-
- 

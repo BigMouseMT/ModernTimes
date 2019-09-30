@@ -2,15 +2,51 @@
 
 oob = "HOL_1936"
 
- 
 set_politics = {
-
- 
-	
-	ruling_party = classical_liberalism
+ruling_party = classical_liberalism
 	last_election = "2018.3.18"
-	election_frequency = 38
+	election_frequency = 48
 	elections_allowed = yes
+} 
+set_popularities = {
+ neutrality = 20
+ communism = 0
+ fascism = 17
+ democratic = 29
+ classical_liberalism = 34
+} 
+
+  create_country_leader = {
+	name = "Mark Rutte"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = "gfx/leaders/hol/Rutte.dds"
+	ideology = soc_liberalism
 }
 
- 
+create_country_leader = {
+	name = "Job Pruijser"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = leninism
+} 
+
+create_country_leader = {
+	name = "Alexander Bekhtold"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = liberalism
+} 
+
+create_country_leader = {
+	name = "Haersma Buma"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = centrism
+} 
+
+create_country_leader = {
+	name = "Geert Wilders"
+	desc = "POLITICS_CHIANG_KAI-SHEK_DESC"
+	picture = ""
+	ideology = nazism
+} 
