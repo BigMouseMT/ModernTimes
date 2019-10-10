@@ -1,7 +1,9 @@
 ﻿capital = 295
 
 oob = "COG_1936"
-
+ add_ideas = {
+ OPEK
+ }
  
 
  

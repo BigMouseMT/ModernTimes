@@ -3,7 +3,13 @@
 oob = "SOV_1936"
 
  
-
+add_ideas = {
+UnitedNations
+WTO
+EAEU
+SNG
+SG
+}
  
 
 set_politics = {

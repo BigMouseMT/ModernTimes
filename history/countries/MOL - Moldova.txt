@@ -1,7 +1,11 @@
 ﻿capital = 78
 
 #oob = ""
-
+ add_ideas = {
+ WTO
+ SNG
+ EAEU
+ }
 # Starting tech
 set_technology = {
 

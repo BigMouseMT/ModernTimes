@@ -1,6 +1,8 @@
 ﻿capital = 459
 oob = "ALG_1991"
-
+ add_ideas = {
+ OPEK
+ }
 set_politics = {
  
 

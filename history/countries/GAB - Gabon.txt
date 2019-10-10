@@ -1,5 +1,7 @@
 ﻿capital = 539
-
+ add_ideas = {
+ OPEK
+ }
 # Starting tech
 set_technology = {
 

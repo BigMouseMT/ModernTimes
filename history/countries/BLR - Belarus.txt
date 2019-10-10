@@ -1,8 +1,28 @@
 ﻿capital = 206 #Minsk
 add_research_slot = 2
 oob = "BLR_1936"
-
+ add_ideas = {
+ SG
+ EAEU
+ SNG
+ }
+  add_ideas = {
+ unitary_state
+ centralized_unitary_state
+ imitation_dem
+ mixed_republic
+ regional_state
+ middle_state
+ middlepop_state
+ postindustrial_state
+ low_socium
+ middle_pravo
+ high_dev_economy
+ polyperiferia_economy
  
+ 
+ 
+ }
 set_politics = {
 
 	ruling_party = neutrality

@@ -1,7 +1,9 @@
 ﻿capital = 540
 
 oob = "ANG_1936"
-
+ add_ideas = {
+ OPEK
+ }
 # Starting tech
 set_technology = {
  

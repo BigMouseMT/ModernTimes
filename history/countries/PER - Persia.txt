@@ -1,7 +1,9 @@
 ﻿capital = 266
 
 oob = "PER_1936"
-
+ add_ideas = {
+ OPEK
+ }
  
 set_politics = {
 

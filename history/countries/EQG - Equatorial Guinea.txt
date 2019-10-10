@@ -1,7 +1,9 @@
 ﻿capital = 548
 oob = "EQG_1991"
 
- 
+  add_ideas = {
+ OPEK
+ }
 
 set_politics = {
 

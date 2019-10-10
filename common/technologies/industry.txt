@@ -1,1 +1,2210 @@
+		technologies = {
+		
+		@0=-1
+		@1=1
+		@2=3
+		@3=5
+		@4=7
+		@5=9
+		@6=11
+		@7=13
+		@8=15
+		@9=17
+		@10=19
+		@11=21
+		@12=23
+		
+		prod_lines_1 = {
+
  
+ 
+		
+		path = {
+			leads_to_tech = prod_lines_2
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = prod_opti_1
+			research_cost_coeff = 1
+		}		
+		path = {
+			leads_to_tech = prod_army_1
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @0 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_2 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = prod_lines_3
+			research_cost_coeff = 1
+		}	
+		path = {
+			leads_to_tech = prod_opti_2
+			research_cost_coeff = 1
+		}			
+		path = {
+			leads_to_tech = prod_army_2
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @1 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_3 = {
+
+ 
+ 		path = {
+			leads_to_tech = prod_army_3
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = prod_lines_4
+			research_cost_coeff = 1
+		}	
+		path = {
+			leads_to_tech = prod_opti_3
+			research_cost_coeff = 1
+		}			
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @2 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_4 = {
+
+ 		path = {
+			leads_to_tech = prod_army_4
+			research_cost_coeff = 1
+		}
+ 
+		
+		path = {
+			leads_to_tech = prod_lines_5
+			research_cost_coeff = 1
+		}	
+		path = {
+			leads_to_tech = prod_opti_4
+			research_cost_coeff = 1
+		}			
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @3 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_5 = {
+
+ 
+ 		path = {
+			leads_to_tech = prod_army_5
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = prod_lines_6
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = prod_opti_5
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @4 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_6 = {
+
+ 
+ 
+				path = {
+			leads_to_tech = prod_army_6
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = prod_lines_7
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = prod_opti_6
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @5 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_7 = {
+
+ 
+ 		path = {
+			leads_to_tech = prod_army_7
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = prod_lines_8
+			research_cost_coeff = 1
+		}	
+		path = {
+			leads_to_tech = prod_opti_7
+			research_cost_coeff = 1
+		}			
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @6 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_8 = {
+
+ 
+ 		path = {
+			leads_to_tech = prod_army_8
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = prod_lines_9
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = prod_opti_8
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @7 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_9 = {
+
+ 
+ 		path = {
+			leads_to_tech = prod_army_9
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = prod_lines_10
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = prod_opti_9
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @8 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_10 = {
+
+ 
+ 		path = {
+			leads_to_tech = prod_army_10
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = prod_lines_11
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = prod_opti_10
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @9 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_11 = {
+
+ 
+ 		path = {
+			leads_to_tech = prod_army_11
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = prod_lines_12
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = prod_opti_11
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @10 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_lines_12 = {
+
+ 		path = {
+			leads_to_tech = prod_army_12
+			research_cost_coeff = 1
+		}
+ 		path = {
+			leads_to_tech = prod_opti_12
+			research_cost_coeff = 1
+		}	
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @11 y = 3 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	#################################
+			prod_opti_1 = {
+
+ 
+ 
+		
+ 		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @0 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_2 = {
+
+ 
+  		dependencies = {
+	prod_opti_1 = 1
+		}
+		
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @1 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_3 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_opti_2 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @2 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_4 = {
+
+ 
+ 
+  		dependencies = {
+	prod_opti_3 = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @3 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_5 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_opti_4 = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @4 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_6 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_opti_5 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @5 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_7 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_opti_6 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @6 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_8 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_opti_7 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @7 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_9 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_opti_8 = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @8 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_10 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_opti_9 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @9 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_11 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_opti_10 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @10 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_opti_12 = {
+
+ 
+ 
+ 	  		dependencies = {
+	prod_opti_11 = 1
+		}
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @11 y = 1 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		#################################
+			prod_army_1 = {
+
+ 
+ 
+		
+ 		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @0 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_2 = {
+
+ 
+  		dependencies = {
+	prod_army_1 = 1
+		}
+		
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @1 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_3 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_army_2 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @2 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_4 = {
+
+ 
+ 
+  		dependencies = {
+	prod_army_3 = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @3 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_5 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_army_4 = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @4 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_6 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_army_5 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @5 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_7 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_army_6 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @6 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_8 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_army_7 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @7 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_9 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_army_8 = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @8 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_10 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_army_9 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @9 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_11 = {
+
+ 
+ 
+		
+  		dependencies = {
+	prod_army_10 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @10 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			prod_army_12 = {
+
+ 
+ 
+ 	  		dependencies = {
+	prod_army_11 = 1
+		}
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @11 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	
+	####################################################################################
+			orud_trud_1 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = orud_trud_2
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = orud_stroi_1
+			research_cost_coeff = 1
+		}		
+		path = {
+			leads_to_tech = orud_resurs_1
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @0 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_2 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = orud_trud_3
+			research_cost_coeff = 1
+		}	
+		path = {
+			leads_to_tech = orud_stroi_2
+			research_cost_coeff = 1
+		}			
+		path = {
+			leads_to_tech = orud_resurs_2
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @1 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_3 = {
+
+ 
+ 		path = {
+			leads_to_tech = orud_resurs_3
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = orud_trud_4
+			research_cost_coeff = 1
+		}	
+		path = {
+			leads_to_tech = orud_stroi_3
+			research_cost_coeff = 1
+		}			
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @2 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_4 = {
+
+ 		path = {
+			leads_to_tech = orud_resurs_4
+			research_cost_coeff = 1
+		}
+ 
+		
+		path = {
+			leads_to_tech = orud_trud_5
+			research_cost_coeff = 1
+		}	
+		path = {
+			leads_to_tech = orud_stroi_4
+			research_cost_coeff = 1
+		}			
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @3 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_5 = {
+
+ 
+ 		path = {
+			leads_to_tech = orud_resurs_5
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = orud_trud_6
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = orud_stroi_5
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @4 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_6 = {
+
+ 
+ 
+				path = {
+			leads_to_tech = orud_resurs_6
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = orud_trud_7
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = orud_stroi_6
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @5 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_7 = {
+
+ 
+ 		path = {
+			leads_to_tech = orud_resurs_7
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = orud_trud_8
+			research_cost_coeff = 1
+		}	
+		path = {
+			leads_to_tech = orud_stroi_7
+			research_cost_coeff = 1
+		}			
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @6 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_8 = {
+
+ 
+ 		path = {
+			leads_to_tech = orud_resurs_8
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = orud_trud_9
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = orud_stroi_8
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @7 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_9 = {
+
+ 
+ 		path = {
+			leads_to_tech = orud_resurs_9
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = orud_trud_10
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = orud_stroi_9
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @8 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_10 = {
+
+ 
+ 		path = {
+			leads_to_tech = orud_resurs_10
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = orud_trud_11
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = orud_stroi_10
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @9 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_11 = {
+
+ 
+ 		path = {
+			leads_to_tech = orud_resurs_11
+			research_cost_coeff = 1
+		}
+		
+		path = {
+			leads_to_tech = orud_trud_12
+			research_cost_coeff = 1
+		}		
+				path = {
+			leads_to_tech = orud_stroi_11
+			research_cost_coeff = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @10 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_trud_12 = {
+
+ 		path = {
+			leads_to_tech = orud_resurs_12
+			research_cost_coeff = 1
+		}
+ 		path = {
+			leads_to_tech = orud_stroi_12
+			research_cost_coeff = 1
+		}	
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @11 y = 10 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	#################################
+			orud_stroi_1 = {
+
+ 
+ 
+		
+ 		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @0 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_2 = {
+
+ 
+  		dependencies = {
+	orud_stroi_1 = 1
+		}
+		
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @1 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_3 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_stroi_2 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @2 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_4 = {
+
+ 
+ 
+  		dependencies = {
+	orud_stroi_3 = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @3 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_5 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_stroi_4 = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @4 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_6 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_stroi_5 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @5 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_7 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_stroi_6 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @6 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_8 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_stroi_7 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @7 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_9 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_stroi_8 = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @8 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_10 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_stroi_9 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @9 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_11 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_stroi_10 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @10 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_stroi_12 = {
+
+ 
+ 
+ 	  		dependencies = {
+	orud_stroi_11 = 1
+		}
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @11 y = 8 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		#################################
+			orud_resurs_1 = {
+
+ 
+ 
+		
+ 		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @0 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_2 = {
+
+ 
+  		dependencies = {
+	orud_resurs_1 = 1
+		}
+		
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @1 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_3 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_resurs_2 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @2 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_4 = {
+
+ 
+ 
+  		dependencies = {
+	orud_resurs_3 = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @3 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_5 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_resurs_4 = 1
+		}	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @4 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_6 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_resurs_5 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @5 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_7 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_resurs_6 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @6 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_8 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_resurs_7 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @7 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_9 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_resurs_8 = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @8 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_10 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_resurs_9 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @9 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_11 = {
+
+ 
+ 
+		
+  		dependencies = {
+	orud_resurs_10 = 1
+		}		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @10 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_resurs_12 = {
+
+ 
+ 
+ 	  		dependencies = {
+	orud_resurs_11 = 1
+		}
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @11 y = 12 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		####################################################################################
+			orud_oil_1 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = orud_oil_2
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @0 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_2 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = orud_oil_3
+			research_cost_coeff = 1
+		}	
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @1 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_3 = {
+
+ 
+ 
+		path = {
+			leads_to_tech = orud_oil_4
+			research_cost_coeff = 1
+		}	
+ 			
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @2 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_4 = {
+ 
+		
+		path = {
+			leads_to_tech = orud_oil_5
+			research_cost_coeff = 1
+		}	
+ 			
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @3 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_5 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = orud_oil_6
+			research_cost_coeff = 1
+		}		
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @4 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_6 = {
+
+ 
+		path = {
+			leads_to_tech = orud_oil_7
+			research_cost_coeff = 1
+		}		
+ 
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @5 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_7 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = orud_oil_8
+			research_cost_coeff = 1
+		}	
+ 		
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @6 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_8 = {
+
+ 
+ 
+		path = {
+			leads_to_tech = orud_oil_9
+			research_cost_coeff = 1
+		}		
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @7 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_9 = {
+
+ 
+ 
+		path = {
+			leads_to_tech = orud_oil_10
+			research_cost_coeff = 1
+		}		
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @8 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_10 = {
+
+ 
+ 
+		
+		path = {
+			leads_to_tech = orud_oil_11
+			research_cost_coeff = 1
+		}		
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @9 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_11 = {
+
+ 
+		
+		path = {
+			leads_to_tech = orud_oil_12
+			research_cost_coeff = 1
+		}		
+ 
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @10 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+			orud_oil_12 = {
+
+ 
+ 	
+
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = production_folder
+			position = { x = @11 y = 16 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+}		

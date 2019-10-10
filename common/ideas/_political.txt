@@ -6,56 +6,64 @@ gos_stroi = {
 		
 			cost = 150
 			removal_cost = -1
-			
+			available = {
+			always = no
+			}
 			modifier = {
- 
+            stability_factor = 0.2
 			}
 			
-			default = no
+			default = yes
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 				federal_state = {
 			
 		
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+            stability_factor = 0.10
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 				confederal_state = {
 			
 		
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+            stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 				unrecognized_state = {
 			
-		
+					available = {
+			always = no
+			}
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+         stability_factor = -0.30
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 }
 v_gos_stroi = {
@@ -64,70 +72,80 @@ v_gos_stroi = {
 		
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+            stability_factor = 0.10
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 				decentralized_unitary_state = {
 			
-		
+					available = {
+			always = no
+			}
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+            stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 				regionalist_state = {
 			
 		
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 			simmetrial_federal_state = {
 			
 		
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+ stability_factor = 0.10
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 			asimmetrial_federal_state = {
 			
 		
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}	
 		
 }
@@ -141,12 +159,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 				social_dem = {
 			
@@ -155,12 +173,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 				egalitar_dem = {
 			
@@ -169,12 +187,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 		oligarh_dem = {
 			
@@ -183,12 +201,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 		imitation_dem = {
 			
@@ -197,12 +215,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.10
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 		fascist_total = {
 			
@@ -211,12 +229,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.15
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}	
 		social_total = {
 			
@@ -225,12 +243,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.20
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}	
 		nat-soc_total = {
 			
@@ -239,12 +257,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.20
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}
 		military_buro_regime = {
 			
@@ -253,12 +271,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}	
 		
 		corporat_avtor = {
@@ -268,12 +286,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}	
 		dototal_avtor = {
 			
@@ -282,12 +300,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}	
 		postcolonial_avtor = {
 			
@@ -296,12 +314,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}	
 		ras_cvas_dem = {
 			
@@ -310,12 +328,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = -0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}	
 		sultan_regime = {
 			
@@ -324,12 +342,12 @@ v_gos_stroi = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.2
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 		}			
 		
 }
@@ -340,144 +358,144 @@ president_republic = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 mixed_republic = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 pres-parlament_republic = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 parlament_republic = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 parlament_monarchy = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 dual_monarchy = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 absolut_monarchy = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 one-party_state = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.2
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 military_dictat = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 total_power_state = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.2
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 chatolic_teocrasy = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 protestant_teocrasy = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 pravoslavie_teocrasy = {
  
@@ -491,60 +509,60 @@ pravoslavie_teocrasy = {
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 sunnit_teocrasy = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 shiit_teocrasy = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 buddist_teocrasy = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 iydei_teocrasy = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 }
 ##########################################################################
@@ -552,50 +570,58 @@ gos_status = {
 local_state = {
 			cost = 150
 			removal_cost = -1
-			
+ 			available = {
+			always = no
+			}
 			modifier = {
- 
+ stability_factor = 0.02
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 regional_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+  stability_factor = 0.04
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 great_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			  always = no
+			}
 			modifier = {
- 
+  stability_factor = 0.06
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 superpower_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+  stability_factor = 0.08
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 }
 
@@ -604,86 +630,119 @@ gos_razmer = {
 micro_state = {
 			cost = 150
 			removal_cost = -1
-			
+			available = {
+						if = {
+			num_of_controlled_states < 2
+			}
+			}
 			modifier = {
- 
+ stability_factor = -0.02
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 very_small_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+						if = {
+			num_of_controlled_states > 1
+			num_of_controlled_states < 11			
+			}
+			}
 			modifier = {
- 
+ stability_factor = -0.03
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 small_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+						if = {
+			num_of_controlled_states > 10
+			num_of_controlled_states < 16			
+			}
+			}
 			modifier = {
- 
+ stability_factor = -0.04
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 middle_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+						if = {
+			num_of_controlled_states > 15
+			num_of_controlled_states < 26
+			}
+			}
 			modifier = {
- 
+ stability_factor = -0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 big_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+						if = {
+			num_of_controlled_states > 25
+			num_of_controlled_states < 31
+			}
+			}
 			modifier = {
- 
+ stability_factor = -0.06
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 very_big_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+						if = {
+			num_of_controlled_states > 30
+			num_of_controlled_states < 41
+			}
+			}
 			modifier = {
- 
+stability_factor = -0.07
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 superbig_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+						if = {
+			num_of_controlled_states > 40
+			}
+			}
 			modifier = {
- 
+ stability_factor = -0.08
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 }
 #################
@@ -691,62 +750,77 @@ pop_razmer = {
 micropop_state = {
 			cost = 150
 			removal_cost = -1
-			
 			modifier = {
- 
+			 
+  stability_factor = 0.02
+  MONTHLY_POPULATION = 0.01
 			}
-			
+						available = {
+			always = no
+			}
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 smallpop_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+  stability_factor = 0.03
+  MONTHLY_POPULATION = 0.02
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 middlepop_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+  stability_factor = 0.04
+  MONTHLY_POPULATION = 0.03
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 bigpop_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+  stability_factor = 0.05
+  MONTHLY_POPULATION = 0.04
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 verybigpop_state = {
 			cost = 150
 			removal_cost = -1
-			
+						available = {
+			always = no
+			}
 			modifier = {
- 
+  stability_factor = 0.06
+  MONTHLY_POPULATION = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 }
 ####################################
@@ -761,7 +835,7 @@ agrarian_state = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 industrial_state = {
 			cost = 150
@@ -773,7 +847,7 @@ industrial_state = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 postindustrial_state = {
 			cost = 150
@@ -785,7 +859,7 @@ postindustrial_state = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 information_state = {
 			cost = 150
@@ -797,7 +871,7 @@ information_state = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 }
 ###################3
@@ -807,60 +881,60 @@ verylow_socium = {
 			removal_cost = -1
 			
 			modifier = {
- 
+  stability_factor = 0.3
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 low_socium = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+  stability_factor = 0.2
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 middle_socium = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+  stability_factor = 0.15
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 high_socium = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+  stability_factor = 0.10
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 veryhigh_socium = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+  stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 }
 
@@ -871,60 +945,60 @@ verylow_pravo = {
 			removal_cost = -1
 			
 			modifier = {
- 
+  stability_factor = -0.10
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 low_pravo = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = -0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 middle_pravo = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.05
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 high_pravo = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.1
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 veryhigh_pravo = {
 			cost = 150
 			removal_cost = -1
 			
 			modifier = {
- 
+ stability_factor = 0.15
 			}
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 }
 macro_economy = {
@@ -938,7 +1012,7 @@ low_dev_economy = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 high_dev_economy = {
 			cost = 150
@@ -950,7 +1024,7 @@ high_dev_economy = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 high_economy = {
 			cost = 150
@@ -962,7 +1036,7 @@ high_economy = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 }
 #########################################
@@ -977,7 +1051,7 @@ avtark_economy = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 particall_avtark_economy = {
 			cost = 150
@@ -989,7 +1063,7 @@ particall_avtark_economy = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 periferia_economy = {
 			cost = 150
@@ -1001,7 +1075,7 @@ periferia_economy = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 polypolyperiferia_economy = {
 			cost = 150
@@ -1013,7 +1087,7 @@ polypolyperiferia_economy = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 polyperiferia_economy = {
 			cost = 150
@@ -1025,7 +1099,7 @@ polyperiferia_economy = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 center_world_economy = {
 			cost = 150
@@ -1037,7 +1111,7 @@ center_world_economy = {
 			
 			default = no
 			
-			cancel_if_invalid = yes
+			cancel_if_invalid = no
 }
 }
 ######################################################################################################################################################################
@@ -1053,7 +1127,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_1_2 = {
 	
@@ -1066,7 +1140,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_1_3 = {
 	
@@ -1079,7 +1153,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_1_4 = {
 	
@@ -1092,7 +1166,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1108,7 +1182,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_2_2 = {
 	
@@ -1121,7 +1195,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_2_3 = {
 	
@@ -1134,7 +1208,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_2_4 = {
 	
@@ -1147,7 +1221,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_2_5 = {
 	
@@ -1160,7 +1234,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1176,7 +1250,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_3_2 = {
 	
@@ -1189,7 +1263,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_3_3 = {
 	
@@ -1202,7 +1276,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_3_4 = {
 	
@@ -1215,7 +1289,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 } 	
 #########################################################################################
@@ -1231,7 +1305,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_4_2 = {
 	
@@ -1244,7 +1318,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_4_3 = {
 	
@@ -1257,7 +1331,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1273,7 +1347,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_5_2 = {
 	
@@ -1286,7 +1360,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_5_3 = {
 	
@@ -1299,7 +1373,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1315,7 +1389,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_6_2 = {
 	
@@ -1328,7 +1402,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_6_3 = {
 	
@@ -1341,7 +1415,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1357,7 +1431,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_7_2 = {
 	
@@ -1370,7 +1444,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_7_3 = {
 	
@@ -1383,7 +1457,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_7_4 = {
 	
@@ -1396,7 +1470,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1412,7 +1486,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_8_2 = {
 	
@@ -1425,7 +1499,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_8_3 = {
 	
@@ -1438,7 +1512,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1454,7 +1528,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_9_2 = {
 	
@@ -1467,7 +1541,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_9_3 = {
 	
@@ -1480,7 +1554,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_9_4 = {
 	
@@ -1493,7 +1567,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1509,7 +1583,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_10_2 = {
 	
@@ -1522,7 +1596,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_10_3 = {
 	
@@ -1535,7 +1609,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_10_4 = {
 	
@@ -1548,7 +1622,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1564,7 +1638,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_11_2 = {
 	
@@ -1577,7 +1651,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_11_3 = {
 	
@@ -1590,7 +1664,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_11_4 = {
 	
@@ -1603,7 +1677,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################
@@ -1619,7 +1693,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_12_2 = {
 	
@@ -1632,7 +1706,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_12_3 = {
 	
@@ -1645,7 +1719,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 politics_12_4 = {
 	
@@ -1658,7 +1732,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 #########################################################################################

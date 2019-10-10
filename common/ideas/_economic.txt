@@ -8,50 +8,56 @@ cost = 150
 removal_cost = -1
 			
 modifier = {
- 
+
+ consumer_goods_factor = 0.3
+ production_speed_industrial_complex_factor = -0.5
+ production_speed_arms_factory_factor = -0.5
+ conversion_cost_civ_to_mil_factor= 0.5
+ conversion_cost_mil_to_civ_factor = 0.5
+
 }
 			
-default = no
-cancel_if_invalid = yes
+default = yes
+cancel_if_invalid = no
 }
 market_economy = {
 	
-
+available = { OR = { has_government = democratic has_government = neutrality has_government = classical_liberalism }}
 cost = 150
 removal_cost = -1
 			
 modifier = {
- 
+ consumer_goods_factor = 0.25 
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 plan_economy = {
 	
 
 cost = 150
 removal_cost = -1
-			
+		available = { OR = { has_government = communism has_government = fascism }}	
 modifier = {
- 
+  consumer_goods_factor = 0.25
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 mix_economy = {
 	
 
 cost = 150
 removal_cost = -1
-			
+	available = { OR = { has_government = democratic has_government = neutrality has_government = fascism }}		
 modifier = {
- 
+  consumer_goods_factor = 0.25
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -63,11 +69,11 @@ cost = 150
 removal_cost = -1
 			
 modifier = {
- 
+ min_export = 0.8
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 open_economy = {
 	
@@ -76,11 +82,11 @@ cost = 150
 removal_cost = -1
 			
 modifier = {
- 
+ min_export = 0.6
 }
 			
-default = no
-cancel_if_invalid = yes
+default = yes
+cancel_if_invalid = no
 }
 part_open_economy = {
 	
@@ -89,11 +95,11 @@ cost = 150
 removal_cost = -1
 			
 modifier = {
- 
+ min_export = 0.4
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 close_economy = {
 	
@@ -102,11 +108,11 @@ cost = 150
 removal_cost = -1
 			
 modifier = {
- 
+ min_export = 0
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -122,7 +128,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 monosector_economy = {
 	
@@ -135,7 +141,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 manysector_economy = {
 	
@@ -148,7 +154,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 macrosector_economy = {
 	
@@ -161,7 +167,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 globalsector_economy = {
 	
@@ -174,7 +180,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -190,7 +196,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 social_orientation_economy = {
 	
@@ -203,7 +209,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 arist_orientation_economy = {
 	
@@ -216,7 +222,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 oligarch_economy = {
 	
@@ -229,7 +235,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 pragmatic_economy = {
 	
@@ -242,7 +248,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 part_mil_economy = {
 	
@@ -255,7 +261,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 mil_economy = {
 	
@@ -268,7 +274,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -284,7 +290,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 low_stable_economy = {
 	
@@ -297,7 +303,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 stable_economy = {
 	
@@ -310,7 +316,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 high_stable_economy = {
 	
@@ -323,7 +329,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 very_high_stable_economy = {
 	
@@ -336,7 +342,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -352,7 +358,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 low_dev_cifra_economy = {
 	
@@ -365,7 +371,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 dev_cifra_economy = {
 	
@@ -378,7 +384,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 high_dev_cifra_economy = {
 	
@@ -391,7 +397,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 very_high_dev_cifra_economy = {
 	
@@ -404,7 +410,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -420,7 +426,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 mix_prop_economy = {
 	
@@ -433,7 +439,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 private_prop_economy = {
 	
@@ -446,7 +452,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -462,7 +468,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 low_liberty_economy = {
 	
@@ -475,7 +481,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 liberty_economy = {
 	
@@ -488,7 +494,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 high_liberty_economy = {
 	
@@ -501,7 +507,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 very_high_liberty_economy = {
 	
@@ -514,7 +520,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -530,7 +536,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 ungrowtn_economy = {
 	
@@ -543,7 +549,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 stop_growtn_economy = {
 	
@@ -556,7 +562,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 very_low_growtn_economy = {
 	
@@ -569,7 +575,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 low_growtn_economy = {
 	
@@ -582,7 +588,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 growtn_economy = {
 	
@@ -595,7 +601,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 high_growtn_economy = {
 	
@@ -608,7 +614,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 very_high_growtn_economy = {
 	
@@ -621,7 +627,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -637,7 +643,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 low_small_business_economy = {
 	
@@ -650,7 +656,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 small_business_economy = {
 	
@@ -663,7 +669,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 high_small_business_economy = {
 	
@@ -676,7 +682,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 very_high_small_business_economy = {
 	
@@ -689,7 +695,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -705,7 +711,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 low_middle_business_economy = {
 	
@@ -718,7 +724,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 middle_business_economy = {
 	
@@ -731,7 +737,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 high_middle_business_economy = {
 	
@@ -744,7 +750,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 very_high_middle_business_economy = {
 	
@@ -757,7 +763,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -773,7 +779,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 low_large_business_economy = {
 	
@@ -786,7 +792,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 large_business_economy = {
 	
@@ -799,7 +805,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 high_large_business_economy = {
 	
@@ -812,7 +818,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 very_high_large_business_economy = {
 	
@@ -825,7 +831,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ############################################################################################
@@ -841,7 +847,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 nalogi_2 = {
 	
@@ -854,7 +860,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 nalogi_3 = {
 	
@@ -867,7 +873,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 nalogi_4 = {
 	
@@ -880,7 +886,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 nalogi_5 = {
 	
@@ -893,7 +899,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 nalogi_6 = {
 	
@@ -906,7 +912,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 nalogi_7 = {
 	
@@ -919,7 +925,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 nalogi_8 = {
 	
@@ -932,7 +938,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 nalogi_9 = {
 	
@@ -945,7 +951,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 nalogi_10 = {
 	
@@ -958,7 +964,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -974,7 +980,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 ceny_2 = {
 	
@@ -987,7 +993,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 ceny_3 = {
 	
@@ -1000,7 +1006,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 ceny_4 = {
 	
@@ -1013,7 +1019,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 ceny_5 = {
 	
@@ -1026,7 +1032,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -1042,7 +1048,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 monopoli_2 = {
 	
@@ -1055,7 +1061,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 monopoli_3 = {
 	
@@ -1068,7 +1074,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 monopoli_4 = {
 	
@@ -1081,7 +1087,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 monopoli_5 = {
 	
@@ -1094,7 +1100,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 monopoli_6 = {
 	
@@ -1107,7 +1113,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 monopoli_7 = {
 	
@@ -1120,7 +1126,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -1136,7 +1142,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 stroika_2 = {
 	
@@ -1149,7 +1155,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 stroika_3 = {
 	
@@ -1162,7 +1168,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -1178,7 +1184,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 resursy_2 = {
 	
@@ -1191,7 +1197,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 resursy_3 = {
 	
@@ -1204,7 +1210,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 resursy_4 = {
 	
@@ -1217,7 +1223,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 resursy_5 = {
 	
@@ -1230,7 +1236,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 resursy_6 = {
 	
@@ -1243,7 +1249,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 resursy_7 = {
 	
@@ -1256,7 +1262,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -1272,7 +1278,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 subsidii_2 = {
 	
@@ -1285,7 +1291,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 subsidii_3 = {
 	
@@ -1298,7 +1304,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 subsidii_4 = {
 	
@@ -1311,7 +1317,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 subsidii_5 = {
 	
@@ -1324,7 +1330,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 subsidii_6 = {
 	
@@ -1337,7 +1343,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 subsidii_7 = {
 	
@@ -1350,7 +1356,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 subsidii_8 = {
 	
@@ -1363,7 +1369,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -1379,7 +1385,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 focbus_2 = {
 	
@@ -1392,7 +1398,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 focbus_3 = {
 	
@@ -1405,7 +1411,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -1421,7 +1427,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 zarpl_2 = {
 	
@@ -1434,7 +1440,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 zarpl_3 = {
 	
@@ -1447,7 +1453,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 zarpl_4 = {
 	
@@ -1460,7 +1466,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 zarpl_5 = {
 	
@@ -1473,7 +1479,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 zarpl_6 = {
 	
@@ -1486,7 +1492,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 zarpl_7 = {
 	
@@ -1499,7 +1505,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -1515,7 +1521,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 pensi_2 = {
 	
@@ -1528,7 +1534,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 pensi_3 = {
 	
@@ -1541,7 +1547,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 pensi_4 = {
 	
@@ -1554,7 +1560,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 pensi_5 = {
 	
@@ -1567,7 +1573,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 pensi_6 = {
 	
@@ -1580,7 +1586,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 pensi_7 = {
 	
@@ -1593,7 +1599,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -1609,7 +1615,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 socialka_2 = {
 	
@@ -1622,7 +1628,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 socialka_3 = {
 	
@@ -1635,7 +1641,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 socialka_4 = {
 	
@@ -1648,7 +1654,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 socialka_5 = {
 	
@@ -1661,7 +1667,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 socialka_6 = {
 	
@@ -1674,7 +1680,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 socialka_7 = {
 	
@@ -1687,7 +1693,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ######################################
@@ -1703,7 +1709,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 naykafin_2 = {
 	
@@ -1716,7 +1722,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 naykafin_3 = {
 	
@@ -1729,7 +1735,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 naykafin_4 = {
 	
@@ -1742,7 +1748,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 naykafin_5 = {
 	
@@ -1755,7 +1761,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 naykafin_6 = {
 	
@@ -1768,7 +1774,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
  
 }
@@ -1785,7 +1791,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 cultfin_2 = {
 	
@@ -1798,7 +1804,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 cultfin_3 = {
 	
@@ -1811,7 +1817,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 cultfin_4 = {
 	
@@ -1824,7 +1830,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 cultfin_5 = {
 	
@@ -1837,7 +1843,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 cultfin_6 = {
 	
@@ -1850,7 +1856,7 @@ modifier = {
 }
 			
 default = no
-cancel_if_invalid = yes
+cancel_if_invalid = no
 }
 }
 ###################################### 

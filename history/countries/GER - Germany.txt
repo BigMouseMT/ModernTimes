@@ -1,7 +1,11 @@
 ﻿capital = 64
 
 oob = "GER_1936"
-
+add_ideas = {
+UnitedNations
+WTO
+EuropeanUnion
+}
  
 set_politics = {
 	

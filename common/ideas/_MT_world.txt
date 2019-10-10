@@ -1,0 +1,147 @@
+ideas = {
+	country = {
+	
+		EuropeanUnion = {
+			
+			allowed = {
+            always = yes
+			}
+
+ 
+
+			removal_cost = -1
+			
+			modifier = {
+      production_speed_infrastructure_factor = 0.1
+	  production_speed_air_base_factor = 0.05
+	  production_speed_industrial_complex_factor = 0.05
+	  industry_repair_factor = 0.05
+	  consumer_goods_factor = 0.02
+      political_power_factor = 0.10
+	  production_factory_efficiency_gain_factor = 0.05	  
+	  fascism_drift = -0.02
+	  war_support_factor = -0.3
+	  stability_factor = 0.10
+	  surrender_limit = -0.3
+
+			}
+		}
+		SG = {
+			
+			allowed = {
+            always = yes
+			}
+
+ 
+
+			removal_cost = -1
+			
+			modifier = {
+	  production_speed_industrial_complex_factor = 0.01
+      production_speed_infrastructure_factor = 0.01
+	  stability_factor = 0.1	
+      political_power_factor = -0.05
+ 	  industrial_capacity_factory = 0.02
+      research_speed_factor = 0.05
+      army_defence_factor = 0.02	
+      army_org = 2	 
+			}
+		}		
+		SNG = {
+			
+			allowed = {
+            always = yes
+			}
+
+ 
+
+			removal_cost = -1
+			
+			modifier = {
+	  production_speed_industrial_complex_factor = 0.02
+      production_speed_infrastructure_factor = 0.05
+	  consumer_goods_factor = 0.01
+	  fascism_drift = -0.02
+	  stability_factor = 0.05	
+      political_power_factor = 0.05
+      trade_opinion_factor = 0.1		  
+			}
+		}
+		EAEU = {
+			
+			allowed = {
+            always = yes
+			}
+
+ 
+
+			removal_cost = -1
+			
+			modifier = {
+	  production_speed_industrial_complex_factor = 0.05
+      production_speed_infrastructure_factor = 0.03
+	  consumer_goods_factor = 0.02	
+	  production_oil_factor = 0.1
+	  production_factory_max_efficiency_factor = 0.1
+	  local_resources_factor = 0.03
+      political_power_factor = -0.05
+      trade_opinion_factor = 0.3		  
+			}
+		}		
+			UnitedNations = {
+			
+			allowed = {
+            always = yes
+			}
+
+ 
+
+			removal_cost = -1
+			
+			modifier = {
+          research_speed_factor = 0.05
+		  improve_relations_maintain_cost_factor = -0.50
+		  defensive_war_stability_factor = 0.2
+          offensive_war_stability_factor = -0.1
+          political_power_factor = -0.02	  
+			}
+		}
+			WTO = {
+			
+			allowed = {
+            always = yes
+			}
+
+ 
+
+			removal_cost = -1
+			
+			modifier = {
+             production_factory_max_efficiency_factor = 0.1
+			 min_export = 0.1
+			 local_resources_factor = 0.05
+			 improve_relations_maintain_cost_factor = -0.10
+             trade_opinion_factor = 0.40
+             political_power_factor = -0.05				 
+			}
+		}
+				OPEK = {
+			
+			allowed = {
+            always = yes
+			}
+
+ 
+
+			removal_cost = -1
+			
+			modifier = {
+ 	production_speed_synthetic_refinery_factor = 0.2
+    production_oil_factor = 0.3
+    political_power_factor = -0.1
+    fuel_gain_factor = 0.2
+    max_fuel_factor = 0.5	
+			}
+		}
+}
+}

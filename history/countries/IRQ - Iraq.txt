@@ -2,7 +2,9 @@
 
 oob = "IRQ_1936"
 
- 
+  add_ideas = {
+ OPEK
+ }
 
 set_politics = {
 

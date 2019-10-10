@@ -1,5 +1,7 @@
 ﻿capital = 307
-
+ add_ideas = {
+ OPEK
+ }
 oob = "VEN_1936"
 
  

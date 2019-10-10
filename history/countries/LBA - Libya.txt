@@ -1,7 +1,9 @@
 ﻿capital = 448
 
  
-
+ add_ideas = {
+ OPEK
+ }
 set_politics = {
 
  

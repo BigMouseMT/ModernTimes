@@ -6,7 +6,11 @@
 set_technology = {
 
 }
-
+ add_ideas = {
+ WTO
+ SNG
+ EAEU
+ }
 
 
 set_politics = {
