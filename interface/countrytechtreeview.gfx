@@ -450,26 +450,80 @@ spriteTypes = {
 		name = "GFX_science_unavailable_item_bg"
 		textureFile = "gfx//interface//techtree//science_unavailable_item_bg.dds"
 	}
+	# prod
+	spriteType = {
+		name = "GFX_technology_production_folder_small_unavailable_item_bg"
+		textureFile = "gfx//interface//production//tech_small_unavailable_item_bg.dds"
+	}	
+	
+	
+	spriteType = {
+		name = "GFX_technology_production_folder_small_available_item_bg"
+		textureFile = "gfx//interface//production//tech_small_available_item_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_technology_production_folder_small_researched_item_bg"
+		textureFile = "gfx//interface//production//tech_small_researched_item_bg.dds"
+	}
+		frameAnimatedSpriteType = {
+		name = "GFX_technology_production_folder_small_currently_researching_item_bg"
+		texturefile = "gfx//interface//production//tech_small_researching_anim_strip.dds"
+		noOfFrames = 9
+		loadType = "INGAME"
+		transparencecheck = yes
+		animation_rate_fps = 15
+		looping = yes
+		play_on_show = yes
+		pause_on_loop = 0.0
+	}
+			# te
+	spriteType = {
+		name = "GFX_technology_infantry_arsenal_folder_small_unavailable_item_bg"
+		textureFile = "gfx//interface//arsenal//tech_small_arsenal_unavailable_item_bg.dds"
+	}	
+	
+	
+	spriteType = {
+		name = "GFX_technology_infantry_arsenal_folder_small_available_item_bg"
+		textureFile = "gfx//interface//arsenal//tech_small_arsenal_available_item_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_technology_infantry_arsenal_folder_small_researched_item_bg"
+		textureFile = "gfx//interface//arsenal//tech_small_arsenal_researched_item_bg.dds"
+	}
+		frameAnimatedSpriteType = {
+		name = "GFX_technology_infantry_arsenal_folder_small_currently_researching_item_bg"
+		texturefile = "gfx//interface//arsenal//tech_small_arsenal_researching_anim_strip.dds"
+		noOfFrames = 9
+		loadType = "INGAME"
+		transparencecheck = yes
+		animation_rate_fps = 15
+		looping = yes
+		play_on_show = yes
+		pause_on_loop = 0.0
+	}
 		# science
 	spriteType = {
 		name = "GFX_technology_science_folder_small_unavailable_item_bg"
-		textureFile = "gfx//interface//techtree//tech_small_unavailable_item_bg.dds"
+		textureFile = "gfx//interface//science//tech_small_science_unavailable_item_bg.dds"
 	}	
 	
 	
 	spriteType = {
 		name = "GFX_technology_science_folder_small_available_item_bg"
-		textureFile = "gfx//interface//techtree//tech_small_available_item_bg.dds"
+		textureFile = "gfx//interface//science//tech_small_science_available_item_bg.dds"
 	}
 
 	spriteType = {
 		name = "GFX_technology_science_folder_small_researched_item_bg"
-		textureFile = "gfx//interface//techtree//tech_small_researched_item_bg.dds"
+		textureFile = "gfx//interface//science//tech_small_science_researched_item_bg.dds"
 	}	
 	
 	frameAnimatedSpriteType = {
 		name = "GFX_technology_science_folder_small_currently_researching_item_bg"
-		texturefile = "gfx//interface//techtree//tech_small_researching_anim_strip.dds"
+		texturefile = "gfx//interface//science//tech_small_science_researching_anim_strip.dds"
 		noOfFrames = 9
 		loadType = "INGAME"
 		transparencecheck = yes

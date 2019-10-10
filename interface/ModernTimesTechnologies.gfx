@@ -1,8 +1,4 @@
 spriteTypes = {
- 	SpriteType = {
-		name = "GFX_maths_1_medium"
-		texturefile = "gfx/interface/technologies/maths_0.dds" 
-	}
  ###########Пехотное снаряжение и технологии
  	SpriteType = {
 		name = "GFX_light_weapon_equipment_1_medium"

@@ -2277,14 +2277,14 @@ guiTypes = {
 				name = "techtree_stripes"
 				position = { x= 0 y= 0 }
 				size = { 
-					width = 1400 height = 1275
+					width = 1920 height = 1400
 					min = { width = 100%% height = 100%% }
 				}
 				clipping = no
 
 				iconType = {
-					name ="infantry_techtree_bg"
-					spriteType = "GFX_infantry_techtree_bg"
+					name ="production_techtree_bg"
+					spriteType = "GFX_production_techtree_bg"
 					position = { x=0 y=0 }
 					allwaystransparent = yes
 				}			
@@ -2293,12 +2293,47 @@ guiTypes = {
 
 				
 			gridboxtype = {
-				name = "support_weapons_tree"
+				name = "prod_lines_1_tree"
 				position = { x = 140 y = 325 }
 				slotsize = { width = 70 height = 70 }
 				format = "LEFT"
 			}	
-
+						gridboxtype = {
+				name = "prod_opti_1_tree"
+				position = { x = 140 y = 325 }
+				slotsize = { width = 70 height = 70 }
+				format = "LEFT"
+			}	
+						gridboxtype = {
+				name = "prod_army_1_tree"
+				position = { x = 140 y = 325 }
+				slotsize = { width = 70 height = 70 }
+				format = "LEFT"
+			}
+						gridboxtype = {
+				name = "orud_trud_1_tree"
+				position = { x = 140 y = 325 }
+				slotsize = { width = 70 height = 70 }
+				format = "LEFT"
+			}	
+						gridboxtype = {
+				name = "orud_stroi_1_tree"
+				position = { x = 140 y = 325 }
+				slotsize = { width = 70 height = 70 }
+				format = "LEFT"
+			}	
+						gridboxtype = {
+				name = "orud_resurs_1_tree"
+				position = { x = 140 y = 325 }
+				slotsize = { width = 70 height = 70 }
+				format = "LEFT"
+			}
+							gridboxtype = {
+				name = "orud_oil_1_tree"
+				position = { x = 140 y = 325 }
+				slotsize = { width = 70 height = 70 }
+				format = "LEFT"
+			}		
  		
 		}
 
@@ -2920,6 +2955,42 @@ guiTypes = {
 		
 	}
 	#####
+			containerWindowType = {
+		name = "techtree_infantry_arsenal_folder_small_item"
+		position = { x=0 y=0 }
+		size = { width = 42 height = 42 }
+		clipping = no
+
+		background = {
+			name = "bg"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon"
+			position = { x=4 y=4 }
+			spriteType = "GFX_technology_medium"
+			alwaystransparent = yes
+		}	
+		
+		iconType = {
+			name = "bonus_icon"
+			position = { x=-1 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = -1 y = -21 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+	}
 		containerWindowType = {
 		name = "techtree_infantry_arsenal_folder_item"
 		position = { x=0 y=0 }
@@ -3214,6 +3285,43 @@ guiTypes = {
 		name = "techtree_science_folder_small_item"
 		position = { x=0 y=0 }
 		size = { width = 72 height = 72 }
+		clipping = no
+
+		background = {
+			name = "bg"
+			quadTextureSprite ="GFX_technology_unavailable_item_bg"
+		}
+
+		iconType = {
+			name = "Icon"
+			position = { x=4 y=4 }
+			spriteType = "GFX_technology_medium"
+			alwaystransparent = yes
+		}	
+		
+		iconType = {
+			name = "bonus_icon"
+			position = { x=-1 y=-22 }
+			spriteType = "GFX_tech_bonus"
+		}
+		
+		instantTextBoxType = {
+			name = "bonus"
+			position = { x = -1 y = -21 }
+			textureFile = ""
+			font = "hoi_16mbs"
+			borderSize = {x = 4 y = 4}
+			text = "lol boat"
+			maxWidth = 80
+			maxHeight = 20
+			format = center
+		}
+	}
+	##################################ПРОМКА
+			containerWindowType = {
+		name = "techtree_production_folder_small_item"
+		position = { x=0 y=0 }
+		size = { width = 100 height = 100 }
 		clipping = no
 
 		background = {
