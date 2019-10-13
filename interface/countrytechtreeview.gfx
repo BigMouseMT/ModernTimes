@@ -477,6 +477,33 @@ spriteTypes = {
 		play_on_show = yes
 		pause_on_loop = 0.0
 	}
+		# build
+	spriteType = {
+		name = "GFX_technology_building_and_resources_folder_small_unavailable_item_bg"
+		textureFile = "gfx//interface//production//tech_small_unavailable_item_bg.dds"
+	}	
+	
+	
+	spriteType = {
+		name = "GFX_technology_building_and_resources_folder_small_available_item_bg"
+		textureFile = "gfx//interface//production//tech_small_available_item_bg.dds"
+	}
+
+	spriteType = {
+		name = "GFX_technology_building_and_resources_folder_small_researched_item_bg"
+		textureFile = "gfx//interface//production//tech_small_researched_item_bg.dds"
+	}
+		frameAnimatedSpriteType = {
+		name = "GFX_technology_building_and_resources_folder_small_currently_researching_item_bg"
+		texturefile = "gfx//interface//production//tech_small_researching_anim_strip.dds"
+		noOfFrames = 9
+		loadType = "INGAME"
+		transparencecheck = yes
+		animation_rate_fps = 15
+		looping = yes
+		play_on_show = yes
+		pause_on_loop = 0.0
+	}
 			# te
 	spriteType = {
 		name = "GFX_technology_infantry_arsenal_folder_small_unavailable_item_bg"

@@ -35,4 +35,34 @@ resources = {
 		cic = 0.125
 		convoys = 0.1
 	}
+	dif_splav = {
+		icon_frame = 7
+		cic = 0.125
+		convoys = 0.1
+	}
+		resina = {
+		icon_frame = 8
+		cic = 0.125
+		convoys = 0.1
+	}
+		composit = {
+		icon_frame = 9
+		cic = 0.125
+		convoys = 0.1
+	}
+		derevo = {
+		icon_frame = 10
+		cic = 0.125
+		convoys = 0.1
+	}
+		uran = {
+		icon_frame = 11
+		cic = 0.125
+		convoys = 0.1
+	}
+		gaz = {
+		icon_frame = 12
+		cic = 0.125
+		convoys = 0.1
+	}
 }

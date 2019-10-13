@@ -216,6 +216,126 @@ guiTypes = {
 						format = left
 						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
 					}
+					buttonType = {
+						name = "dif_splav_icon"
+						position = { x=60 y=15 }
+						spriteType = "GFX_resources_strip"
+						frame = 7
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+
+					instantTextboxType = {
+						name = "dif_splav_value"
+						position = { x = 95 y = 18 }
+						textureFile = ""
+						font = "hoi_18mbs"
+						borderSize = {x = 0 y = 0}
+						text = "999"
+						maxWidth = 50
+						maxHeight = 20
+						format = left
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}	
+					buttonType = {
+						name = "resina_icon"
+						position = { x=60 y=45 }
+						spriteType = "GFX_resources_strip"
+						frame = 8
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+
+					instantTextboxType = {
+						name = "resina_value"
+						position = { x = 95 y = 48 }
+						textureFile = ""
+						font = "hoi_18mbs"
+						borderSize = {x = 0 y = 0}
+						text = "999"
+						maxWidth = 50
+						maxHeight = 20
+						format = left
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+					buttonType = {
+						name = "composit_icon"
+						position = { x=60 y=75 }
+						spriteType = "GFX_resources_strip"
+						frame = 9
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+
+					instantTextboxType = {
+						name = "composit_value"
+						position = { x = 95 y = 78 }
+						textureFile = ""
+						font = "hoi_18mbs"
+						borderSize = {x = 0 y = 0}
+						text = "999"
+						maxWidth = 50
+						maxHeight = 20
+						format = left
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+					buttonType = {
+						name = "derevo_icon"
+						position = { x=60 y=105 }
+						spriteType = "GFX_resources_strip"
+						frame = 10
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+
+					instantTextboxType = {
+						name = "derevo_value"
+						position = { x = 95 y = 108 }
+						textureFile = ""
+						font = "hoi_18mbs"
+						borderSize = {x = 0 y = 0}
+						text = "999"
+						maxWidth = 50
+						maxHeight = 20
+						format = left
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+					buttonType = {
+						name = "uran_icon"
+						position = { x=60 y=135 }
+						spriteType = "GFX_resources_strip"
+						frame = 11
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+
+					instantTextboxType = {
+						name = "uran_value"
+						position = { x = 95 y = 138 }
+						textureFile = ""
+						font = "hoi_18mbs"
+						borderSize = {x = 0 y = 0}
+						text = "999"
+						maxWidth = 50
+						maxHeight = 20
+						format = left
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+					buttonType = {
+						name = "gaz_icon"
+						position = { x=60 y=165 }
+						spriteType = "GFX_resources_strip"
+						frame = 12
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}
+
+					instantTextboxType = {
+						name = "gaz_value"
+						position = { x = 95 y = 168 }
+						textureFile = ""
+						font = "hoi_18mbs"
+						borderSize = {x = 0 y = 0}
+						text = "999"
+						maxWidth = 50
+						maxHeight = 20
+						format = left
+						#pdx_tooltip = "PRODUCTION_MATERIALS_CHROMIUM"
+					}					
 				}				
 				#################################
 				iconType = {

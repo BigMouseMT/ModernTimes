@@ -147,7 +147,23 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_production_techtree_bg"
 		textureFile = "gfx//interface//techtree//production_techtree_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_building_techtree_bg"
+		textureFile = "gfx//interface//techtree//building_techtree_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_air_building_techtree_bg"
+		textureFile = "gfx//interface//techtree//air_building_techtree_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_avik_building_techtree_bg"
+		textureFile = "gfx//interface//techtree//avik_building_techtree_bg.dds"
 	}	
+		spriteType = {
+		name = "GFX_logo_techtree_bg"
+		textureFile = "gfx//interface//techtree//logotip_proekta.dds"
+	}
 		spriteType = {
 		name = "GFX_air_base_techtree_bg"
 		textureFile = "gfx//interface//techtree//air_base_techtree_bg.dds"

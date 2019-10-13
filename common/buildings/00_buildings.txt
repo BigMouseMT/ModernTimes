@@ -9,7 +9,7 @@ buildings = {
 		base_cost = 3000
 		icon_frame = 3
 		infrastructure = yes
-		max_level = 10
+		max_level = 25
 		value = 1
 
 		show_modifier = yes
@@ -22,12 +22,78 @@ buildings = {
 		base_cost_conversion = 4000
 		military_production = 1
 		icon_frame = 2
-		max_level = 20
+		max_level = 15
+		shares_slots = yes
+		value = 8
+		infrastructure_construction_effect = yes
+ 
+	}
+	auto_arms_factory = {
+		show_on_map = 6
+		base_cost = 7200
+		base_cost_conversion = 4000
+		military_production = 1
+		icon_frame = 21
+		max_level = 10
 		shares_slots = yes
 		value = 8
 		infrastructure_construction_effect = yes
 	}
-
+		tanks_arms_factory = {
+		show_on_map = 6
+		base_cost = 7200
+		base_cost_conversion = 4000
+		military_production = 1
+		icon_frame = 22
+		max_level = 5
+		shares_slots = yes
+		value = 8
+		infrastructure_construction_effect = yes
+	}
+		light_rocket_arms_factory = {
+		show_on_map = 6
+		base_cost = 7200
+		base_cost_conversion = 4000
+		military_production = 1
+		icon_frame = 23
+		max_level = 5
+		shares_slots = yes
+		value = 8
+		infrastructure_construction_effect = yes
+	}
+		rocket_arms_factory = {
+		show_on_map = 6
+		base_cost = 7200
+		base_cost_conversion = 4000
+		military_production = 1
+		icon_frame = 24
+		max_level = 5
+		shares_slots = yes
+		value = 8
+		infrastructure_construction_effect = yes
+	}
+		light_heli_arms_factory = {
+		show_on_map = 6
+		base_cost = 7200
+		base_cost_conversion = 4000
+		military_production = 1
+		icon_frame = 25
+		max_level = 5
+		shares_slots = yes
+		value = 8
+		infrastructure_construction_effect = yes
+	}
+		air_arms_factory = {
+		show_on_map = 6
+		base_cost = 7200
+		base_cost_conversion = 4000
+		military_production = 1
+		icon_frame = 26
+		max_level = 5
+		shares_slots = yes
+		value = 8
+		infrastructure_construction_effect = yes
+	}
 	industrial_complex = {
 		show_on_map = 6
 		base_cost = 10800
@@ -36,10 +102,81 @@ buildings = {
 		icon_frame = 1
 		max_level = 20
 		shares_slots = yes
+		refinery = yes		
 		value = 5
 		infrastructure_construction_effect = yes
 	}
-
+	metalurg_industrial_complex = {
+		show_on_map = 6
+		base_cost = 10800
+		base_cost_conversion = 9000
+		general_production = 1
+		icon_frame = 15
+		max_level = 20
+		shares_slots = yes
+		refinery = yes		
+		value = 5
+		infrastructure_construction_effect = yes
+	}
+		super_metalurg_industrial_complex = {
+		show_on_map = 6
+		base_cost = 10800
+		base_cost_conversion = 9000
+		general_production = 1
+		icon_frame = 16
+		max_level = 20
+		shares_slots = yes
+		refinery = yes		
+		value = 5
+		infrastructure_construction_effect = yes
+	}
+		lesoobr_industrial_complex = {
+		show_on_map = 6
+		base_cost = 10800
+		base_cost_conversion = 9000
+		general_production = 1
+		icon_frame = 18
+		max_level = 20
+		shares_slots = yes
+		refinery = yes		
+		value = 5
+		infrastructure_construction_effect = yes
+	}
+		compozit_industrial_complex = {
+		show_on_map = 6
+		base_cost = 10800
+		base_cost_conversion = 9000
+		general_production = 1
+		icon_frame = 17
+		max_level = 20
+		shares_slots = yes
+		refinery = yes		
+		value = 5
+		infrastructure_construction_effect = yes
+	}
+		kaych_industrial_complex = {
+		show_on_map = 6
+		base_cost = 10800
+		base_cost_conversion = 9000
+		general_production = 1
+		icon_frame = 19
+		max_level = 20
+		shares_slots = yes
+		refinery = yes		
+		value = 5
+		infrastructure_construction_effect = yes
+	}
+		neftehim_industrial_complex = {
+		show_on_map = 6
+		base_cost = 10800
+		base_cost_conversion = 9000
+		general_production = 1
+		icon_frame = 20
+		max_level = 20
+		shares_slots = yes
+		refinery = yes
+		value = 5
+	}
 	air_base = {
 		show_on_map = 1
 		base_cost = 1250
@@ -103,7 +240,19 @@ buildings = {
 		value = 5
 		infrastructure_construction_effect = yes
 	}
-
+	improve_dockyard = {
+		show_on_map = 1
+		show_on_map_meshes = 3
+		base_cost = 6400
+		only_costal = yes
+		naval_production = 1
+		icon_frame = 27
+		only_costal = yes
+		max_level = 20
+		shares_slots = yes
+		value = 5
+		infrastructure_construction_effect = yes
+	}
 	
 	anti_air_building = {
 		show_on_map = 3
@@ -121,8 +270,10 @@ buildings = {
 		show_on_map = 1
 		base_cost = 14500
 		icon_frame = 10
-		#local_resources_oil = 1 # May use local_resources_ + any resource name
+		local_resources_oil = 1 # May use local_resources_ + any resource name
 		local_resources_rubber = 1 # May use local_resources_ + any resource name
+				local_resources_composit = -1 # May use local_resources_ + any resource name
+						local_resources_derevo = -1 # May use local_resources_ + any resource name
 		refinery = yes
 		max_level = 3 # This is the max unlock level
 		shares_slots = yes

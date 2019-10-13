@@ -32,6 +32,48 @@
  synthetic_refinery_desc:0 "Это сооружение производит в регионе"
  synthetic_refinery_amount:0 "$VALUE|Y0=$"
  synthetic_refinery_resource:0 "£resources_strip|$FRAME$"
+ #
+ industrial_complex_desc:0 "Это сооружение производит в регионе"
+ industrial_complex_amount:0 "$VALUE|Y0=$"
+ industrial_complex_resource:0 "£resources_strip|$FRAME$"
+ #
+ metalurg_industrial_complex:0 "Металлургическое предприятие"
+ metalurg_industrial_complex_plural:0 "Металлургические предприятия" 
+ metalurg_industrial_complex_desc:0 "Это сооружение производит в регионе"
+ metalurg_industrial_complex_amount:0 "$VALUE|Y0=$"
+ metalurg_industrial_complex_resource:0 "£resources_strip|$FRAME$"
+ #
+ super_metalurg_industrial_complex:0 "Продвинутое металлургическое предприятие"
+ super_metalurg_industrial_complex_plural:0 "Продвинутые металлургические предприятия" 
+ super_metalurg_industrial_complex_desc:0 "Это сооружение производит в регионе"
+ super_metalurg_industrial_complex_amount:0 "$VALUE|Y0=$"
+ super_metalurg_industrial_complex_resource:0 "£resources_strip|$FRAME$"
+ #
+ lesoobr_industrial_complex:0 "Лесообрабатывающее предприятие"
+ lesoobr_industrial_complex_plural:0 "Лесообрабатывающие предприятия" 
+ lesoobr_industrial_complex_desc:0 "Это сооружение производит в регионе"
+ lesoobr_industrial_complex_amount:0 "$VALUE|Y0=$"
+ lesoobr_industrial_complex_resource:0 "£resources_strip|$FRAME$"
+ #
+ compozit_industrial_complex:0 "Предприятие по производству композитных материалов"
+ compozit_industrial_complex_plural:0 "Предприятия по производству композитных материалов" 
+ compozit_industrial_complex_desc:0 "Это сооружение производит в регионе"
+ compozit_industrial_complex_amount:0 "$VALUE|Y0=$"
+ compozit_industrial_complex_resource:0 "£resources_strip|$FRAME$"
+ #
+ kaych_industrial_complex:0 "Предприятие по производству синтетического каучука"
+ kaych_industrial_complex_plural:0 "Предприятия по производству синтетического каучука" 
+ kaych_industrial_complex_desc:0 "Это сооружение производит в регионе"
+ kaych_industrial_complex_amount:0 "$VALUE|Y0=$"
+ kaych_industrial_complex_resource:0 "£resources_strip|$FRAME$"
+ #
+ neftehim_industrial_complex:0 "Нефтехимический промышленный комплекс"
+ neftehim_industrial_complex_plural:0 "Нефтехимический промышленный комплекс" 
+ neftehim_industrial_complex_desc:0 "Это сооружение производит в регионе"
+ neftehim_industrial_complex_amount:0 "$VALUE|Y0=$"
+ neftehim_industrial_complex_resource:0 "£resources_strip|$FRAME$"
+ #
+ 
  radar_station:0 "Радиолокационная станция"
  radar_station_plural:0 "Радиолокационные станции"
  radar_station_desc:0 "РЛС предоставляет вам данные о вражеских войсках в ближайших регионах.\nЧем выше его уровень, тем больше радиус действия.\nТакже он позволяет эффективнее обнаруживать вражескую авиацию в регионе, повышая шансы на успех ваших летчиков.\nКроме того, радары улучшают обнаружение вражеских флотов."

@@ -2207,4 +2207,1156 @@
 			factor = 10
 		}
 	}
+	
+	#################################################################################################################################
+			infra_1 = {
+		
+		path = {
+			leads_to_tech = infra_2
+			research_cost_coeff = 1
+		}
+				path = {
+			leads_to_tech = sub_infra_1
+			research_cost_coeff = 1
+		}
+				path = {
+			leads_to_tech = sub_infra_2
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @0 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				sub_infra_1 = {
+		
+ 
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @0 y = 0 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				sub_infra_2 = {
+		
+ 
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @0 y = 4 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				infra_2 = {
+		
+		path = {
+			leads_to_tech = infra_3
+			research_cost_coeff = 1
+		}
+				path = {
+			leads_to_tech = sub_infra_3
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @1 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					sub_infra_3 = {
+		
+ 
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @1 y = 4 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				infra_3 = {
+				
+		path = {
+			leads_to_tech = sub_infra_4
+			research_cost_coeff = 1
+		}				
+		path = {
+			leads_to_tech = sub_infra_5
+			research_cost_coeff = 1
+		}		
+		path = {
+			leads_to_tech = infra_4
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @2 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					sub_infra_4 = {
+		
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @2 y = 0 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					sub_infra_5 = {
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @2 y = 4 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				infra_4 = {
+		
+		path = {
+			leads_to_tech = infra_5
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = sub_infra_6
+			research_cost_coeff = 1
+		}		
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @3 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				sub_infra_6 = {
+		
+ 	
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @3 y = 0 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}	
+				infra_5 = {
+		
+		path = {
+			leads_to_tech = infra_6
+			research_cost_coeff = 1
+		}
+				path = {
+			leads_to_tech = sub_infra_7
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @4 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				sub_infra_7 = {
+		
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @4 y = 4 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}	
+				infra_6 = {
+		
+		path = {
+			leads_to_tech = infra_7
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = sub_infra_8
+			research_cost_coeff = 1
+		}		
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @5 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				sub_infra_8 = {
+		
+ 	
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @5 y = 5 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}	
+				infra_7 = {
+		
+		path = {
+			leads_to_tech = infra_8
+			research_cost_coeff = 1
+		}
+		path = {
+			leads_to_tech = sub_infra_9
+			research_cost_coeff = 1
+		}		
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @6 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				sub_infra_9 = {
+		
+ 		
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @6 y = 9 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}	
+				infra_8 = {
+		
+		path = {
+			leads_to_tech = infra_9
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @7 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				infra_9 = {
+		
+		path = {
+			leads_to_tech = infra_10
+			research_cost_coeff = 1
+		}
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @8 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				infra_10 = {
+		
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @9 y = 2 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	##########
+				base_metalurg_1 = {
+		
+		path = {
+			leads_to_tech = base_metalurg_2
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @0 y = 7 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					base_metalurg_2 = {
+		
+		path = {
+			leads_to_tech = base_metalurg_3
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @0 y = 9 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					base_metalurg_3 = {
+		
+		path = {
+			leads_to_tech = base_metalurg_4
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @0 y = 11 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					base_metalurg_4 = {
+		
+		path = {
+			leads_to_tech = base_metalurg_5
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @0 y = 13 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					base_metalurg_5 = {
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = @0 y = 15 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+		##########
+				super_metalurg_1 = {
+		
+		path = {
+			leads_to_tech = super_metalurg_2
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 1 y = 7 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					super_metalurg_2 = {
+		
+		path = {
+			leads_to_tech = super_metalurg_3
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 1 y = 9 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					super_metalurg_3 = {
+		
+		path = {
+			leads_to_tech = super_metalurg_4
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 1 y = 11 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					super_metalurg_4 = {
+		
+		path = {
+			leads_to_tech = super_metalurg_5
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 1 y = 13 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					super_metalurg_5 = {
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 1 y = 15 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+	
+			##########
+				compozit_1 = {
+		
+		path = {
+			leads_to_tech = compozit_2
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 4 y = 7 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					compozit_2 = {
+		
+		path = {
+			leads_to_tech = compozit_3
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 4 y = 9 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					compozit_3 = {
+		
+		path = {
+			leads_to_tech = compozit_4
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 4 y = 11 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					compozit_4 = {
+		
+		path = {
+			leads_to_tech = compozit_5
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 4 y = 13 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					compozit_5 = {
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 4 y = 15 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				##########
+				les_1 = {
+		
+		path = {
+			leads_to_tech = les_2
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 7 y = 7 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					les_2 = {
+		
+		path = {
+			leads_to_tech = les_3
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 7 y = 9 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					les_3 = {
+		
+		path = {
+			leads_to_tech = les_4
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 7 y = 11 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					les_4 = {
+		
+		path = {
+			leads_to_tech = les_5
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 7 y = 13 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					les_5 = {
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 7 y = 15 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				##########
+				nefteper_1 = {
+		
+		path = {
+			leads_to_tech = nefteper_2
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 13 y = 7 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					nefteper_2 = {
+		
+		path = {
+			leads_to_tech = nefteper_3
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 13 y = 9 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					nefteper_3 = {
+		
+		path = {
+			leads_to_tech = nefteper_4
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 13 y = 11 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					nefteper_4 = {
+		
+		path = {
+			leads_to_tech = nefteper_5
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 13 y = 13 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					nefteper_5 = {
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 13 y = 15 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				##########
+				kaych_1 = {
+		
+		path = {
+			leads_to_tech = kaych_2
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 15 y = 7 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					kaych_2 = {
+		
+		path = {
+			leads_to_tech = kaych_3
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 15 y = 9 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					kaych_3 = {
+		
+		path = {
+			leads_to_tech = kaych_4
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 15 y = 11 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					kaych_4 = {
+		
+		path = {
+			leads_to_tech = kaych_5
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 15 y = 13 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					kaych_5 = {
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 15 y = 15 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+				##########
+				neftehim_1 = {
+		
+		path = {
+			leads_to_tech = neftehim_2
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 17 y = 7 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					neftehim_2 = {
+		
+		path = {
+			leads_to_tech = neftehim_3
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 17 y = 9 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					neftehim_3 = {
+		
+		path = {
+			leads_to_tech = neftehim_4
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 17 y = 11 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					neftehim_4 = {
+		
+		path = {
+			leads_to_tech = neftehim_5
+			research_cost_coeff = 1
+		}
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 17 y = 13 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
+					neftehim_5 = {
+ 
+		research_cost = 1.5
+		start_year = 1985
+		folder = {
+			name = building_and_resources_folder
+			position = { x = 17 y = 15 }
+		}
+		
+		categories = {
+			air
+		}
+		
+		ai_will_do = {
+			factor = 10
+		}
+	}
 }		
